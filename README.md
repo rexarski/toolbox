@@ -185,6 +185,8 @@ Uninstalled
 
 ## App-specific plugins and settings
 
+### Things 3
+
 ### VSCode
 
 ### calibre
@@ -198,6 +200,11 @@ Uninstalled
 ### Karabiner
 
 Complex modifications: Change `caps_lock` to `command+control+option+shift`.
+
+- `caps_lock` + `1/2/3/4`: current window to the 1st/2nd/3rd/4th quadrant of the screen
+- `caps_lock` + `A`: turn on/off [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
+- `caps_lock` + `D`: create new reminder in [Due](https://www.dueapp.com/)
+- `caps_lock` + `F`: create new event/reminder in [Fantastical](https://flexibits.com/fantastical)
 
 ## Font selections
 
