@@ -2,43 +2,46 @@
 
 - [ ] Generate a toc. https://github.com/ekalinin/github-markdown-toc
 
-## macOS
+## 🖥️ macOS
 
-### New machine setup checklist
+New machine setup checklist
 
 - [ ] Install Chrome.
 - [ ] Install 1Password.
 - [ ] Set up iCloud account.
-- [ ] Install Dropbox
+- [ ] Install Dropbox.
+- [ ] Install iTerm 2.
 - [ ] Install essential applications in the following list.
-
-### App list
 
 > A list of applications installed and/or frequently used on my device.
 
-🛠 系统拓展
-📁 文件管理
-🔐 安全工具
-🌏 网络工具
-🧰 实用工具
-📝 记录工具
-👨🏻‍💻 开发工具
-  code editor
-  terminal
-  数据库管理
-  文档查看: Dash，配合 Alfred 查文档很方便
-  版本控制
-📹 视频剪辑
-📷 图片处理
-📮 邮件管理
-📨 信息管理
-💬 通讯社交
-🎸 影音娱乐
+### 🛠 System Extension
+
+### 📁 File Management
+
+### 🔐 Security and Encryption
+
+- [1Password](https://1password.com/). THE password manager for the last decade. Requires yearly subscription.
+
+### 🌏 Internet
+
+### 🧰 Utilities
+
+### 📝 Logging
+
+### 👨🏻‍💻 Development
+
+### 📷 Media
+
+### 📮 Information
+
+### 💬 Messaging
+
+### 🎮 Entertainment
 
 
 | Name  | Note | License | Subscription | Setapp | App Store |
-| :---: | :--- | :---: |:---: | :---: | :---: |
-| [1Password](https://1password.com/) | THE password manager. | | ✅ | | |
+|  | THE password manager. | | ✅ | | |
 | [Affinity Designer](https://affinity.serif.com/en-us/designer/) |  | | | | ✅ |
 | [Affinity Photo](https://affinity.serif.com/en-us/photo/) | | ✅ | | | |
 | [AlDente](https://github.com/davidwernhart/AlDente) | | ✅ | | | |
@@ -70,7 +73,7 @@
 - Dash, 🎫🇺🇦
 - Day One, 🍎🔁
 - DEVONthink 3, 🎫
-- Discord
+- Discord -> Swiftcord
 - Downie, 🇺🇦
 - Drafts, 🍎🔁
 - Dropbox
@@ -92,6 +95,9 @@
 - iStat Menus, 🇺🇦
 - iTerm 2
 - JetBrains Toolbox
+  - WebStorm
+  - DataSpell
+  - PyCharm
 - Karabiner Elements, [🔗](https://karabiner-elements.pqrs.org/)
 - Keka
 - Kindle, 🍎
@@ -144,7 +150,7 @@
 - 剪映, [🔗](https://lv.ulikecam.com/)
 
 
-#### Archived
+Archived
 
 - Aerial, [🔗](https://github.com/JohnCoates/Aerial)
 - Airtable
@@ -194,29 +200,69 @@
 
 ***
 
-### Open-source alternatives
+## 📱 iOS/iPad OS
 
-### Miscellaneous
+> Only the essentials
 
-## iOS/iPad OS
+- Anki
+- Apollo
+- Bobby
+- CARROT Weather
+- Day One
+- Drafts
+- Dropbox
+- Due
+- Fantastical
+- Forest
+- GoodNotes
+- Google Maps
+- HiCoffee
+- HiWater
+- Hobi
+- Instapaper
+- MD Clock
+- Noir
+- NOMO CAM
+- nPlayer
+- O’Reilly
+- Opener
+- PCalc
+- PDF Expert
+- Pixelmator Photo
+- Pins
+- Pocket Casts
+- Raindrop.io
+- Reeder
+- Scanner Pro
+- Slack
+- Spark
+- Splitwise
+- Spotify
+- Substack
+- Telegram
+- The Athletic
+- Things
+- Transit
+- Tweetbot
+- WeChat
+- 1Blocker
+- 1Password
 
-### A selection of apps
+## 🔍 App-specific plugins and settings
 
-## App-specific plugins and settings
+### ✔️ Things 3
 
-### Things 3
+### 💻 VSCode
 
-### VSCode
+### 📚 calibre
 
-### calibre
+### 💎 Obsidian
 
-### Obsidian
+### 📝 Drafts
 
-### Drafts
+### 🖤 iTerms
 
-### iTerms
-
-### Karabiner
+### 🧗‍♂️ Karabiner
 
 Complex modifications: Change `caps_lock` to `command+control+option+shift`.
 
@@ -225,9 +271,35 @@ Complex modifications: Change `caps_lock` to `command+control+option+shift`.
 - `caps_lock` + `D`: create new reminder in [Due](https://www.dueapp.com/)
 - `caps_lock` + `F`: create new event/reminder in [Fantastical](https://flexibits.com/fantastical)
 
-## Font selections
+## 🔠 Font selections
 
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/), monospace
 - [Lexend](https://www.lexend.com/), sans serif
 - [Montserat](https://fonts.google.com/specimen/Montserrat), sans serif
 - Roboto family (Slab, Mono, Condensed, Serif, Flex)
+
+
+## 🚥 Chrome extensions
+
+## 🔃 Service subscriptions
+
+- Pinboard
+- YouTube
+- Amazon Prime
+- Netflix
+- GoDaddy
+- The Athletic
+- Netlify
+- Feedbin
+- Spotify
+- FlowingData
+
+- 1Password
+
+- Day One
+- NOMO CAM
+- Tweetbot 6
+
+- Nintendo Switch Online
+- F1 TV Pro
+- Setapp
