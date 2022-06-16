@@ -1,20 +1,55 @@
 # Toolbox
 
+- [ ] Generate a toc. https://github.com/ekalinin/github-markdown-toc
+
 ## macOS
 
 ### New machine setup checklist
 
-- [ ] Finish this section.
+- [ ] Install Chrome.
+- [ ] Install 1Password.
+- [ ] Set up iCloud account.
+- [ ] Install Dropbox
+- [ ] Install essential applications in the following list.
 
 ### App list
 
 > A list of applications installed and/or frequently used on my device.
 
+🛠 系统拓展
+📁 文件管理
+🔐 安全工具
+🌏 网络工具
+🧰 实用工具
+📝 记录工具
+👨🏻‍💻 开发工具
+  code editor
+  terminal
+  数据库管理
+  文档查看: Dash，配合 Alfred 查文档很方便
+  版本控制
+📹 视频剪辑
+📷 图片处理
+📮 邮件管理
+📨 信息管理
+💬 通讯社交
+🎸 影音娱乐
+
+
 | Name  | Note | License | Subscription | Setapp | App Store |
 | :---: | :--- | :---: |:---: | :---: | :---: |
 | [1Password](https://1password.com/) | THE password manager. | | ✅ | | |
-| Affinity Designer |  | | | | ✅ |
-| Affinity Photo | | ✅ | | | |
+| [Affinity Designer](https://affinity.serif.com/en-us/designer/) |  | | | | ✅ |
+| [Affinity Photo](https://affinity.serif.com/en-us/photo/) | | ✅ | | | |
+| [AlDente](https://github.com/davidwernhart/AlDente) | | ✅ | | | |
+| Alfred | | ✅ | | | |
+| Amphetamine | | | | | ✅ |
+| Anaconda | | | | | |
+| Anki | | | | | |
+| Bartender | | ✅ | | ✅ | |
+| [calibre](https://calibre-ebook.com/) | | | | | |
+| Capture One | | | | | |
+
 
 - [ ] Organize this section.
 
@@ -25,19 +60,6 @@
 🔗: url
 
 
-***
-
-- Affinity Designer, 🍎
-- Affinity Photo, 🎫
-- AlDente, 🎫, [🔗](https://github.com/davidwernhart/AlDente/releases)
-- Alfred 4, 🎫
-- Amphetamine, 🍎
-- Anaconda
-- Anki
-- Appium
-- Bartender 4, 🎫🇺🇦
-- calibre, [🔗](https://calibre-ebook.com/)
-- Capture One
 - CARROTweather, 🍎
 - CheatSheet, [🔗](https://www.mediaatelier.com/CheatSheet/)
 - CleanMyMac X, 🇺🇦
@@ -122,20 +144,18 @@
 - 剪映, [🔗](https://lv.ulikecam.com/)
 
 
-Uninstalled
+#### Archived
 
 - Aerial, [🔗](https://github.com/JohnCoates/Aerial)
 - Airtable
+- Appium
 - Audacity
-- Baidu网盘
-- Battle.net
 - Buckets, [🔗](https://www.budgetwithbuckets.com/)
 - Bit-Slicer
 - Clear, 🍎
 - Cool Retro Term
 - f.lux
 - Encrypto, 🍎
-- Firefox
 - GitKraken, 🔁
 - Handbrake
 - HazeOver, 🎫
@@ -158,7 +178,6 @@ Uninstalled
 - Pixen, 🍎
 - Plash, 🍎[🔗](https://sindresorhus.com/plash)
 - Polarr Photo Editor Pro, 🎫
-- Poolside FM
 - QQ
 - Shottr, [🔗](https://shottr.cc/)
 - Skim, [🔗](https://skim-app.sourceforge.io/)
