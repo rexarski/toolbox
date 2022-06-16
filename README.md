@@ -273,10 +273,20 @@ Complex modifications: Change `caps_lock` to `command+control+option+shift`.
 
 ## 🔠 Font selections
 
-- [JetBrains Mono](https://www.jetbrains.com/lp/mono/), monospace
 - [Lexend](https://www.lexend.com/), sans serif
-- [Montserat](https://fonts.google.com/specimen/Montserrat), sans serif
-- Roboto family (Slab, Mono, Condensed, Serif, Flex)
+- [Montserrat](https://fonts.google.com/specimen/Montserrat), sans serif
+- Roboto family
+  - [Roboto](https://fonts.google.com/specimen/Roboto), sans serif
+  - [Roboto Condensed](https://fonts.google.com/specimen/Roboto+Condensed), sans serif
+  - [Roboto Flex](https://fonts.google.com/specimen/Roboto+Flex), sans serif
+  - [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab), serif
+  - [Roboto Serif](https://fonts.google.com/specimen/Roboto+Serif), serif
+  - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono), monospace
+- [IBM 3270]([https://www.ibm.com/plex/)](https://github.com/rbanffy/3270font), monospace
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/), monospace
+- [Ubuntu Monospace](https://design.ubuntu.com/font/), monospace
+
+![Regular, 12pt](image/fonts.png)
 
 
 ## 🚥 Chrome extensions
