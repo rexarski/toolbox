@@ -17,7 +17,14 @@ New machine setup checklist
 
 ### 🛠 System Extension
 
+- [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. Requires a license for complete list of features.
+- [Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased.
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). Only available on App Store.
+- [Bartender](https://www.macbartender.com/). macOS Menubar extension. License purchased but also included in Setapp.
+
 ### 📁 File Management
+
+- [calibre](https://calibre-ebook.com/). E-book management software.
 
 ### 🔐 Security and Encryption
 
@@ -25,43 +32,63 @@ New machine setup checklist
 
 ### 🌏 Internet
 
+- [Chrome](https://www.google.com/chrome/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- Safari
+
+| Plugin | Chrome | Firefox | Safari |
+|------:|:------:|:-------:|:------:|
+|[1Password](https://1password.com/)|✅|✅|✅|
+|[Dark Reader](https://darkreader.org/)|✅|✅|✅|
+|[Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube)|✅|✅|❌|
+|[Hypothesis](https://web.hypothes.is/help/installing-the-chrome-extension/)|✅|❌|❌|
+|[Instapaper](https://www.instapaper.com/save)|✅|✅|✅|
+|[Downie](https://blog.charliemonroe.net/downie-and-chrome/)|✅|✅|✅|
+|[Keepa](https://keepa.com/#!)|✅|❌|❌|
+|[Modern for Wikipedia](https://www.modernwiki.app/)|✅|✅|❌|
+|[OneTab](https://www.one-tab.com/)|✅|✅|❌|
+|[Pinboard Plus](https://chrome.google.com/webstore/detail/pinboard-plus/mphdppdgoagghpmmhodmfajjlloijnbd?hl=en)|✅|❌|❌|
+|[Pinboard WebExtension](https://github.com/gapop/pinboard-webextension)|❌|✅|❌|
+|[Raindrop.io](https://raindrop.io/)|✅|❌|❌|
+|[RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar)|✅|✅|❌|
+|[Session Buddy](https://sessionbuddy.com/)|✅|❌|❌|
+|[SingleFile](https://github.com/gildas-lormeau/SingleFile)|✅|✅|❌|
+|[SteamDB](https://steamdb.info/)|✅|✅|❌|
+|[uBlock Origin](https://github.com/gorhill/uBlock)|✅|✅|❌|
+|[豆伴：豆瓣账号备份工具](https://blog.doufen.org/posts/tofu-user-guide/)|✅|❌|❌|
+|[Auto Tab Discard](https://add0n.com/tab-discard.html)|✅|✅|❌|
+|[HTTPS Everywhere](https://www.eff.org/https-everywhere)|✅|✅|❌|
+
 ### 🧰 Utilities
 
 ### 📝 Logging
 
 ### 👨🏻‍💻 Development
 
+- [Anaconda](https://www.anaconda.com/). Data science resource management for Python (mainly) and R (not really.)
+
 ### 📷 Media
 
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/). Purchased on [App Store](https://apps.apple.com/us/app/affinity-designer/id1274090551).
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/). Purchased from the developer.
+- ~~[Capture One](https://www.captureone.com/en). Free activation code gifted with a Fujifilm camera. Not that frequently used too.~~
+
 ### 📮 Information
+
+- [Anki](https://apps.ankiweb.net/). A open-source flashcard tool.
 
 ### 💬 Messaging
 
 ### 🎮 Entertainment
 
 
-| Name  | Note | License | Subscription | Setapp | App Store |
-|  | THE password manager. | | ✅ | | |
-| [Affinity Designer](https://affinity.serif.com/en-us/designer/) |  | | | | ✅ |
-| [Affinity Photo](https://affinity.serif.com/en-us/photo/) | | ✅ | | | |
-| [AlDente](https://github.com/davidwernhart/AlDente) | | ✅ | | | |
-| Alfred | | ✅ | | | |
-| Amphetamine | | | | | ✅ |
-| Anaconda | | | | | |
-| Anki | | | | | |
-| Bartender | | ✅ | | ✅ | |
-| [calibre](https://calibre-ebook.com/) | | | | | |
-| Capture One | | | | | |
-
-
-- [ ] Organize this section.
-
+```
 🎫: requires a license
 🔁: requires a subscription
 🇺🇦: included in Setapp
 🍎: downloaded from App Store
 🔗: url
-
+```
 
 - CARROTweather, 🍎
 - CheatSheet, [🔗](https://www.mediaatelier.com/CheatSheet/)
@@ -76,6 +103,8 @@ New machine setup checklist
 - Discord -> Swiftcord
 - Downie, 🇺🇦
 - Drafts, 🍎🔁
+  - Command + Shift + 1 = Drafts main window
+  - Command + Shift + 2 = Drafts quick entry
 - Dropbox
 - Expressions, 🇺🇦
 - Fantastical 3, 🎫
@@ -177,6 +206,7 @@ Archived
 - Microsoft Edge
 - NetNewsWire, [🔗](https://netnewswire.com/)
 - Notion
+  - Anytype, an alternative
 - OBS
 - OpenEmu
 - OpenRA, [🔗](https://www.openra.net/)
@@ -185,7 +215,11 @@ Archived
 - Plash, 🍎[🔗](https://sindresorhus.com/plash)
 - Polarr Photo Editor Pro, 🎫
 - QQ
-- Shottr, [🔗](https://shottr.cc/)
+- ~~Shottr, [🔗](https://shottr.cc/)~~
+  - ~~Command + Shift + 3 = Shottr area screenshot~~
+  - ~~Command + Shift + 4 = Shottr active window screenshot~~
+  - ~~Command + Shift + 5 = Shottr fullscreen screenshot~~
+  - ~~Command + Shift + 6 = Shottr scrolling screenshot~~
 - Skim, [🔗](https://skim-app.sourceforge.io/)
 - Streaks, 🍎
 - Surge 3, 🎫
@@ -270,6 +304,7 @@ Complex modifications: Change `caps_lock` to `command+control+option+shift`.
 - `caps_lock` + `A`: turn on/off [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
 - `caps_lock` + `D`: create new reminder in [Due](https://www.dueapp.com/)
 - `caps_lock` + `F`: create new event/reminder in [Fantastical](https://flexibits.com/fantastical)
+
 
 ## 🔠 Font selections
 
