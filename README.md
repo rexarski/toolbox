@@ -15,12 +15,19 @@ New machine setup checklist
 
 > A list of applications installed and/or frequently used on my device.
 
+```
+🎫: requires a license
+🔁: requires a recurring subscription
+🇺🇦: included in Setapp
+🍎: downloaded from App Store
+```
+
 ### 🛠 System Extension
 
-- [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. Requires a license for complete list of features.
-- [Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased.
-- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). Only available on App Store.
-- [Bartender](https://www.macbartender.com/). macOS Menubar extension. License purchased but also included in Setapp.
+- [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. Requires a license for complete list of features. Also available in Setapp. 🎫🇺🇦
+- [Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). Only available on App Store. 🍎
+- [Bartender](https://www.macbartender.com/). macOS Menubar extension. License purchased but also included in Setapp. 🎫🇺🇦
 
 ### 📁 File Management
 
@@ -28,7 +35,7 @@ New machine setup checklist
 
 ### 🔐 Security and Encryption
 
-- [1Password](https://1password.com/). THE password manager for the last decade. Requires yearly subscription.
+- [1Password](https://1password.com/). THE password manager for the last decade. Requires yearly subscription. 🔁
 
 ### 🌏 Internet
 
@@ -69,29 +76,24 @@ New machine setup checklist
 
 ### 📷 Media
 
-- [Affinity Designer](https://affinity.serif.com/en-us/designer/). Purchased on [App Store](https://apps.apple.com/us/app/affinity-designer/id1274090551).
-- [Affinity Photo](https://affinity.serif.com/en-us/photo/). Purchased from the developer.
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/). Purchased on [App Store](https://apps.apple.com/us/app/affinity-designer/id1274090551). 🍎
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/). Purchased from the developer. 🎫
 - ~~[Capture One](https://www.captureone.com/en). Free activation code gifted with a Fujifilm camera. Not that frequently used too.~~
 
 ### 📮 Information
 
 - [Anki](https://apps.ankiweb.net/). A open-source flashcard tool.
+- [CARROT Weather](https://www.meetcarrot.com/weather/). 🍎
 
 ### 💬 Messaging
 
 ### 🎮 Entertainment
 
 
-```
-🎫: requires a license
-🔁: requires a subscription
-🇺🇦: included in Setapp
-🍎: downloaded from App Store
-🔗: url
-```
 
-- CARROTweather, 🍎
-- CheatSheet, [🔗](https://www.mediaatelier.com/CheatSheet/)
+
+
+
 - CleanMyMac X, 🇺🇦
 - coconutBattery, [🔗](https://coconut-flavour.com/coconutbattery/)
 - Compress, 🍎
@@ -127,6 +129,10 @@ New machine setup checklist
   - WebStorm
   - DataSpell
   - PyCharm
+
+For the sake of the hard drive space. Don’t keep previous versions for instant rollback.
+
+
 - Karabiner Elements, [🔗](https://karabiner-elements.pqrs.org/)
 - Keka
 - Kindle, 🍎
@@ -299,6 +305,12 @@ Archived
 ### 🧗‍♂️ Karabiner
 
 Complex modifications: Change `caps_lock` to `command+control+option+shift`.
+
+```
+“hyper” not “meta”
+
+https://ke-complex-modifications.pqrs.org/#modifier-keys
+```
 
 - `caps_lock` + `1/2/3/4`: current window to the 1st/2nd/3rd/4th quadrant of the screen
 - `caps_lock` + `A`: turn on/off [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
