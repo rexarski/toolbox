@@ -36,8 +36,9 @@ New machine setup checklist
 - [calibre](https://calibre-ebook.com/). E-book management software.
 - [DaisyDisk](https://daisydiskapp.com/). Analyzing disk usage with a wind rose diagram. 🍎
 - [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink). Organize async files, as the counterpart of my cloud storage. 🎫
+- [Dropbox](https://www.dropbox.com/home). Replaced due to the limitation of number of devices in sync.
 - [Google Drive](https://www.google.com/drive/). 15GB might just be enough for now.
-  - ~~[Dropbox](https://www.dropbox.com/home). Replaced due to the limitation of number of devices in sync.~~
+
 
 ### 🔐 Security and Encryption
 
@@ -46,7 +47,7 @@ New machine setup checklist
 ### 🌏 Internet
 
 - [Chrome](https://www.google.com/chrome/)
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- ~~[Firefox](https://www.mozilla.org/en-US/firefox/new/)~~
 - Safari
 
 | Plugin | Chrome | Firefox | Safari |
@@ -93,6 +94,7 @@ New machine setup checklist
   - [WebStorm](https://www.jetbrains.com/webstorm/)
   - [DataSpell](https://www.jetbrains.com/dataspell/)
   - [PyCharm](https://www.jetbrains.com/pycharm/)
+  - [DataGrip](https://www.jetbrains.com/datagrip/)
 
 ### 📷 Media
 
@@ -127,9 +129,8 @@ New machine setup checklist
 - Motion, 🍎
 - Compress, 🍎
 
-- Firefox
 - Folx, 🇺🇦
-- Gemini, 🎫[🔗](https://macpaw.com/gemini)
+- [Gemini](https://macpaw.com/gemini), 🎫[🔗](https://macpaw.com/gemini)
 - GitHub Desktop
 - Goodnotes 5, 🍎
 - IINA
@@ -172,11 +173,12 @@ New machine setup checklist
 - PopClip, 🎫[🔗](https://pilotmoon.com/popclip/)
 - Postman
 - Processing
-- QGIS
+- ~~QGIS~~
 - Quarto, [🔗](https://quarto.org/)
 - R
 - Rectangle, [🔗](https://rectangleapp.com/)
 - Reeder, 🍎
+- Rocket. 🎫
 - RStudio
 - RSwitch, [🔗](https://rud.is/rswitch/)
 - Sip, 🇺🇦
