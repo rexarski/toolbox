@@ -187,6 +187,8 @@ For the sake of the hard drive space. Don’t keep previous versions for instant
 - WeChat
 - Yoink, 🍎
 - 剪映, [🔗](https://lv.ulikecam.com/)
+- Shottr
+- Tencent Lemon 柠檬清理
 
 
 Archived
