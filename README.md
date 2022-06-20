@@ -6,10 +6,12 @@
 
 New machine setup checklist
 
+- [ ] Set up iCloud account.
 - [ ] Install Chrome.
 - [ ] Install 1Password.
-- [ ] Set up iCloud account.
-- [ ] Install Google Drive and sync.
+- [ ] Install Google Drive, Dropbox. Sync.
+- [ ] Install Alfred.
+- [ ] Install Karabiner-Elements.
 - [ ] Install iTerm 2.
 - [ ] Install essential applications in the following list.
 
@@ -26,6 +28,7 @@ New machine setup checklist
 
 - [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫🇺🇦
 - [Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫
+  - `Option` + `Space`: Activate Aflred search bar.
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). 🍎
 - [Bartender](https://www.macbartender.com/). macOS Menubar extension. 🎫🇺🇦
 - [CleanMyMac X](https://macpaw.com/cleanmymac). A system cleaner. 🇺🇦
@@ -95,6 +98,7 @@ New machine setup checklist
   - [DataSpell](https://www.jetbrains.com/dataspell/)
   - [PyCharm](https://www.jetbrains.com/pycharm/)
   - [DataGrip](https://www.jetbrains.com/datagrip/)
+- [Fig](https://fig.io/). Auto-complete in terminal apps.
 
 ### 📷 Media
 
@@ -122,7 +126,7 @@ New machine setup checklist
 
 
 
-- Fig, [🔗](https://www.fig.io/)
+
 - Figma
 
 - Final Cut Pro, 🍎
@@ -140,7 +144,7 @@ New machine setup checklist
 - iStat Menus, 🇺🇦
 - iTerm 2
 
-- Karabiner Elements, [🔗](https://karabiner-elements.pqrs.org/)
+- [Karabiner Elements](https://karabiner-elements.pqrs.org/). Key mapping customizer.
   - `Hyper` == `command+control+option+shift`
   - Complex modifications: [Change `caps_lock` to `command+control+option+shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
     - `Hyper` + `1/2/3/4`: current window to the 1st/2nd/3rd/4th quadrant of the screen
@@ -191,13 +195,17 @@ New machine setup checklist
 - Telegram
 - Texpad, 🎫[🔗](https://www.texpad.com/)
 - Things 3, 🍎
+  `Control` + `Space`: quick entry.
 - Transmit, 🎫[🔗](https://panic.com/transmit/)
 - Tweetbot 3, 🍎
 - Visual Studio Code
 - WeChat
 - Yoink, 🍎
 - 剪映, [🔗](https://lv.ulikecam.com/)
-- Shottr
+- [Shottr](https://shottr.cc/). Great substitute to CleanShot X.
+  - `Command` + `Shift` + `3`:
+  - `Command` + `Shift` + `4`:
+  - `Command` + `Shift` + `5`:
 - Tencent Lemon 柠檬清理
 
 
