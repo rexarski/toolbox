@@ -24,14 +24,17 @@ New machine setup checklist
 
 ### 🛠 System Extension
 
-- [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. Requires a license for complete list of features. Also available in Setapp. 🎫🇺🇦
+- [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫🇺🇦
 - [Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫
-- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). Only available on App Store. 🍎
-- [Bartender](https://www.macbartender.com/). macOS Menubar extension. License purchased but also included in Setapp. 🎫🇺🇦
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). 🍎
+- [Bartender](https://www.macbartender.com/). macOS Menubar extension. 🎫🇺🇦
+- [CleanMyMac X](https://macpaw.com/cleanmymac). A system cleaner. 🇺🇦
+- [coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.
 
 ### 📁 File Management
 
 - [calibre](https://calibre-ebook.com/). E-book management software.
+- [DaisyDisk](https://daisydiskapp.com/). Analyzing disk usage with a wind rose diagram. 🍎
 
 ### 🔐 Security and Encryption
 
@@ -70,9 +73,12 @@ New machine setup checklist
 
 ### 📝 Logging
 
+- [Day One](https://dayoneapp.com/). My daily journal app. 🍎🔁
+
 ### 👨🏻‍💻 Development
 
 - [Anaconda](https://www.anaconda.com/). Data science resource management for Python (mainly) and R (not really.)
+- [Dash](https://kapeli.com/dash). Offline access to documentations. 🎫🇺🇦
 
 ### 📷 Media
 
@@ -90,19 +96,11 @@ New machine setup checklist
 ### 🎮 Entertainment
 
 
+***
 
-
-
-
-- CleanMyMac X, 🇺🇦
-- coconutBattery, [🔗](https://coconut-flavour.com/coconutbattery/)
-
-- DaisyDisk, 🍎
-- Dark Reader for Safari, 🍎
-- Dash, 🎫🇺🇦
-- Day One, 🍎🔁
 - DEVONthink 3, 🎫
-- Discord -> Swiftcord
+- Swiftcord
+  - ~~Discord~~
 - Downie, 🇺🇦
 - Drafts, 🍎🔁
   - Command + Shift + 1 = Drafts main window
@@ -133,11 +131,14 @@ New machine setup checklist
   - WebStorm
   - DataSpell
   - PyCharm
-
-For the sake of the hard drive space. Don’t keep previous versions for instant rollback.
-
-
+  - "For the sake of the hard drive space. Don’t keep previous versions for instant rollback."
 - Karabiner Elements, [🔗](https://karabiner-elements.pqrs.org/)
+  - `Hyper` == `command+control+option+shift`
+  - Complex modifications: [Change `caps_lock` to `command+control+option+shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
+    - `Hyper` + `1/2/3/4`: current window to the 1st/2nd/3rd/4th quadrant of the screen
+    - `Hyper` + `A`: turn on/off [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
+    - `Hyper` + `D`: create new reminder in [Due](https://www.dueapp.com/)
+    - `Hyper` + `F`: create new event/reminder in [Fantastical](https://flexibits.com/fantastical)
 - Keka
 - Kindle, 🍎
 - Logitech Options
@@ -244,102 +245,6 @@ Archived
 - WaterMinder, 🍎
 - YACReader
 
-
-***
-
-## 📱 iOS/iPad OS
-
-> Only the essentials
-
-- Airtable
-- Anki
-- Apollo
-- Bobby
-- CARROT Weather
-- Day One
-- Drafts
-- Due
-- Fantastical
-- Forest
-- GoodNotes
-- Google Maps
-- Google Drive
-- HiCoffee
-- HiWater
-- Hobi
-- Instapaper
-- LumaFusion
-- MD Clock
-- Noir
-- NOMO CAM
-- Notability
-- Notion
-- nPlayer
-- O’Reilly
-- Opener
-- PCalc
-- PDF Expert
-- Pixelmator
-- Pixelmator Photo
-- Pins
-- Pocket Casts
-- Raindrop.io
-- Reeder
-- Scanner Pro
-- Slack
-- Snapseed
-- Spark
-- Splitwise
-- Spotify
-- SquareDude
-- Substack
-- Telegram
-- The Athletic
-- Things
-- Transit
-- Tweetbot
-- WeChat
-- 1Blocker
-- 1Password
-- Smart Comic
-- Procreate
-- F1 TV
-- GCORES
-- Vectornator
-- Audible
-- 小宇宙
-
-
-## 🔍 App-specific plugins and settings
-
-### ✔️ Things 3
-
-### 💻 VSCode
-
-### 📚 calibre
-
-### 💎 Obsidian
-
-### 📝 Drafts
-
-### 🖤 iTerms
-
-### 🧗‍♂️ Karabiner
-
-Complex modifications: Change `caps_lock` to `command+control+option+shift`.
-
-```
-“hyper” not “meta”
-
-https://ke-complex-modifications.pqrs.org/#modifier-keys
-```
-
-- `caps_lock` + `1/2/3/4`: current window to the 1st/2nd/3rd/4th quadrant of the screen
-- `caps_lock` + `A`: turn on/off [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
-- `caps_lock` + `D`: create new reminder in [Due](https://www.dueapp.com/)
-- `caps_lock` + `F`: create new event/reminder in [Fantastical](https://flexibits.com/fantastical)
-
-
 ## 🔠 Font selections
 
 - [Lexend](https://www.lexend.com/), sans serif
@@ -357,28 +262,22 @@ https://ke-complex-modifications.pqrs.org/#modifier-keys
 
 ![Regular, 12pt](image/fonts.png)
 
-
-## 🚥 Chrome extensions
-
 ## 🔃 Service subscriptions
 
-- Pinboard
-- YouTube
-- Amazon Prime
-- Netflix
-- GoDaddy
-- The Athletic
-- Netlify
-- Feedbin
-- Spotify
-- FlowingData
-
-- 1Password
-
-- Day One
-- NOMO CAM
-- Tweetbot 6
-
-- Nintendo Switch Online
-- F1 TV Pro
-- Setapp
+- [Pinboard](https://pinboard.in/)
+- [YouTube Premium](https://www.youtube.com/premium)
+- [Amazon Prime](https://www.amazon.com/amazonprime)
+- [Netflix](https://www.netflix.com/)
+- [The Athletic](https://theathletic.com/)
+- [Netlify](https://www.netlify.com/)
+- [GoDaddy](https://www.godaddy.com/)
+- [Feedbin](https://feedbin.com/)
+- [Spotify](https://open.spotify.com/)
+- [FlowingData](https://flowingdata.com/membership/)
+- [1Password Family](https://1password.com/families/)
+- [Day One](https://dayoneapp.com/)
+- [NOMO CAM](https://apps.apple.com/us/app/nomo-cam-point-and-shoot/id1362548649)
+- [Tweetbot for iOS](https://tapbots.com/tweetbot/)
+- [Nintendo Switch Online](https://www.nintendo.com/switch/online-service/)
+- [F1 TV Pro](https://f1tv.formula1.com/)
+- [Setapp](https://setapp.com/)
