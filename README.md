@@ -9,7 +9,7 @@ New machine setup checklist
 - [ ] Install Chrome.
 - [ ] Install 1Password.
 - [ ] Set up iCloud account.
-- [ ] Install Dropbox.
+- [ ] Install Google Drive.
 - [ ] Install iTerm 2.
 - [ ] Install essential applications in the following list.
 
@@ -96,7 +96,7 @@ New machine setup checklist
 
 - CleanMyMac X, 🇺🇦
 - coconutBattery, [🔗](https://coconut-flavour.com/coconutbattery/)
-- Compress, 🍎
+
 - DaisyDisk, 🍎
 - Dark Reader for Safari, 🍎
 - Dash, 🎫🇺🇦
@@ -112,7 +112,11 @@ New machine setup checklist
 - Fantastical 3, 🎫
 - Fig, [🔗](https://www.fig.io/)
 - Figma
+
 - Final Cut Pro, 🍎
+- Motion, 🍎
+- Compress, 🍎
+
 - Firefox
 - Folx, 🇺🇦
 - Gemini, 🎫[🔗](https://macpaw.com/gemini)
@@ -142,10 +146,10 @@ For the sake of the hard drive space. Don’t keep previous versions for instant
 - Marked 2, 🎫[🔗](https://marked2app.com/)
 - MD Clock, 🍎
 - MindNode, 🎫🇺🇦
-- Microsoft Teams
+- ~~Microsoft Teams~~
 - Monitor Control, [🔗](https://github.com/MonitorControl/MonitorControl)
-- Motion, 🍎
-- Mumble
+
+- ~~Mumble~~
 - Noizio, 🍎
 - Notability, 🍎
 - Numi, 🎫🇺🇦
@@ -236,6 +240,7 @@ Archived
 - VLC Player, [🔗](https://www.videolan.org/index.html)
 - Voxatron, 🎫
 - WaterMinder, 🍎
+- YACReader
 
 
 ***
@@ -244,30 +249,35 @@ Archived
 
 > Only the essentials
 
+- Airtable
 - Anki
 - Apollo
 - Bobby
 - CARROT Weather
 - Day One
 - Drafts
-- Dropbox
 - Due
 - Fantastical
 - Forest
 - GoodNotes
 - Google Maps
+- Google Drive
 - HiCoffee
 - HiWater
 - Hobi
 - Instapaper
+- LumaFusion
 - MD Clock
 - Noir
 - NOMO CAM
+- Notability
+- Notion
 - nPlayer
 - O’Reilly
 - Opener
 - PCalc
 - PDF Expert
+- Pixelmator
 - Pixelmator Photo
 - Pins
 - Pocket Casts
@@ -275,9 +285,11 @@ Archived
 - Reeder
 - Scanner Pro
 - Slack
+- Snapseed
 - Spark
 - Splitwise
 - Spotify
+- SquareDude
 - Substack
 - Telegram
 - The Athletic
@@ -287,6 +299,14 @@ Archived
 - WeChat
 - 1Blocker
 - 1Password
+- Smart Comic
+- Procreate
+- F1 TV
+- GCORES
+- Vectornator
+- Audible
+- 小宇宙
+
 
 ## 🔍 App-specific plugins and settings
 
