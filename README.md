@@ -9,7 +9,7 @@ New machine setup checklist
 - [ ] Install Chrome.
 - [ ] Install 1Password.
 - [ ] Set up iCloud account.
-- [ ] Install Google Drive.
+- [ ] Install Google Drive and sync.
 - [ ] Install iTerm 2.
 - [ ] Install essential applications in the following list.
 
@@ -35,6 +35,9 @@ New machine setup checklist
 
 - [calibre](https://calibre-ebook.com/). E-book management software.
 - [DaisyDisk](https://daisydiskapp.com/). Analyzing disk usage with a wind rose diagram. 🍎
+- [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink). Organize async files, as the counterpart of my cloud storage. 🎫
+- [Google Drive](https://www.google.com/drive/). 15GB might just be enough for now.
+  - ~~[Dropbox](https://www.dropbox.com/home). Replaced due to the limitation of number of devices in sync.~~
 
 ### 🔐 Security and Encryption
 
@@ -71,14 +74,25 @@ New machine setup checklist
 
 ### 🧰 Utilities
 
+- [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins. 🇺🇦
+
 ### 📝 Logging
 
 - [Day One](https://dayoneapp.com/). My daily journal app. 🍎🔁
+- [Drafts](https://getdrafts.com/). One-in-all text/draft app. 🍎🔁
+  - `Command` + `Shift` + `1` = Drafts main window
+  - `Command` + `Shift` + `2` = Drafts quick entry
 
 ### 👨🏻‍💻 Development
 
 - [Anaconda](https://www.anaconda.com/). Data science resource management for Python (mainly) and R (not really.)
 - [Dash](https://kapeli.com/dash). Offline access to documentations. 🎫🇺🇦
+- [Expressions](https://www.apptorium.com/expressions). Nice regular expression helper. 🇺🇦
+- [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/). Activated with Educational license. 🔁
+  - "For the sake of the hard drive space. Don’t keep previous versions for instant rollback."
+  - [WebStorm](https://www.jetbrains.com/webstorm/)
+  - [DataSpell](https://www.jetbrains.com/dataspell/)
+  - [PyCharm](https://www.jetbrains.com/pycharm/)
 
 ### 📷 Media
 
@@ -90,24 +104,22 @@ New machine setup checklist
 
 - [Anki](https://apps.ankiweb.net/). A open-source flashcard tool.
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 🍎
+- [Fantastical](https://flexibits.com/fantastical). A calendar and todo list app with great NLP input. 🎫
 
 ### 💬 Messaging
+
+- [Swiftcord](https://swiftcordapp.github.io/Swiftcord/). A native Discord client for macOS.
+  - ~~Substitue for [Discord](https://discord.com/)~~.
+- ~~[Mumble](https://www.mumble.info/). Open-source voice chat.~~
+
 
 ### 🎮 Entertainment
 
 
 ***
 
-- DEVONthink 3, 🎫
-- Swiftcord
-  - ~~Discord~~
-- Downie, 🇺🇦
-- Drafts, 🍎🔁
-  - Command + Shift + 1 = Drafts main window
-  - Command + Shift + 2 = Drafts quick entry
-- Dropbox
-- Expressions, 🇺🇦
-- Fantastical 3, 🎫
+
+
 - Fig, [🔗](https://www.fig.io/)
 - Figma
 
@@ -120,18 +132,13 @@ New machine setup checklist
 - Gemini, 🎫[🔗](https://macpaw.com/gemini)
 - GitHub Desktop
 - Goodnotes 5, 🍎
-- Google Chrome
 - IINA
 - Image2icon, 🍎🇺🇦
 - iMazing 2, 🎫
 - Inboard, 🍎
 - iStat Menus, 🇺🇦
 - iTerm 2
-- JetBrains Toolbox
-  - WebStorm
-  - DataSpell
-  - PyCharm
-  - "For the sake of the hard drive space. Don’t keep previous versions for instant rollback."
+
 - Karabiner Elements, [🔗](https://karabiner-elements.pqrs.org/)
   - `Hyper` == `command+control+option+shift`
   - Complex modifications: [Change `caps_lock` to `command+control+option+shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
@@ -150,7 +157,7 @@ New machine setup checklist
 - ~~Microsoft Teams~~
 - Monitor Control, [🔗](https://github.com/MonitorControl/MonitorControl)
 
-- ~~Mumble~~
+
 - Noizio, 🍎
 - Notability, 🍎
 - Numi, 🎫🇺🇦
@@ -194,56 +201,44 @@ New machine setup checklist
 
 Archived
 
-- Aerial, [🔗](https://github.com/JohnCoates/Aerial)
-- Airtable
-- Appium
-- Audacity
-- Buckets, [🔗](https://www.budgetwithbuckets.com/)
-- Bit-Slicer
-- Clear, 🍎
-- Cool Retro Term
-- f.lux
-- Encrypto, 🍎
-- GitKraken, 🔁
-- Handbrake
-- HazeOver, 🎫
-- iShot
-- Itsycal for Mac, [🔗](https://www.mowglii.com/itsycal/)
-- Kap, [🔗](https://github.com/wulkano/Kap)
-- KeyCastr, [🔗](https://github.com/keycastr/keycastr)
-- Koodo Reader, [🔗](https://github.com/troyeguo/koodo-reader)
-- Lunar, [🔗](https://lunar.fyi/)
-- Mactracker, 🍎
-- Maipo, 🍎
-- MenubarX, 🍎
+- ~~Aerial, [🔗](https://github.com/JohnCoates/Aerial)~~
+- ~~Audacity~~
+- ~~Buckets, [🔗](https://www.budgetwithbuckets.com/)~~
+- ~~Clear, 🍎~~
+- ~~Cool Retro Term~~
+- ~~f.lux~~
+- ~~Encrypto, 🍎~~
+- ~~GitKraken, 🔁~~
+- ~~Handbrake~~
+- ~~HazeOver, 🎫~~
+- ~~Itsycal for Mac, [🔗](https://www.mowglii.com/itsycal/)~~
+- ~~Kap, [🔗](https://github.com/wulkano/Kap)~~
+- ~~KeyCastr, [🔗](https://github.com/keycastr/keycastr)~~
+- ~~Lunar, [🔗](https://lunar.fyi/)~~
+- ~~Mactracker, 🍎~~
+- ~~Maipo, 🍎~~
+- ~~MenubarX, 🍎~~
 - Microsoft Edge
 - NetNewsWire, [🔗](https://netnewswire.com/)
-- Notion
-  - Anytype, an alternative
-- OBS
-- OpenEmu
-- OpenRA, [🔗](https://www.openra.net/)
-- Osara (お皿), [🔗](https://osara.lhzhang.com/)
-- Pixen, 🍎
-- Plash, 🍎[🔗](https://sindresorhus.com/plash)
-- Polarr Photo Editor Pro, 🎫
-- QQ
-- ~~Shottr, [🔗](https://shottr.cc/)~~
-  - ~~Command + Shift + 3 = Shottr area screenshot~~
-  - ~~Command + Shift + 4 = Shottr active window screenshot~~
-  - ~~Command + Shift + 5 = Shottr fullscreen screenshot~~
-  - ~~Command + Shift + 6 = Shottr scrolling screenshot~~
-- Skim, [🔗](https://skim-app.sourceforge.io/)
-- Streaks, 🍎
-- Surge 3, 🎫
-- Todoist
-- Transmission
-- Trello
-- Typora, 🎫
-- VLC Player, [🔗](https://www.videolan.org/index.html)
-- Voxatron, 🎫
-- WaterMinder, 🍎
-- YACReader
+- ~~Notion~~
+  - ~~Anytype, an alternative~~
+- ~~OBS~~
+- ~~OpenEmu~~
+- ~~OpenRA, [🔗](https://www.openra.net/)~~
+- ~~Pixen, 🍎~~
+- ~~Plash, 🍎[🔗](https://sindresorhus.com/plash)~~
+- ~~Polarr Photo Editor Pro, 🎫~~
+- ~~QQ~~
+- Shottr, [🔗](https://shottr.cc/)
+  - `Command` + `Shift` + `3` = Shottr area screenshot
+  - `Command` + `Shift` + `4` = Shottr active window screenshot
+  - `Command` + `Shift` + `5` = Shottr fullscreen screenshot
+  - `Command` + `Shift` + `6` = Shottr scrolling screenshot
+- ~~Skim, [🔗](https://skim-app.sourceforge.io/)~~
+- ~~Streaks, 🍎~~
+- ~~Transmission~~
+- ~~Typora~~, 🎫
+- ~~YACReader~~
 
 ## 🔠 Font selections
 
