@@ -1,8 +1,24 @@
-# Toolbox
+# rexarski's Toolbox
 
 Updated on 2022-06-21
 
-- [ ] Add a toc https://luciopaiva.com/markdown-toc/
+- [rexarski's Toolbox](#rexarskis-toolbox)
+  - [🖥️ macOS Setup](#️-macos-setup)
+    - [🛠 System Extension](#-system-extension)
+    - [📁 File Management](#-file-management)
+    - [🔐 Security and Encryption](#-security-and-encryption)
+    - [🌏 Internet](#-internet)
+    - [🧰 Utilities](#-utilities)
+    - [📝 Logging](#-logging)
+    - [👨🏻‍💻 Development](#-development)
+    - [📷 Creative](#-creative)
+    - [📮 Information](#-information)
+    - [📆 Schedule](#-schedule)
+    - [💬 Messaging](#-messaging)
+    - [🎮 Entertainment](#-entertainment)
+    - [🎑 Screensaver](#-screensaver)
+    - [🔠 Font selections](#-font-selections)
+  - [🔃 Service subscriptions](#-service-subscriptions)
 
 ## 🖥️ macOS Setup
 
@@ -52,6 +68,8 @@ New machine setup checklist
   - `Hyper` + `1/2/3/4`: current window to the 1st/2nd/3rd/4th quadrant of the screen
   - `Hyper` + arrow keys
   - `Hyper` + `C`: center
+- [Monitor Control](https://github.com/MonitorControl/MonitorControl). Control external displays.
+- [腾讯柠檬清理 Tencent Lemon](https://lemon.qq.com/). Substitute for CleanMyMac X on backup machine.
 
 ### 📁 File Management
 
@@ -68,6 +86,7 @@ New machine setup checklist
 
 - [1Password](https://1password.com/). THE password manager for the last decade. Requires yearly subscription. 🔁
   - `Hyper` + `P`: Open 1Password
+- ~~[Encrypto](https://macpaw.com/encrypto). Encrypt files with AES-256. 🍎~~
 
 ### 🌏 Internet
 
@@ -104,7 +123,7 @@ New machine setup checklist
 - [Folx](https://www.mac-downloader.com/). Download manager. 🇺🇦
 - [Image2icon](https://img2icnsapp.com/). Convert images to icons. 🍎🇺🇦
 - [Keka](https://www.keka.io/en/). File archiver.
-- [Maccy](https://maccy.app/). Open-source clipboard management.
+- [Maccy](https://maccy.app/). Open source clipboard management.
   - `Command` + `Shift` + `V`: show clipboard.
 - ~~[Cheatsheet](https://www.mediaatelier.com/CheatSheet/)~~. Not compatible with M1 chip.
 - [Shottr](https://shottr.cc/). Great substitute to CleanShot X.
@@ -116,6 +135,10 @@ New machine setup checklist
   - `Command` + `Shift` + `4` = Capture window
   - `Command` + `Shift` + `5` = Capture fullscreen
   - `Command` + `Shift` + `6` = All-In-One
+- [MD Clock](https://www.miidii.tech/). Clock app. 🍎
+- [Dark Noise](https://darknoise.app/). White noise app. 🍎
+  - ~~[Noizio](https://noiz.io/). Substituted. 🍎🇺🇦~~
+- [Numi](https://numi.app/). Calculator with freedom. 🎫🇺🇦
 
 ### 📝 Logging
 
@@ -124,9 +147,12 @@ New machine setup checklist
   - `Command` + `Shift` + `1` = Drafts main window
   - `Command` + `Shift` + `2` = Drafts quick entry
 - [Goodnotes 5](https://www.goodnotes.com/). 🍎
-- [MarkText](https://github.com/marktext/marktext). Open-source Markdown editor.
+- [MarkText](https://github.com/marktext/marktext). Open source Markdown editor.
   - ~~Substitute for [Typora](https://typora.io/)🎫~~
   - `brew install --cask mark-text`
+- [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫🇺🇦
+- [Notability](https://notability.com/). The old-school handwriting note app from iPad. 🍎
+- [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 
 ### 👨🏻‍💻 Development
 
@@ -148,7 +174,16 @@ New machine setup checklist
   - [Git Open](https://github.com/paulirish/git-open)
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
 - [iTerm 2](https://iterm2.com/). Terminal, but better than Terminal.
-- ~~[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term). Open-source retro terminal emulator.~~
+- ~~[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term). Open source retro terminal emulator.~~
+- [Visual Studio Code](https://code.visualstudio.com/). Code editor.
+  - Use the following script to create a `code` command in terminal:
+
+```bash
+cat << EOF >> ~/.zprofile
+# Add Visual Studio Code (code)
+export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+EOF
+```
 
 ### 📷 Creative
 
@@ -163,8 +198,14 @@ New machine setup checklist
 
 ### 📮 Information
 
-- [Anki](https://apps.ankiweb.net/). A open-source flashcard tool.
+- [Anki](https://apps.ankiweb.net/). A Open source flashcard tool.
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 🍎
+- ~~[MindNode](https://www.mindnode.com/). 🎫🇺🇦~~
+- [Reeder](https://reederapp.com/). RSS reader. 🍎
+  - `Q`: Copy link
+  - `W`: Add to Instapaper
+  - `E`: Open in Chrome
+- ~~[NetNewsWire](https://netnewswire.com/). Open source RSS reader.~~
 
 ### 📆 Schedule
 
@@ -179,13 +220,15 @@ New machine setup checklist
 
 - [Swiftcord](https://swiftcordapp.github.io/Swiftcord/). A native Discord client for macOS.
   - ~~Substitue for [Discord](https://discord.com/)~~.
-- ~~[Mumble](https://www.mumble.info/). Open-source voice chat.~~
+- ~~[Mumble](https://www.mumble.info/). Open source voice chat.~~
+- [Zoom](https://zoom.us/). For conference meeting, of course.
+- ~~[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)~~
 
 ### 🎮 Entertainment
 
 - [Amazon Kindle](https://www.amazon.com/b?ie=UTF8&node=16571048011). 🍎
 - [Books]. System built-in EPUB reader.
-- [IINA](https://iina.io/). Open-source media player.
+- [IINA](https://iina.io/). Open source media player.
 - ~~[OpenEmu](https://openemu.org/). Retro game emulator.~~
 - ~~[OpenRA](https://www.openra.net/). C&C, Dune, RA built for modern era.~~
 - [Spotify](https://open.spotify.com/)
@@ -197,83 +240,58 @@ New machine setup checklist
 - [Fliqlo Flip Clock](https://fliqlo.com/). The classic.
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn). Screensaver inspired by Apple's Event on October 30, 2018.
 
-***
+***************************************
 
-- Marked 2, 🎫[🔗](https://marked2app.com/)
-- MD Clock, 🍎
-- ~~MindNode, 🎫🇺🇦~~
-- ~~Microsoft Teams~~
-- Monitor Control, [🔗](https://github.com/MonitorControl/MonitorControl)
-- Dark Noise
-  - ~~Noizio, 🍎🇺🇦~~
-- Notability, 🍎
-- Numi, 🎫🇺🇦
-- Obsidian
-- PCalc, 🍎
-- PDF Expert, 🎫
-- PhotoBulk, 🍎
-- PICO-8, [🔗](https://www.lexaloffle.com/pico-8.php)
-- Pins, 🍎
-- ~~Pixelmator, 🍎~~
-- Pocket Casts
-- PopClip, 🎫[🔗](https://pilotmoon.com/popclip/)
-- ~~Postman~~
-- Processing
-- ~~QGIS~~
-- R
-- Reeder, 🍎
-- Rocket. 🎫
-- RStudio
-- ~~RSwitch, [🔗](https://rud.is/rswitch/)~~
-  - speculating
-- Sip, 🇺🇦
-- Slack
-- Squash, 🇺🇦
-- Surfshark, 🔁
-- TablePlus, 🇺🇦
-- Telegram
-- Texpad, 🎫[🔗](https://www.texpad.com/)
-- [TimeMachineEditor](https://tclementdev.com/timemachineeditor/)
-- Transmit, 🎫[🔗](https://panic.com/transmit/)
-- Tweetbot 3, 🍎
-- Visual Studio Code
-
-```bash
-cat << EOF >> ~/.zprofile
-# Add Visual Studio Code (code)
-export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
-EOF
-```
-
-- WeChat
-- Yoink, 🍎
-- ~~剪映, [🔗](https://lv.ulikecam.com/)~~
-- Tencent Lemon 柠檬清理
-- ~~Audacity~~
-- ~~Buckets, [🔗](https://www.budgetwithbuckets.com/)~~
-- ~~Clear, 🍎~~
-- ~~f.lux~~
-- ~~Encrypto, 🍎~~
-- ~~GitKraken, 🔁~~
-- ~~Handbrake~~
-- ~~HazeOver, 🎫~~
-- ~~Itsycal for Mac, [🔗](https://www.mowglii.com/itsycal/)~~
-- ~~Kap, [🔗](https://github.com/wulkano/Kap)~~
-- ~~KeyCastr, [🔗](https://github.com/keycastr/keycastr)~~
-- ~~Lunar, [🔗](https://lunar.fyi/)~~
-- ~~Mactracker, 🍎~~
-    - No, it’s so outdated
-- ~~Maipo, 🍎~~
-- ~~MenubarX, 🍎~~
-- NetNewsWire, [🔗](https://netnewswire.com/)
-- ~~Notion~~
-  - ~~Anytype, an alternative~~
-- ~~Pixen, 🍎~~
-- ~~Polarr Photo Editor Pro, 🎫~~
-- ~~Skim, [🔗](https://skim-app.sourceforge.io/)~~
-- ~~Streaks, 🍎~~
-- ~~Transmission~~
-- ~~YACReader~~
+- [PCalc](https://pcalc.com/). Calculator app on macOS. 🍎
+- [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
+- [PhotoBulk](https://photobulkeditor.com/). Quick photo editor. 🍎
+- [PICO-8](https://www.lexaloffle.com/pico-8.php). Fantasy retro console game engine. 🎫
+- [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 🍎
+- ~~[Pixelmator Classic](https://www.pixelmator.com/mac/). Full-power image editor. 🍎~~
+- [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
+- [PopClip](https://pilotmoon.com/popclip/). Mouse selection extension. 🍎
+- ~~[Postman](https://www.postman.com/). API platform.~~
+- [Processing](https://processing.org/). Generative art playground.
+- ~~[QGIS](https://qgis.org/en/site/). Open source GIS.~~
+- [R](https://www.r-project.org/). THE statistical programming language.
+- [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
+  - Use ~~`~~`~~ `:` to trigger the app.
+- [RStudio](https://www.rstudio.com/). Open source IDE for R language.
+- ~~[RSwitch](https://rud.is/rswitch/). A lightweight menubar utility for R users.~~
+- [Sip](https://sipapp.io/). A color picker app. 🇺🇦
+- [Slack](https://slack.com/). Workspace communication.
+- [TablePlus](https://tableplus.com/). Nicely designed database management GUI. 🇺🇦
+- [Telegram](https://telegram.org/). IM.
+- [Texpad](https://www.texpad.com/). LaTeX editor. 🎫
+- [TimeMachineEditor](https://tclementdev.com/timemachineeditor/). Manually control Time Machine backup schedule.
+- [Transmit](https://panic.com/transmit/). File transfer between macOS and servers. 🎫
+- [Tweetbot](https://tapbots.com/tweetbot/mac/). Third-part Twitter client after all those years, still standing. 🍎
+- [微信 WeChat](https://www.wechat.com/). Hate it but have to.
+- ~~[Yoink](https://eternalstorms.at/yoink/mac/). Temp file shelf. 🍎🇺🇦~~
+- ~~[剪映](https://lv.ulikecam.com/). A video editor.~~
+- ~~[Audacity](https://www.audacityteam.org/). Open source audio app.~~
+- ~~[Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.~~
+- ~~[Clear](https://apps.apple.com/us/app/clear-todos/id493136154). One of the GTD apps with the best interactions. Deprecated. What a pity. 🍎~~
+- ~~[f.lux](https://justgetflux.com/). Control the on-screen color temperature.~~
+- ~~[GitKraken](https://www.gitkraken.com/git-client). More fancy Git GUI. 🔁~~
+- ~~[Handbrake](https://handbrake.fr/). Open source video transcoder.~~
+- ~~[HazeOver](https://hazeover.com/). Dim the windows out of focus and the background to create a distraction-free workspace. 🎫🇺🇦~~
+- ~~[Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.~~
+- ~~[Kap](https://getkap.co/). Open source screen recorder.~~
+- [KeyCastr](https://github.com/keycastr/keycastr). Open source keystroke visualizer.
+  - `Hyper` + `K`: Toggle capturing
+- ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. 🍎~~
+- ~~[Maipo](https://apps.apple.com/us/app/maipo-for-weibo/id789066512?mt=12). Third-party Weibo client. 🍎~~
+- ~~[MenubarX](https://menubarx.app/). Open up a window on the menubar. Reminds of [Macmenubar.com](https://macmenubar.com/) 🍎~~
+- ~~[Notion](https://www.notion.so/). The universal workspace. I'd prefer the web version.~~
+  - ~~[Anytype](https://anytype.io/)/ An alternative to Notion. Offline access is its strength.~~
+- [Aseprite](https://www.aseprite.org/). A animated pixel art editor. Purchased on [Steam](https://store.steampowered.com/app/431730/Aseprite/). 🎫
+- ~~[Pixen](https://pixenapp.com/). Pixel art editor. 🍎~~
+- ~~[Polarr Photo Editor Pro](https://www.polarr.com/mac/). 🎫~~
+- ~~[Skim](https://skim-app.sourceforge.io/). An open source PDF reader and note taker.~~
+- ~~[Streaks](https://streaksapp.com/). A habit tracker. 🍎~~
+- ~~[Transmission](https://transmissionbt.com/). A BitTorrent client.~~
+- ~~[YACReader](https://www.yacreader.com/). A cross-platform comic reader.~~
 
 ### 🔠 Font selections
 
