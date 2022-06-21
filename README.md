@@ -1,8 +1,10 @@
 # Toolbox
 
-- [ ] Generate a toc. https://github.com/ekalinin/github-markdown-toc
+Updated on 2022-06-21
 
-## 🖥️ macOS
+- [ ] Add a toc https://luciopaiva.com/markdown-toc/
+
+## 🖥️ macOS Setup
 
 New machine setup checklist
 
@@ -13,11 +15,19 @@ New machine setup checklist
 - [ ] Install Alfred.
 - [ ] Install Karabiner-Elements.
 - [ ] Install iTerm 2. Install [Homebrew](https://brew.sh/).
+- [ ] [Change computer and host name](https://apple.stackexchange.com/questions/66611/how-to-change-computer-name-so-terminal-displays-it-in-mac-os-x-mountain-lion):
+  - `sudo scutil --set ComputerName "newname"`
+  - `sudo scutil --set LocalHostName "newname"`
+  - `sudo scutil --set HostName "newname"`
+- [ ] Stop Time Machine local snapshots.
+  - `tmutil disablelocal` was deprecated since Mojave. Use  [TimeMachineEditor](https://tclementdev.com/timemachineeditor/) instead.
+- [ ] Create a global `gitignore` file at `~/.gitignore`.
+  - `git config --global core.excludesfile ~/.gitignore`
 - [ ] Install essential applications in the following list.
 
 > A list of applications installed and/or frequently used on my device.
 
-```
+```plaintext
 🎫: requires a license
 🔁: requires a recurring subscription
 🇺🇦: included in Setapp
@@ -65,28 +75,28 @@ New machine setup checklist
 - ~~[Firefox](https://www.mozilla.org/en-US/firefox/new/)~~
 - Safari
 
-| Plugin | Chrome | Firefox | Safari |
-|------:|:------:|:-------:|:------:|
-|[1Password](https://1password.com/)|✅|✅|✅|
-|[Dark Reader](https://darkreader.org/)|✅|✅|✅|
-|[Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube)|✅|✅|❌|
-|[Hypothesis](https://web.hypothes.is/help/installing-the-chrome-extension/)|✅|❌|❌|
-|[Instapaper](https://www.instapaper.com/save)|✅|✅|✅|
-|[Downie](https://blog.charliemonroe.net/downie-and-chrome/)|✅|✅|✅|
-|[Keepa](https://keepa.com/#!)|✅|❌|❌|
-|[Modern for Wikipedia](https://www.modernwiki.app/)|✅|✅|❌|
-|[OneTab](https://www.one-tab.com/)|✅|✅|❌|
-|[Pinboard Plus](https://chrome.google.com/webstore/detail/pinboard-plus/mphdppdgoagghpmmhodmfajjlloijnbd?hl=en)|✅|❌|❌|
-|[Pinboard WebExtension](https://github.com/gapop/pinboard-webextension)|❌|✅|❌|
-|[Raindrop.io](https://raindrop.io/)|✅|❌|❌|
-|[RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar)|✅|✅|❌|
-|[Session Buddy](https://sessionbuddy.com/)|✅|❌|❌|
-|[SingleFile](https://github.com/gildas-lormeau/SingleFile)|✅|✅|❌|
-|[SteamDB](https://steamdb.info/)|✅|✅|❌|
-|[uBlock Origin](https://github.com/gorhill/uBlock)|✅|✅|❌|
-|[豆伴：豆瓣账号备份工具](https://blog.doufen.org/posts/tofu-user-guide/)|✅|❌|❌|
-|[Auto Tab Discard](https://add0n.com/tab-discard.html)|✅|✅|❌|
-|[HTTPS Everywhere](https://www.eff.org/https-everywhere)|✅|✅|❌|
+|                                                                                                          Plugin | Chrome | Firefox | Safari |
+| --------------------------------------------------------------------------------------------------------------: | :----: | :-----: | :----: |
+|                                                                             [1Password](https://1password.com/) |   ✅    |    ✅    |   ✅    |
+|                                                                          [Dark Reader](https://darkreader.org/) |   ✅    |    ✅    |   ✅    |
+|                                             [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) |   ✅    |    ✅    |   ❌    |
+|                                     [Hypothesis](https://web.hypothes.is/help/installing-the-chrome-extension/) |   ✅    |    ❌    |   ❌    |
+|                                                                   [Instapaper](https://www.instapaper.com/save) |   ✅    |    ✅    |   ✅    |
+|                                                     [Downie](https://blog.charliemonroe.net/downie-and-chrome/) |   ✅    |    ✅    |   ✅    |
+|                                                                                   [Keepa](https://keepa.com/#!) |   ✅    |    ❌    |   ❌    |
+|                                                             [Modern for Wikipedia](https://www.modernwiki.app/) |   ✅    |    ✅    |   ❌    |
+|                                                                              [OneTab](https://www.one-tab.com/) |   ✅    |    ✅    |   ❌    |
+| [Pinboard Plus](https://chrome.google.com/webstore/detail/pinboard-plus/mphdppdgoagghpmmhodmfajjlloijnbd?hl=en) |   ✅    |    ❌    |   ❌    |
+|                                         [Pinboard WebExtension](https://github.com/gapop/pinboard-webextension) |   ❌    |    ✅    |   ❌    |
+|                                                                             [Raindrop.io](https://raindrop.io/) |   ✅    |    ❌    |   ❌    |
+|                                                          [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) |   ✅    |    ✅    |   ❌    |
+|                                                                      [Session Buddy](https://sessionbuddy.com/) |   ✅    |    ❌    |   ❌    |
+|                                                      [SingleFile](https://github.com/gildas-lormeau/SingleFile) |   ✅    |    ✅    |   ❌    |
+|                                                                                [SteamDB](https://steamdb.info/) |   ✅    |    ✅    |   ❌    |
+|                                                              [uBlock Origin](https://github.com/gorhill/uBlock) |   ✅    |    ✅    |   ❌    |
+|                                        [豆伴：豆瓣账号备份工具](https://blog.doufen.org/posts/tofu-user-guide/) |   ✅    |    ❌    |   ❌    |
+|                                                          [Auto Tab Discard](https://add0n.com/tab-discard.html) |   ✅    |    ✅    |   ❌    |
+|                                                        [HTTPS Everywhere](https://www.eff.org/https-everywhere) |   ✅    |    ✅    |   ❌    |
 
 ### 🧰 Utilities
 
@@ -101,6 +111,11 @@ New machine setup checklist
   - `Command` + `Shift` + `3` = Shottr area screenshot
   - `Command` + `Shift` + `4` = Shottr active window screenshot
   - `Command` + `Shift` + `5` = Shottr fullscreen screenshot
+- [CleanShot X](https://cleanshot.com/). Great screenshot and GIFs tool. 🇺🇦
+  - `Command` + `Shift` + `3` = Capture area
+  - `Command` + `Shift` + `4` = Capture window
+  - `Command` + `Shift` + `5` = Capture fullscreen
+  - `Command` + `Shift` + `6` = All-In-One
 
 ### 📝 Logging
 
@@ -124,7 +139,13 @@ New machine setup checklist
   - [DataSpell](https://www.jetbrains.com/dataspell/)
   - [PyCharm](https://www.jetbrains.com/pycharm/)
   - [DataGrip](https://www.jetbrains.com/datagrip/)
-- [Fig](https://fig.io/). Auto-complete in terminal apps.
+- [Fig](https://fig.io/). Auto-complete in terminal apps. Very powerful companion with iTerm 2. Plugins in-use:
+  - [Oh My Zsh](https://ohmyz.sh/)
+  - [Zsh Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+  - [Zsh Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+  - [Spaceship Prompt](https://spaceship-prompt.sh/)
+  - [You Should Use](https://github.com/MichaelAquilina/zsh-you-should-use)
+  - [Git Open](https://github.com/paulirish/git-open)
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
 - [iTerm 2](https://iterm2.com/). Terminal, but better than Terminal.
 - ~~[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term). Open-source retro terminal emulator.~~
@@ -176,7 +197,85 @@ New machine setup checklist
 - [Fliqlo Flip Clock](https://fliqlo.com/). The classic.
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn). Screensaver inspired by Apple's Event on October 30, 2018.
 
-## 🔠 Font selections
+***
+
+- Marked 2, 🎫[🔗](https://marked2app.com/)
+- MD Clock, 🍎
+- ~~MindNode, 🎫🇺🇦~~
+- ~~Microsoft Teams~~
+- Monitor Control, [🔗](https://github.com/MonitorControl/MonitorControl)
+- Dark Noise
+  - ~~Noizio, 🍎🇺🇦~~
+- Notability, 🍎
+- Numi, 🎫🇺🇦
+- Obsidian
+- PCalc, 🍎
+- PDF Expert, 🎫
+- PhotoBulk, 🍎
+- PICO-8, [🔗](https://www.lexaloffle.com/pico-8.php)
+- Pins, 🍎
+- ~~Pixelmator, 🍎~~
+- Pocket Casts
+- PopClip, 🎫[🔗](https://pilotmoon.com/popclip/)
+- ~~Postman~~
+- Processing
+- ~~QGIS~~
+- R
+- Reeder, 🍎
+- Rocket. 🎫
+- RStudio
+- ~~RSwitch, [🔗](https://rud.is/rswitch/)~~
+  - speculating
+- Sip, 🇺🇦
+- Slack
+- Squash, 🇺🇦
+- Surfshark, 🔁
+- TablePlus, 🇺🇦
+- Telegram
+- Texpad, 🎫[🔗](https://www.texpad.com/)
+- [TimeMachineEditor](https://tclementdev.com/timemachineeditor/)
+- Transmit, 🎫[🔗](https://panic.com/transmit/)
+- Tweetbot 3, 🍎
+- Visual Studio Code
+
+```bash
+cat << EOF >> ~/.zprofile
+# Add Visual Studio Code (code)
+export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+EOF
+```
+
+- WeChat
+- Yoink, 🍎
+- ~~剪映, [🔗](https://lv.ulikecam.com/)~~
+- Tencent Lemon 柠檬清理
+- ~~Audacity~~
+- ~~Buckets, [🔗](https://www.budgetwithbuckets.com/)~~
+- ~~Clear, 🍎~~
+- ~~f.lux~~
+- ~~Encrypto, 🍎~~
+- ~~GitKraken, 🔁~~
+- ~~Handbrake~~
+- ~~HazeOver, 🎫~~
+- ~~Itsycal for Mac, [🔗](https://www.mowglii.com/itsycal/)~~
+- ~~Kap, [🔗](https://github.com/wulkano/Kap)~~
+- ~~KeyCastr, [🔗](https://github.com/keycastr/keycastr)~~
+- ~~Lunar, [🔗](https://lunar.fyi/)~~
+- ~~Mactracker, 🍎~~
+    - No, it’s so outdated
+- ~~Maipo, 🍎~~
+- ~~MenubarX, 🍎~~
+- NetNewsWire, [🔗](https://netnewswire.com/)
+- ~~Notion~~
+  - ~~Anytype, an alternative~~
+- ~~Pixen, 🍎~~
+- ~~Polarr Photo Editor Pro, 🎫~~
+- ~~Skim, [🔗](https://skim-app.sourceforge.io/)~~
+- ~~Streaks, 🍎~~
+- ~~Transmission~~
+- ~~YACReader~~
+
+### 🔠 Font selections
 
 - [Lexend](https://www.lexend.com/), sans serif
 - [Montserrat](https://fonts.google.com/specimen/Montserrat), sans serif
