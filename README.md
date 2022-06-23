@@ -39,6 +39,7 @@ New machine setup checklist
   - `tmutil disablelocal` was deprecated since Mojave. Use  [TimeMachineEditor](https://tclementdev.com/timemachineeditor/) instead.
 - [ ] Create a global `gitignore` file at `~/.gitignore`.
   - `git config --global core.excludesfile ~/.gitignore`
+- [ ] Turn off the iCloud sync of Photos before library migration.
 - [ ] Install essential applications in the following list.
 
 ```plaintext
