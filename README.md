@@ -62,15 +62,22 @@ A list of applications installed and/or frequently used on my device.
 - [coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.
 - [Karabiner Elements](https://karabiner-elements.pqrs.org/). Key mapping customizer.
   - `Hyper` == `command+control+option+shift`
+  - `Shift` + `Backspace`: Forward delete
   - Complex modifications: [Change `caps_lock` to `command+control+option+shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
 - [Rectangle](https://rectangleapp.com/). macOS window organizer.
   - `Hyper` + `1/2/3/4`: current window to the 1st/2nd/3rd/4th quadrant of the screen
   - `Hyper` + arrow keys
   - `Hyper` + `C`: center
+  - `Ctrl` + `Option` + `D`: First third (depends on the orientation of the monitor, could be horizontal or vertical)
+  - `Ctrl` + `Option` + `F`: Second third
+  - `Ctrl` + `Option` + `G`: Last third
+  - `Ctrl` + `Option` + `E`: First two thirds
+  - `Ctrl` + `Option` + `T`: Last two thirds
 - [Monitor Control](https://github.com/MonitorControl/MonitorControl). Control external displays.
 - [腾讯柠檬清理 Tencent Lemon](https://lemon.qq.com/). Substitute for CleanMyMac X on backup machine.
 - [PopClip](https://pilotmoon.com/popclip/). Mouse selection extension. 🍎
+  - More [extensions](https://pilotmoon.com/popclip/extensions/)
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
   - Use ~~`~~`~~ `:` to trigger the app.
 - [iStat Menus](https://bjango.com/mac/istatmenus/). Menubar system monitor. 🇺🇦
@@ -102,7 +109,7 @@ A list of applications installed and/or frequently used on my device.
 
 ### 🌏 Internet
 
-Chrome as default browser for now.
+- Chrome as default browser for now.
 
 |                                                                                                          Plugin | [Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Safari |
 | --------------------------------------------------------------------------------------------------------------: | :--------------------------------------: | :---------------------------------------------------: | :----: |
@@ -128,6 +135,8 @@ Chrome as default browser for now.
 |                                                        [HTTPS Everywhere](https://www.eff.org/https-everywhere) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                                                    [Eagle](https://eagle.cool/) |                    ✅                     |                           ✅                           |   ✅    |
 
+- [1Blocker](https://1blocker.com/). Content blocker on Safari. 🍎
+
 ### 🧰 Utilities
 
 - [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins. 🇺🇦
@@ -150,9 +159,9 @@ Chrome as default browser for now.
   - ~~[Noizio](https://noiz.io/). Substituted. 🍎🇺🇦~~
 - [Numi](https://numi.app/). Calculator with freedom. 🎫🇺🇦
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 🍎
+- [Data Jar](https://datajar.app/). Data store for shortcuts. 🍎
 - ~~[Cheatsheet](https://www.mediaatelier.com/CheatSheet/)~~. Not compatible with M1 chip.
 - ~~[Transmission](https://transmissionbt.com/). A BitTorrent client.~~
-
 
 ### 📝 Logging
 
@@ -169,6 +178,9 @@ Chrome as default browser for now.
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 - [Texpad](https://www.texpad.com/). LaTeX editor. 🎫
 - [Sofa](https://www.sofahq.com/). Downtime organizer. 🍎
+- [jrnl](https://jrnl.sh/en/stable/). A command line journal tool.
+- [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706). Coffee intake tracker. 🍎
+- [HiWater](https://apps.apple.com/us/app/hiwater-the-water-pyramid/id1561732866). Water intake tracker. 🍎
 - ~~[Streaks](https://streaksapp.com/). A habit tracker. 🍎~~
 - ~~[Notion](https://www.notion.so/). The universal workspace. I'd prefer the web version.~~
   - ~~[Anytype](https://anytype.io/)/ An alternative to Notion. Offline access is its strength.~~
@@ -209,6 +221,7 @@ EOF
 - [TablePlus](https://tableplus.com/). Nicely designed database management GUI. 🇺🇦
 - [R](https://www.r-project.org/). THE statistical programming language.
 - [RStudio](https://www.rstudio.com/). Open source IDE for R language.
+- [Xcode](https://developer.apple.com/xcode/). 🍎
 - ~~[RSwitch](https://rud.is/rswitch/). A lightweight menubar utility for R users.~~
 - ~~[Postman](https://www.postman.com/). API platform.~~
 - ~~[QGIS](https://qgis.org/en/site/). Open source GIS.~~
@@ -241,6 +254,8 @@ EOF
 
 - [Anki](https://apps.ankiweb.net/). A Open source flashcard tool.
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 🍎
+- [Deliveries](https://deliveries.app/en.html). Package tracking. 🍎
+- [Spark](https://sparkmailapp.com/). Email client. 🍎
 - [Reeder](https://reederapp.com/). RSS reader. 🍎
   - `Q`: Copy link
   - `W`: Add to Instapaper
@@ -249,6 +264,7 @@ EOF
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
 - [Tweetbot](https://tapbots.com/tweetbot/mac/). Third-part Twitter client after all those years, still standing. 🍎
+- [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。🍎
 - ~~[MindNode](https://www.mindnode.com/). 🎫🇺🇦~~
 - ~~[NetNewsWire](https://netnewswire.com/). Open source RSS reader.~~
 - ~~[Skim](https://skim-app.sourceforge.io/). An open source PDF reader and note taker.~~
