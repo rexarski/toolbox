@@ -38,7 +38,9 @@ New machine setup checklist
 - [ ] Stop Time Machine local snapshots.
   - `tmutil disablelocal` was deprecated since Mojave. Use  [TimeMachineEditor](https://tclementdev.com/timemachineeditor/) instead.
 - [ ] Create a global `gitignore` file at `~/.gitignore`.
+  - See [this one](/config/.gitignore) as an example.
   - `git config --global core.excludesfile ~/.gitignore`
+- [ ] Generate and add SSH key to GitHub account.
 - [ ] Turn off the iCloud sync of Photos before library migration.
 - [ ] Install essential applications in the following list.
 
