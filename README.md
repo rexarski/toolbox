@@ -1,6 +1,6 @@
 # rexarski's Toolbox
 
-Updated on 2022-06-21
+Updated on 2022-06-24
 
 - [rexarski's Toolbox](#rexarskis-toolbox)
   - [🖥️ macOS Setup](#️-macos-setup)
