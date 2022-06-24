@@ -135,6 +135,7 @@ A list of applications installed and/or frequently used on my device.
 |                                                          [Auto Tab Discard](https://add0n.com/tab-discard.html) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                        [HTTPS Everywhere](https://www.eff.org/https-everywhere) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                                                    [Eagle](https://eagle.cool/) |                    ✅                     |                           ✅                           |   ✅    |
+| [Unclutter](https://github.com/lindylearn/unclutter) | ✅ | ✅ | ❌ |
 
 - [1Blocker](https://1blocker.com/). Content blocker on Safari. 🍎
 
