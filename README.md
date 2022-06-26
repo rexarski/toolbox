@@ -1,6 +1,6 @@
 # rexarski's Toolbox
 
-Updated on 2022-06-24
+Updated on 2022-06-26
 
 - [rexarski's Toolbox](#rexarskis-toolbox)
   - [🖥️ macOS Setup](#️-macos-setup)
@@ -68,15 +68,8 @@ A list of applications installed and/or frequently used on my device.
   - `Shift` + `Backspace`: Forward delete
   - Complex modifications: [Change `caps_lock` to `command+control+option+shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
-- [Rectangle](https://rectangleapp.com/). macOS window organizer.
-  - `Hyper` + `1/2/3/4`: current window to the 1st/2nd/3rd/4th quadrant of the screen
-  - `Hyper` + arrow keys
-  - `Hyper` + `C`: center
-  - `Ctrl` + `Option` + `D`: First third (depends on the orientation of the monitor, could be horizontal or vertical)
-  - `Ctrl` + `Option` + `F`: Second third
-  - `Ctrl` + `Option` + `G`: Last third
-  - `Ctrl` + `Option` + `E`: First two thirds
-  - `Ctrl` + `Option` + `T`: Last two thirds
+- [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
+  - `Hyper` + `M`: toggle Moom keyboard control.
 - [Monitor Control](https://github.com/MonitorControl/MonitorControl). Control external displays.
 - [腾讯柠檬清理 Tencent Lemon](https://lemon.qq.com/). Substitute for CleanMyMac X on backup machine.
 - [PopClip](https://pilotmoon.com/popclip/). Mouse selection extension. 🍎
@@ -90,6 +83,15 @@ A list of applications installed and/or frequently used on my device.
 - ~~[f.lux](https://justgetflux.com/). Control the on-screen color temperature.~~
 - ~~[HazeOver](https://hazeover.com/). Dim the windows out of focus and the background to create a distraction-free workspace. 🎫🇺🇦~~
 - ~~[MenubarX](https://menubarx.app/). Open up a window on the menubar. Reminds of [Macmenubar.com](https://macmenubar.com/) 🍎~~
+- ~~[Rectangle](https://rectangleapp.com/). macOS window organizer.~~
+  - ~~`Hyper` + `1/2/3/4`: current window to the 1st/2nd/3rd/4th quadrant of the screen~~
+  - ~~`Hyper` + arrow keys~~
+  - ~~`Hyper` + `C`: center~~
+  - ~~`Ctrl` + `Option` + `D`: First third (depends on the orientation of the monitor, could be horizontal or vertical)~~
+  - ~~`Ctrl` + `Option` + `F`: Second third~~
+  - ~~`Ctrl` + `Option` + `G`: Last third~~
+  - ~~`Ctrl` + `Option` + `E`: First two thirds~~
+  - ~~`Ctrl` + `Option` + `T`: Last two thirds~~
 - ~~[Kap](https://getkap.co/). Open source screen recorder.~~
 
 ### 📁 File Management
