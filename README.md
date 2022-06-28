@@ -1,6 +1,6 @@
 # rexarski's Toolbox
 
-Updated on 2022-06-26
+Updated on 2022-06-27
 
 - [rexarski's Toolbox](#rexarskis-toolbox)
   - [🖥️ macOS Setup](#️-macos-setup)
@@ -225,6 +225,7 @@ EOF
 
 - [Processing](https://processing.org/). Generative art playground.
 - [TablePlus](https://tableplus.com/). Nicely designed database management GUI. 🇺🇦
+- [Paw](https://paw.cloud/). API tool. 🇺🇦
 - [R](https://www.r-project.org/). THE statistical programming language.
 - [RStudio](https://www.rstudio.com/). Open source IDE for R language.
 - [Xcode](https://developer.apple.com/xcode/). 🍎
@@ -317,6 +318,7 @@ EOF
 - [Aerial](https://github.com/JohnCoates/Aerial). Apple TV Aerial Screensaver.
 - [Fliqlo Flip Clock](https://fliqlo.com/). The classic.
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn). Screensaver inspired by Apple's Event on October 30, 2018.
+- [fruit](https://github.com/Corkscrews/fruit). Retro Apple.
 
 ### 🔠 Font selections
 
