@@ -1,6 +1,6 @@
 # rexarski's Toolbox
 
-Updated on 2022-06-27
+Updated on 2022-06-28
 
 - [rexarski's Toolbox](#rexarskis-toolbox)
   - [🖥️ macOS Setup](#️-macos-setup)
@@ -104,6 +104,7 @@ A list of applications installed and/or frequently used on my device.
 - [Gemini](https://macpaw.com/gemini). Duplicate finder. 🎫🇺🇦
 - [iMazing 2](https://imazing.com/). iOS device management. Single device allowed. 🎫
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/). Manually control Time Machine backup schedule.
+  - `brew install --cask timemachineeditor`
 - [Transmit](https://panic.com/transmit/). File transfer between macOS and servers. 🎫
 
 ### 🔐 Security and Encryption
@@ -213,6 +214,7 @@ A list of applications installed and/or frequently used on my device.
   - [Git Open](https://github.com/paulirish/git-open)
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
 - [iTerm 2](https://iterm2.com/). Terminal, but better than Terminal.
+- [ServerCat](https://servercat.app/). Server status, docker management and SSH client for iOS (and macOS.) 🍎
 - [Visual Studio Code](https://code.visualstudio.com/). Code editor.
   - Use the following script to create a `code` command in terminal:
 
@@ -226,6 +228,8 @@ EOF
 - [Processing](https://processing.org/). Generative art playground.
 - [TablePlus](https://tableplus.com/). Nicely designed database management GUI. 🇺🇦
 - [Paw](https://paw.cloud/). API tool. 🇺🇦
+- [julia](https://julialang.org/)
+  - `brew install --cask julia`
 - [R](https://www.r-project.org/). THE statistical programming language.
 - [RStudio](https://www.rstudio.com/). Open source IDE for R language.
 - [Xcode](https://developer.apple.com/xcode/). 🍎
