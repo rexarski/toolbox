@@ -1,6 +1,6 @@
 # rexarski's Toolbox
 
-Updated on 2022-06-28
+Updated on 2022-06-30
 
 - [rexarski's Toolbox](#rexarskis-toolbox)
   - [🖥️ macOS Setup](#️-macos-setup)
@@ -27,7 +27,7 @@ New machine setup checklist
 - [ ] Set up iCloud account.
 - [ ] Install Chrome.
 - [ ] Install 1Password.
-- [ ] Install Google Drive, Dropbox. Sync.
+- [ ] Install Google Drive, ~~Dropbox,~~ Maestral. Sync.
 - [ ] Install Alfred.
 - [ ] Install Karabiner-Elements.
 - [ ] Install iTerm 2. Install [Homebrew](https://brew.sh/).
@@ -99,7 +99,8 @@ A list of applications installed and/or frequently used on my device.
 - [calibre](https://calibre-ebook.com/). E-book management software.
 - [DaisyDisk](https://daisydiskapp.com/). Analyzing disk usage with a wind rose diagram. 🍎
 - [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink). Organize async files, as the counterpart of my cloud storage. 🎫
-- [Dropbox](https://www.dropbox.com/home). Replaced due to the limitation of number of devices in sync.
+- ~~[Dropbox](https://www.dropbox.com/home). Replaced due to the limitation of number of devices in sync.~~
+- [Maestral](https://maestral.app/). Open source Dropbox client, simpler, smaller, less memory needed.
 - [Google Drive](https://www.google.com/drive/). 15GB might just be enough for now.
 - [Gemini](https://macpaw.com/gemini). Duplicate finder. 🎫🇺🇦
 - [iMazing 2](https://imazing.com/). iOS device management. Single device allowed. 🎫
@@ -252,6 +253,7 @@ EOF
 - [PhotoBulk](https://photobulkeditor.com/). Quick photo editor. 🍎
 - [PICO-8](https://www.lexaloffle.com/pico-8.php). Fantasy retro console game engine. 🎫
 - [Sip](https://sipapp.io/). A color picker app. 🇺🇦
+- [ColorSlurp](https://colorslurp.com/) as an alternative to Sip, but free. 🍎
 - ~~[Capture One](https://www.captureone.com/en). Free activation code gifted with a Fujifilm camera. Not that frequently used too.~~
 - ~~[Inboard](https://inboardapp.com/). Image organization. Development in hiatus. 🍎~~
 - ~~[Pixen](https://pixenapp.com/). Pixel art editor. 🍎~~
