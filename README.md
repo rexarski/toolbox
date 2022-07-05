@@ -1,6 +1,6 @@
 # rexarski's Toolbox
 
-Updated on 2022-06-30
+Updated on 2022-07-05
 
 - [rexarski's Toolbox](#rexarskis-toolbox)
   - [🖥️ macOS Setup](#️-macos-setup)
@@ -186,7 +186,6 @@ A list of applications installed and/or frequently used on my device.
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 - [Texpad](https://www.texpad.com/). LaTeX editor. 🎫
 - [Sofa](https://www.sofahq.com/). Downtime organizer. 🍎
-- [jrnl](https://jrnl.sh/en/stable/). A command line journal tool.
 - [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706). Coffee intake tracker. 🍎
 - [HiWater](https://apps.apple.com/us/app/hiwater-the-water-pyramid/id1561732866). Water intake tracker. 🍎
 - ~~[Streaks](https://streaksapp.com/). A habit tracker. 🍎~~
@@ -194,6 +193,7 @@ A list of applications installed and/or frequently used on my device.
   - ~~[Anytype](https://anytype.io/)/ An alternative to Notion. Offline access is its strength.~~
 - ~~[Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.~~
 - ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. 🍎~~
+- ~~[jrnl](https://jrnl.sh/en/stable/). A command line journal tool.~~
 
 ### 👨🏻‍💻 Development
 
@@ -216,6 +216,7 @@ A list of applications installed and/or frequently used on my device.
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
 - [iTerm 2](https://iterm2.com/). Terminal, but better than Terminal.
 - [ServerCat](https://servercat.app/). Server status, docker management and SSH client for iOS (and macOS.) 🍎
+- [Vim](https://www.vim.org/). The editor.
 - [Visual Studio Code](https://code.visualstudio.com/). Code editor.
   - Use the following script to create a `code` command in terminal:
 
@@ -291,13 +292,13 @@ EOF
   - `Hyper` + `F`: create new event/reminder
 - [Things 3](https://culturedcode.com/things/). The best GTD from my perspective. 🍎
   `Control` + `Space`: quick entry.
+- [Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.
 - ~~[Clear](https://apps.apple.com/us/app/clear-todos/id493136154). One of the GTD apps with the best interactions. Deprecated. What a pity. 🍎~~
-- ~~[Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.~~
 
 ### 💬 Messaging
 
-- [Swiftcord](https://swiftcordapp.github.io/Swiftcord/). A native Discord client for macOS.
-  - ~~Substitue for [Discord](https://discord.com/)~~.
+- [Discord](https://discord.com/).
+  - ~~[Swiftcord](https://swiftcordapp.github.io/Swiftcord/). A native Discord client for macOS.~~
 - [微信 WeChat](https://www.wechat.com/). Hate it but have to.
 - [Zoom](https://zoom.us/). For conference meeting, of course.
 - [Slack](https://slack.com/). Workspace communication.
