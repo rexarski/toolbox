@@ -185,7 +185,6 @@ A list of applications installed and/or frequently used on my device.
 - [Notability](https://notability.com/). The old-school handwriting note app from iPad. 🍎
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 - [Texpad](https://www.texpad.com/). LaTeX editor. 🎫
-- [Sofa](https://www.sofahq.com/). Downtime organizer. 🍎
 - [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706). Coffee intake tracker. 🍎
 - [HiWater](https://apps.apple.com/us/app/hiwater-the-water-pyramid/id1561732866). Water intake tracker. 🍎
 - ~~[Streaks](https://streaksapp.com/). A habit tracker. 🍎~~
@@ -194,6 +193,7 @@ A list of applications installed and/or frequently used on my device.
 - ~~[Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.~~
 - ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. 🍎~~
 - ~~[jrnl](https://jrnl.sh/en/stable/). A command line journal tool.~~
+- ~~[Sofa](https://www.sofahq.com/). Downtime organizer. 🍎~~
 
 ### 👨🏻‍💻 Development
 
