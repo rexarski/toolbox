@@ -1,6 +1,6 @@
 # rexarski's Toolbox
 
-Updated on 2022-07-05
+Updated on 2022-07-08
 
 - [rexarski's Toolbox](#rexarskis-toolbox)
   - [🖥️ macOS Setup](#️-macos-setup)
@@ -103,6 +103,9 @@ A list of applications installed and/or frequently used on my device.
 - [Maestral](https://maestral.app/). Open source Dropbox client, simpler, smaller, less memory needed.
 - [Google Drive](https://www.google.com/drive/). 15GB might just be enough for now.
 - [Gemini](https://macpaw.com/gemini). Duplicate finder. 🎫🇺🇦
+- [Hook](https://hookproductivity.com/). Create, search robust link information on everything. 🎫
+  - `Ctrl` + `H`: show Hook context window
+  - `Ctrl` + `Command` + `Shift` + `C`: copy link
 - [iMazing 2](https://imazing.com/). iOS device management. Single device allowed. 🎫
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/). Manually control Time Machine backup schedule.
   - `brew install --cask timemachineeditor`
