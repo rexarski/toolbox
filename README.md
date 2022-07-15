@@ -64,9 +64,9 @@ A list of applications installed and/or frequently used on my device.
 - [CleanMyMac X](https://macpaw.com/cleanmymac). A system cleaner. 🇺🇦
 - [coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.
 - [Karabiner Elements](https://karabiner-elements.pqrs.org/). Key mapping customizer.
-  - `Hyper` == `command+control+option+shift`
+  - `Hyper` == `Cmd + Ctrl + Option + Shift`
   - `Shift` + `Backspace`: Forward delete
-  - Complex modifications: [Change `caps_lock` to `command+control+option+shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
+  - Complex modifications: [Change `caps_lock` to `Cmd + Ctrl + Option + Shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
 - [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
   - `Hyper` + `M`: toggle Moom keyboard control.
@@ -105,7 +105,7 @@ A list of applications installed and/or frequently used on my device.
 - [Gemini](https://macpaw.com/gemini). Duplicate finder. 🎫🇺🇦
 - [Hook](https://hookproductivity.com/). Create, search robust link information on everything. 🎫
   - `Ctrl` + `H`: show Hook context window
-  - `Ctrl` + `Command` + `Shift` + `C`: copy link
+  - `Ctrl` + `Cmd` + `Shift` + `C`: copy link
 - [iMazing 2](https://imazing.com/). iOS device management. Single device allowed. 🎫
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/). Manually control Time Machine backup schedule.
   - `brew install --cask timemachineeditor`
@@ -132,15 +132,13 @@ A list of applications installed and/or frequently used on my device.
 |                                                                                   [Keepa](https://keepa.com/#!) |                    ✅                     |                           ❌                           |   ❌    |
 |                                                             [Modern for Wikipedia](https://www.modernwiki.app/) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                                              [OneTab](https://www.one-tab.com/) |                    ✅                     |                           ✅                           |   ❌    |
-| [Pinboard Plus](https://chrome.google.com/webstore/detail/pinboard-plus/mphdppdgoagghpmmhodmfajjlloijnbd?hl=en) |                    ✅                     |                           ❌                           |   ❌    |
-|                                         [Pinboard WebExtension](https://github.com/gapop/pinboard-webextension) |                    ❌                     |                           ✅                           |   ❌    |
 |                                                                             [Raindrop.io](https://raindrop.io/) |                    ✅                     |                           ❌                           |   ❌    |
 |                                                          [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                                      [Session Buddy](https://sessionbuddy.com/) |                    ✅                     |                           ❌                           |   ❌    |
 |                                                      [SingleFile](https://github.com/gildas-lormeau/SingleFile) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                                                [SteamDB](https://steamdb.info/) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                              [uBlock Origin](https://github.com/gorhill/uBlock) |                    ✅                     |                           ✅                           |   ❌    |
-|                                        [豆伴：豆瓣账号备份工具](https://blog.doufen.org/posts/tofu-user-guide/) |                    ✅                     |                           ❌                           |   ❌    |
+|                                        [豆伴：豆瓣账号备份工具](https://blog.doufen.org/posts/tofu-user-guide/)     |                    ✅                     |                           ❌                           |   ❌    |
 |                                                          [Auto Tab Discard](https://add0n.com/tab-discard.html) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                        [HTTPS Everywhere](https://www.eff.org/https-everywhere) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                                                    [Eagle](https://eagle.cool/) |                    ✅                     |                           ✅                           |   ✅    |
@@ -155,16 +153,16 @@ A list of applications installed and/or frequently used on my device.
 - [Image2icon](https://img2icnsapp.com/). Convert images to icons. 🍎🇺🇦
 - [Keka](https://www.keka.io/en/). File archiver.
 - [Maccy](https://maccy.app/). Open source clipboard management.
-  - `Command` + `Shift` + `V`: show clipboard.
+  - `Cmd` + `Shift` + `V`: show clipboard.
 - [Shottr](https://shottr.cc/). Great substitute to CleanShot X.
-  - `Command` + `Shift` + `3` = Shottr area screenshot
-  - `Command` + `Shift` + `4` = Shottr active window screenshot
-  - `Command` + `Shift` + `5` = Shottr fullscreen screenshot
+  - `Cmd` + `Shift` + `3` = Shottr area screenshot
+  - `Cmd` + `Shift` + `4` = Shottr active window screenshot
+  - `Cmd` + `Shift` + `5` = Shottr fullscreen screenshot
 - [CleanShot X](https://cleanshot.com/). Great screenshot and GIFs tool. 🇺🇦
-  - `Command` + `Shift` + `3` = Capture area
-  - `Command` + `Shift` + `4` = Capture window
-  - `Command` + `Shift` + `5` = Capture fullscreen
-  - `Command` + `Shift` + `6` = All-In-One
+  - `Cmd` + `Shift` + `3` = Capture area
+  - `Cmd` + `Shift` + `4` = Capture window
+  - `Cmd` + `Shift` + `5` = Capture fullscreen
+  - `Cmd` + `Shift` + `6` = All-In-One
 - [MD Clock](https://www.miidii.tech/). Clock app. 🍎
 - [Dark Noise](https://darknoise.app/). White noise app. 🍎
   - ~~[Noizio](https://noiz.io/). Substituted. 🍎🇺🇦~~
@@ -178,8 +176,8 @@ A list of applications installed and/or frequently used on my device.
 
 - [Day One](https://dayoneapp.com/). My daily journal app. 🍎🔁
 - [Drafts](https://getdrafts.com/). One-in-all text/draft app. 🍎🔁
-  - `Command` + `Shift` + `1` = Drafts main window
-  - `Command` + `Shift` + `2` = Drafts quick entry
+  - `Cmd` + `Shift` + `1` = Drafts main window
+  - `Cmd` + `Shift` + `2` = Drafts quick entry
 - [Goodnotes 5](https://www.goodnotes.com/). 🍎
 - [MarkText](https://github.com/marktext/marktext). Open source Markdown editor.
   - ~~Substitute for [Typora](https://typora.io/)🎫~~
@@ -210,14 +208,25 @@ A list of applications installed and/or frequently used on my device.
   - [PyCharm](https://www.jetbrains.com/pycharm/)
   - [DataGrip](https://www.jetbrains.com/datagrip/)
 - [Fig](https://fig.io/). Auto-complete in terminal apps. Very powerful companion with iTerm 2. Plugins in-use:
-  - [Oh My Zsh](https://ohmyz.sh/)
-  - [Zsh Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-  - [Zsh Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-  - [Spaceship Prompt](https://spaceship-prompt.sh/)
-  - [You Should Use](https://github.com/MichaelAquilina/zsh-you-should-use)
-  - [Git Open](https://github.com/paulirish/git-open)
+  - `brew install --cask fig`
+  - Plugins
+    - [Oh My Zsh](https://ohmyz.sh/)
+    - [Zsh Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+    - [Zsh Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+    - [Spaceship Prompt](https://spaceship-prompt.sh/)
+    - [You Should Use](https://github.com/MichaelAquilina/zsh-you-should-use)
+    - [Git Open](https://github.com/paulirish/git-open)
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
 - [iTerm 2](https://iterm2.com/). Terminal, but better than Terminal.
+- [Warp](https://www.warp.dev). Terminal, but better than iTerm 2.
+  - “The terminal for the 21st century.” Rust-based, blazingly fast terminal with some killer features like code blocks, etc.
+  - `brew install --cask warp`
+  - [Custom themes](https://docs.warp.dev/features/themes)
+  - `Ctrl` + `Shift` + `R`: workflows
+  - `Cmd` + `P`: command palette
+  - `Cmd` + `D`: split pane
+  - `Ctrl` + `R`: history search
+  - `Ctrl` + \`: AI command search
 - [ServerCat](https://servercat.app/). Server status, docker management and SSH client for iOS (and macOS.) 🍎
 - [Vim](https://www.vim.org/). The editor.
 - [Visual Studio Code](https://code.visualstudio.com/). Code editor.
@@ -258,6 +267,8 @@ EOF
 - [PICO-8](https://www.lexaloffle.com/pico-8.php). Fantasy retro console game engine. 🎫
 - [Sip](https://sipapp.io/). A color picker app. 🇺🇦
 - [ColorSlurp](https://colorslurp.com/) as an alternative to Sip, but free. 🍎
+- [Permute](https://software.charliemonroe.net/permute/). Media convertor. 🇺🇦
+- [Meta](https://www.nightbirdsevolve.com/meta/). Digital music management, a tag editor. 🇺🇦
 - ~~[Capture One](https://www.captureone.com/en). Free activation code gifted with a Fujifilm camera. Not that frequently used too.~~
 - ~~[Inboard](https://inboardapp.com/). Image organization. Development in hiatus. 🍎~~
 - ~~[Pixen](https://pixenapp.com/). Pixel art editor. 🍎~~
@@ -294,7 +305,7 @@ EOF
 - [Fantastical](https://flexibits.com/fantastical). A calendar and todo list app with great NLP input. 🎫
   - `Hyper` + `F`: create new event/reminder
 - [Things 3](https://culturedcode.com/things/). The best GTD from my perspective. 🍎
-  `Control` + `Space`: quick entry.
+  `Ctrl` + `Space`: quick entry.
 - [Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.
 - ~~[Clear](https://apps.apple.com/us/app/clear-todos/id493136154). One of the GTD apps with the best interactions. Deprecated. What a pity. 🍎~~
 
@@ -351,7 +362,7 @@ EOF
 
 ## 🔃 Service subscriptions
 
-- [Pinboard](https://pinboard.in/)
+- ~~[Pinboard](https://pinboard.in/)~~
 - [YouTube Premium](https://www.youtube.com/premium)
 - [Amazon Prime](https://www.amazon.com/amazonprime)
 - [Netflix](https://www.netflix.com/)
