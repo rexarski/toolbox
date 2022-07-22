@@ -1,6 +1,6 @@
 # rexarski's Toolbox
 
-Updated on 2022-07-08
+Updated on 2022-07-22
 
 - [rexarski's Toolbox](#rexarskis-toolbox)
   - [🖥️ macOS Setup](#️-macos-setup)
@@ -57,7 +57,7 @@ A list of applications installed and/or frequently used on my device.
 
 - [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫🇺🇦
 - [Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫
-  - `Option` + `Space`: Activate Aflred search bar.
+  - `Hyper` + `Space`: Activate Aflred search bar.
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). 🍎
   - `Hyper` + `A`: turn on/off
 - [Bartender](https://www.macbartender.com/). macOS Menubar extension. 🎫🇺🇦
@@ -74,6 +74,8 @@ A list of applications installed and/or frequently used on my device.
 - [腾讯柠檬清理 Tencent Lemon](https://lemon.qq.com/). Substitute for CleanMyMac X on backup machine.
 - [PopClip](https://pilotmoon.com/popclip/). Mouse selection extension. 🍎
   - More [extensions](https://pilotmoon.com/popclip/extensions/)
+- [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
+  - `Option` + `Space`: Activate Raycast.
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
   - Use ~~`~~`~~ `:` to trigger the app.
 - [iStat Menus](https://bjango.com/mac/istatmenus/). Menubar system monitor. 🇺🇦
@@ -126,6 +128,7 @@ A list of applications installed and/or frequently used on my device.
 |                                                                             [1Password](https://1password.com/) |                    ✅                     |                           ✅                           |   ✅    |
 |                                                                          [Dark Reader](https://darkreader.org/) |                    ✅                     |                           ✅                           |   ✅    |
 |                                             [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) |                    ✅                     |                           ✅                           |   ❌    |
+|                                                        [HNTP](https://github.com/ibillingsley/HumbleNewTabPage) |                    ✅                     |                           ❌                           |   ❌    |
 |                                     [Hypothesis](https://web.hypothes.is/help/installing-the-chrome-extension/) |                    ✅                     |                           ❌                           |   ❌    |
 |                                                                   [Instapaper](https://www.instapaper.com/save) |                    ✅                     |                           ✅                           |   ✅    |
 |                                                     [Downie](https://blog.charliemonroe.net/downie-and-chrome/) |                    ✅                     |                           ✅                           |   ✅    |
@@ -142,7 +145,7 @@ A list of applications installed and/or frequently used on my device.
 |                                                          [Auto Tab Discard](https://add0n.com/tab-discard.html) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                        [HTTPS Everywhere](https://www.eff.org/https-everywhere) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                                                    [Eagle](https://eagle.cool/) |                    ✅                     |                           ✅                           |   ✅    |
-| [Unclutter](https://github.com/lindylearn/unclutter) | ✅ | ✅ | ❌ |
+|                                                            [Unclutter](https://github.com/lindylearn/unclutter) |                    ✅                     |                           ✅                           |   ❌    |
 
 - [1Blocker](https://1blocker.com/). Content blocker on Safari. 🍎
 
@@ -185,6 +188,7 @@ A list of applications installed and/or frequently used on my device.
 - [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫🇺🇦
 - [Notability](https://notability.com/). The old-school handwriting note app from iPad. 🍎
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
+- [Craft](https://www.craft.do/). Document management + notes. 🍎🔁
 - [Texpad](https://www.texpad.com/). LaTeX editor. 🎫
 - [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706). Coffee intake tracker. 🍎
 - [HiWater](https://apps.apple.com/us/app/hiwater-the-water-pyramid/id1561732866). Water intake tracker. 🍎
@@ -194,6 +198,7 @@ A list of applications installed and/or frequently used on my device.
 - ~~[Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.~~
 - ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. 🍎~~
 - ~~[jrnl](https://jrnl.sh/en/stable/). A command line journal tool.~~
+- ~~[FSNotes](https://fsnot.es/). Open source notes manager for macOS and iOS.~~
 - ~~[Sofa](https://www.sofahq.com/). Downtime organizer. 🍎~~
 
 ### 👨🏻‍💻 Development
