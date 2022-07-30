@@ -42,6 +42,7 @@ New machine setup checklist
   - `git config --global core.excludesfile ~/.gitignore`
 - [ ] Generate and add SSH key to GitHub account.
 - [ ] Turn off the iCloud sync of Photos before library migration.
+- [ ] Turn off the Spotlight.
 - [ ] Install essential applications in the following list.
 
 ```plaintext
@@ -57,7 +58,7 @@ A list of applications installed and/or frequently used on my device.
 
 - [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫🇺🇦
 - [Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫
-  - `Hyper` + `Space`: Activate Aflred search bar.
+  - `Option` + `Space`: Activate Aflred search bar.
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). 🍎
   - `Hyper` + `A`: turn on/off
 - [Bartender](https://www.macbartender.com/). macOS Menubar extension. 🎫🇺🇦
@@ -75,7 +76,7 @@ A list of applications installed and/or frequently used on my device.
 - [PopClip](https://pilotmoon.com/popclip/). Mouse selection extension. 🍎
   - More [extensions](https://pilotmoon.com/popclip/extensions/)
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
-  - `Option` + `Space`: Activate Raycast.
+  - `Hyper` + `Space`: Activate Raycast.
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
   - Use ~~`~~`~~ `:` to trigger the app.
 - [iStat Menus](https://bjango.com/mac/istatmenus/). Menubar system monitor. 🇺🇦
@@ -367,7 +368,6 @@ EOF
 
 ## 🔃 Service subscriptions
 
-- ~~[Pinboard](https://pinboard.in/)~~
 - [YouTube Premium](https://www.youtube.com/premium)
 - [Amazon Prime](https://www.amazon.com/amazonprime)
 - [Netflix](https://www.netflix.com/)
@@ -379,8 +379,16 @@ EOF
 - [FlowingData](https://flowingdata.com/membership/)
 - [1Password Family](https://1password.com/families/)
 - [Day One](https://dayoneapp.com/)
-- [NOMO CAM](https://apps.apple.com/us/app/nomo-cam-point-and-shoot/id1362548649)
+- [CARROT Weather](https://www.meetcarrot.com/weather/)
+- [Craft](https://www.craft.do/)
 - [Tweetbot for iOS](https://tapbots.com/tweetbot/)
 - [Nintendo Switch Online](https://www.nintendo.com/switch/online-service/)
 - [F1 TV Pro](https://f1tv.formula1.com/)
 - [Setapp](https://setapp.com/)
+- [不在场](https://buzaichang.zhubai.love/)
+
+
+### Cancelling
+
+- ~~[Pinboard](https://pinboard.in/)~~
+- ~~[NOMO CAM](https://apps.apple.com/us/app/nomo-cam-point-and-shoot/id1362548649)~~
