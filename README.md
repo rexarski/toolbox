@@ -1,6 +1,6 @@
 # rexarski's Toolbox
 
-Updated on 2022-07-22
+Updated on 2022-08-05
 
 - [rexarski's Toolbox](#rexarskis-toolbox)
   - [🖥️ macOS Setup](#️-macos-setup)
@@ -263,6 +263,7 @@ EOF
 
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/). Purchased on [App Store](https://apps.apple.com/us/app/affinity-designer/id1274090551). 🍎
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/). Purchased from the developer. 🎫
+- [Darkroom](https://darkroom.co/). Very powerful and user-friendly photo + video editor in Apple's ecosystem. 🍎🎫
 - [Figma](https://www.figma.com/) == Design Swiss Army knife.
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/). 🍎
   - [Motion](https://www.apple.com/final-cut-pro/motion/). 🍎
