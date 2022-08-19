@@ -122,7 +122,9 @@ A list of applications installed and/or frequently used on my device.
 
 ### 🌏 Internet
 
-- Chrome as default browser for now.
+- [Arc](https://thebrowser.company/) as default browser for now. It's brilliant so far.
+
+And the holy trinity of Safari, Chrome, and Firefox.
 
 |                                                                                                          Plugin | [Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Safari |
 | --------------------------------------------------------------------------------------------------------------: | :--------------------------------------: | :---------------------------------------------------: | :----: |
