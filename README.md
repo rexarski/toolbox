@@ -1,6 +1,6 @@
 # rexarski's Toolbox
 
-Updated on 2022-08-05
+Updated on 2022-08-28
 
 - [rexarski's Toolbox](#rexarskis-toolbox)
   - [🖥️ macOS Setup](#️-macos-setup)
@@ -389,6 +389,7 @@ EOF
 - [F1 TV Pro](https://f1tv.formula1.com/)
 - [Setapp](https://setapp.com/)
 - [不在场](https://buzaichang.zhubai.love/)
+- [HBO Max](https://www.hbomax.com/)
 
 
 ### Cancelling
