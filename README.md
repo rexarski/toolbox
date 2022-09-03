@@ -1,7 +1,5 @@
 # rexarski's Toolbox
 
-Updated on 2022-08-28
-
 - [rexarski's Toolbox](#rexarskis-toolbox)
   - [🖥️ macOS Setup](#️-macos-setup)
     - [🛠 System Extension](#-system-extension)
