@@ -122,9 +122,9 @@ A list of applications installed and/or frequently used on my device.
 
 ### 🌏 Internet
 
-- [Arc](https://thebrowser.company/) as default browser for now. It's brilliant so far.
+- ~~[Arc](https://thebrowser.company/). Tried it and liked it.~~
 
-And the holy trinity of Safari, Chrome, and Firefox.
+The holy trinity of Safari, Chrome, and Firefox.
 
 |                                                                                                          Plugin | [Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Safari |
 | --------------------------------------------------------------------------------------------------------------: | :--------------------------------------: | :---------------------------------------------------: | :----: |
@@ -154,6 +154,7 @@ And the holy trinity of Safari, Chrome, and Firefox.
 
 ### 🧰 Utilities
 
+- [DeepL Translator](https://www.deepl.com/).
 - [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins. 🇺🇦
 - [Folx](https://www.mac-downloader.com/). Download manager. 🇺🇦
 - [Image2icon](https://img2icnsapp.com/). Convert images to icons. 🍎🇺🇦
@@ -207,6 +208,7 @@ And the holy trinity of Safari, Chrome, and Firefox.
 ### 👨🏻‍💻 Development
 
 - [Anaconda](https://www.anaconda.com/). Data science resource management for Python (mainly) and R (not really.)
+  - I also use [poetry](https://python-poetry.org) for python package management.
 - [Dash](https://kapeli.com/dash). Offline access to documentations. 🎫🇺🇦
 - [Expressions](https://www.apptorium.com/expressions). Nice regular expression helper. 🇺🇦
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/). Activated with Educational license. 🔁
@@ -226,6 +228,7 @@ And the holy trinity of Safari, Chrome, and Firefox.
     - [Git Open](https://github.com/paulirish/git-open)
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
 - [iTerm 2](https://iterm2.com/). Terminal, but better than Terminal.
+  - [vimrc](https://github.com/amix/vimrc)
 - [Warp](https://www.warp.dev). Terminal, but better than iTerm 2.
   - “The terminal for the 21st century.” Rust-based, blazingly fast terminal with some killer features like code blocks, etc.
   - `brew install --cask warp`
