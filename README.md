@@ -61,7 +61,6 @@ A list of applications installed and/or frequently used on my device.
   - `Hyper` + `A`: turn on/off
 - [Bartender](https://www.macbartender.com/). macOS Menubar extension. 🎫🇺🇦
 - [CleanMyMac X](https://macpaw.com/cleanmymac). A system cleaner. 🇺🇦
-- [coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.
 - [Karabiner Elements](https://karabiner-elements.pqrs.org/). Key mapping customizer.
   - `Hyper` == `Cmd + Ctrl + Option + Shift`
   - `Shift` + `Backspace`: Forward delete
@@ -94,13 +93,13 @@ A list of applications installed and/or frequently used on my device.
   - ~~`Ctrl` + `Option` + `E`: First two thirds~~
   - ~~`Ctrl` + `Option` + `T`: Last two thirds~~
 - ~~[Kap](https://getkap.co/). Open source screen recorder.~~
+- ~~[coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.~~
 
 ### 📁 File Management
 
 - [calibre](https://calibre-ebook.com/). E-book management software.
 - [DaisyDisk](https://daisydiskapp.com/). Analyzing disk usage with a wind rose diagram. 🍎
 - [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink). Organize async files, as the counterpart of my cloud storage. 🎫
-- ~~[Dropbox](https://www.dropbox.com/home). Replaced due to the limitation of number of devices in sync.~~
 - [Maestral](https://maestral.app/). Open source Dropbox client, simpler, smaller, less memory needed.
 - [Google Drive](https://www.google.com/drive/). 15GB might just be enough for now.
 - [Gemini](https://macpaw.com/gemini). Duplicate finder. 🎫🇺🇦
@@ -111,6 +110,7 @@ A list of applications installed and/or frequently used on my device.
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/). Manually control Time Machine backup schedule.
   - `brew install --cask timemachineeditor`
 - [Transmit](https://panic.com/transmit/). File transfer between macOS and servers. 🎫
+- ~~[Dropbox](https://www.dropbox.com/home). Replaced due to the limitation of number of devices in sync.~~
 
 ### 🔐 Security and Encryption
 
@@ -119,8 +119,6 @@ A list of applications installed and/or frequently used on my device.
 - ~~[Encrypto](https://macpaw.com/encrypto). Encrypt files with AES-256. 🍎~~
 
 ### 🌏 Internet
-
-- ~~[Arc](https://thebrowser.company/). Tried it and liked it.~~
 
 The holy trinity of Safari, Chrome, and Firefox.
 
@@ -143,10 +141,8 @@ The holy trinity of Safari, Chrome, and Firefox.
 |                                                                                [SteamDB](https://steamdb.info/) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                              [uBlock Origin](https://github.com/gorhill/uBlock) |                    ✅                     |                           ✅                           |   ❌    |
 |                                        [豆伴：豆瓣账号备份工具](https://blog.doufen.org/posts/tofu-user-guide/)     |                    ✅                     |                           ❌                           |   ❌    |
-|                                                          [Auto Tab Discard](https://add0n.com/tab-discard.html) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                        [HTTPS Everywhere](https://www.eff.org/https-everywhere) |                    ✅                     |                           ✅                           |   ❌    |
 |                                                                                    [Eagle](https://eagle.cool/) |                    ✅                     |                           ✅                           |   ✅    |
-|                                                            [Unclutter](https://github.com/lindylearn/unclutter) |                    ✅                     |                           ✅                           |   ❌    |
 
 - [1Blocker](https://1blocker.com/). Content blocker on Safari. 🍎
 
@@ -168,12 +164,12 @@ The holy trinity of Safari, Chrome, and Firefox.
   - `Cmd` + `Shift` + `4` = Capture window
   - `Cmd` + `Shift` + `5` = Capture fullscreen
   - `Cmd` + `Shift` + `6` = All-In-One
-- [MD Clock](https://www.miidii.tech/). Clock app. 🍎
 - [Dark Noise](https://darknoise.app/). White noise app. 🍎
   - ~~[Noizio](https://noiz.io/). Substituted. 🍎🇺🇦~~
 - [Numi](https://numi.app/). Calculator with freedom. 🎫🇺🇦
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 🍎
-- [Data Jar](https://datajar.app/). Data store for shortcuts. 🍎
+- ~~[Data Jar](https://datajar.app/). Data store for shortcuts. 🍎~~
+- ~~[MD Clock](https://www.miidii.tech/). Clock app. 🍎~~
 - ~~[Cheatsheet](https://www.mediaatelier.com/CheatSheet/)~~. Not compatible with M1 chip.
 - ~~[Transmission](https://transmissionbt.com/). A BitTorrent client.~~
 
@@ -192,8 +188,8 @@ The holy trinity of Safari, Chrome, and Firefox.
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 - [Craft](https://www.craft.do/). Document management + notes. 🍎🔁
 - [Texpad](https://www.texpad.com/). LaTeX editor. 🎫
-- [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706). Coffee intake tracker. 🍎
-- [HiWater](https://apps.apple.com/us/app/hiwater-the-water-pyramid/id1561732866). Water intake tracker. 🍎
+- ~~[HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706). Coffee intake tracker. 🍎~~
+- ~~[HiWater](https://apps.apple.com/us/app/hiwater-the-water-pyramid/id1561732866). Water intake tracker. 🍎~~
 - ~~[Streaks](https://streaksapp.com/). A habit tracker. 🍎~~
 - ~~[Notion](https://www.notion.so/). The universal workspace. I'd prefer the web version.~~
   - ~~[Anytype](https://anytype.io/)/ An alternative to Notion. Offline access is its strength.~~
@@ -207,6 +203,7 @@ The holy trinity of Safari, Chrome, and Firefox.
 
 - [Anaconda](https://www.anaconda.com/). Data science resource management for Python (mainly) and R (not really.)
   - I also use [poetry](https://python-poetry.org) for python package management.
+  - `conda config —set auto_activate_base false`. [Do not activate `conda` by default](https://stackoverflow.com/questions/54429210/how-do-i-prevent-conda-from-activating-the-base-environment-by-default).
 - [Dash](https://kapeli.com/dash). Offline access to documentations. 🎫🇺🇦
 - [Expressions](https://www.apptorium.com/expressions). Nice regular expression helper. 🇺🇦
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/). Activated with Educational license. 🔁
@@ -236,7 +233,7 @@ The holy trinity of Safari, Chrome, and Firefox.
   - `Cmd` + `D`: split pane
   - `Ctrl` + `R`: history search
   - `Ctrl` + \`: AI command search
-- [ServerCat](https://servercat.app/). Server status, docker management and SSH client for iOS (and macOS.) 🍎
+- ~~[ServerCat](https://servercat.app/). Server status, docker management and SSH client for iOS (and macOS.) 🍎~~
 - [Vim](https://www.vim.org/). The editor.
 - [Visual Studio Code](https://code.visualstudio.com/). Code editor.
   - Use the following script to create a `code` command in terminal:
@@ -298,11 +295,11 @@ EOF
   - `Q`: Copy link
   - `W`: Add to Instapaper
   - `E`: Open in Chrome
-- [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 🍎
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
 - [Tweetbot](https://tapbots.com/tweetbot/mac/). Third-part Twitter client after all those years, still standing. 🍎
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。🍎
+- ~~[Pins](https://get-pins.app/). Modern Pinboard app on macOS. 🍎~~
 - ~~[MindNode](https://www.mindnode.com/). 🎫🇺🇦~~
 - ~~[NetNewsWire](https://netnewswire.com/). Open source RSS reader.~~
 - ~~[Skim](https://skim-app.sourceforge.io/). An open source PDF reader and note taker.~~
@@ -316,13 +313,13 @@ EOF
   - `Hyper` + `F`: create new event/reminder
 - [Things 3](https://culturedcode.com/things/). The best GTD from my perspective. 🍎
   `Ctrl` + `Space`: quick entry.
-- [Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.
+- ~~[Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.~~
 - ~~[Clear](https://apps.apple.com/us/app/clear-todos/id493136154). One of the GTD apps with the best interactions. Deprecated. What a pity. 🍎~~
 
 ### 💬 Messaging
 
 - [Discord](https://discord.com/).
-  - ~~[Swiftcord](https://swiftcordapp.github.io/Swiftcord/). A native Discord client for macOS.~~
+  - Or [Swiftcord](https://swiftcordapp.github.io/Swiftcord/). A native Discord client for macOS.
 - [微信 WeChat](https://www.wechat.com/). Hate it but have to.
 - [Zoom](https://zoom.us/). For conference meeting, of course.
 - [Slack](https://slack.com/). Workspace communication.
