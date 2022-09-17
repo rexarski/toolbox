@@ -145,10 +145,10 @@ The holy trinity of Safari, Chrome, and Firefox.
 |                                                                                    [Eagle](https://eagle.cool/) |                    ✅                     |                           ✅                           |   ✅    |
 
 - [1Blocker](https://1blocker.com/). Content blocker on Safari. 🍎
+- In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 
 ### 🧰 Utilities
 
-- [DeepL Translator](https://www.deepl.com/).
 - [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins. 🇺🇦
 - [Folx](https://www.mac-downloader.com/). Download manager. 🇺🇦
 - [Image2icon](https://img2icnsapp.com/). Convert images to icons. 🍎🇺🇦
@@ -168,7 +168,10 @@ The holy trinity of Safari, Chrome, and Firefox.
   - ~~[Noizio](https://noiz.io/). Substituted. 🍎🇺🇦~~
 - [Numi](https://numi.app/). Calculator with freedom. 🎫🇺🇦
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 🍎
+- [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
+  - `brew install --cask qlmarkdown`
 - ~~[Data Jar](https://datajar.app/). Data store for shortcuts. 🍎~~
+- ~~[DeepL Translator](https://www.deepl.com/).~~
 - ~~[MD Clock](https://www.miidii.tech/). Clock app. 🍎~~
 - ~~[Cheatsheet](https://www.mediaatelier.com/CheatSheet/)~~. Not compatible with M1 chip.
 - ~~[Transmission](https://transmissionbt.com/). A BitTorrent client.~~
@@ -205,6 +208,7 @@ The holy trinity of Safari, Chrome, and Firefox.
   - I also use [poetry](https://python-poetry.org) for python package management.
   - `conda config —set auto_activate_base false`. [Do not activate `conda` by default](https://stackoverflow.com/questions/54429210/how-do-i-prevent-conda-from-activating-the-base-environment-by-default).
 - [Dash](https://kapeli.com/dash). Offline access to documentations. 🎫🇺🇦
+- [Docker](https://www.docker.com/). Containerization platform.
 - [Expressions](https://www.apptorium.com/expressions). Nice regular expression helper. 🇺🇦
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/). Activated with Educational license. 🔁
   - "For the sake of the hard drive space. Don’t keep previous versions for instant rollback."
@@ -343,14 +347,14 @@ EOF
 
 ### 🎑 Screensaver
 
-- [Aerial](https://github.com/JohnCoates/Aerial). Apple TV Aerial Screensaver.
-- [Fliqlo Flip Clock](https://fliqlo.com/). The classic.
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn). Screensaver inspired by Apple's Event on October 30, 2018.
+- [Fliqlo Flip Clock](https://fliqlo.com/). The classic.
 - [fruit](https://github.com/Corkscrews/fruit). Retro Apple.
+- ~~[Aerial](https://github.com/JohnCoates/Aerial). Apple TV Aerial Screensaver.~~
 
 ### 🔠 Font selections
 
-- [Lexend](https://www.lexend.com/), sans serif
+- [Readex Pro (~~Lexend~~)](https://www.lexend.com/), sans serif
 - [Montserrat](https://fonts.google.com/specimen/Montserrat), sans serif
 - Roboto family
   - [Roboto](https://fonts.google.com/specimen/Roboto), sans serif
