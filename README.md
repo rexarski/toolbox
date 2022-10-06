@@ -17,6 +17,7 @@
     - [🎑 Screensaver](#-screensaver)
     - [🔠 Font selections](#-font-selections)
   - [🔃 Service subscriptions](#-service-subscriptions)
+    - [Cancelling](#cancelling)
 
 ## 🖥️ macOS Setup
 
@@ -120,29 +121,7 @@ A list of applications installed and/or frequently used on my device.
 
 ### 🌏 Internet
 
-The holy trinity of Safari, Chrome, and Firefox.
-
-|                                                                                                          Plugin | [Chrome](https://www.google.com/chrome/) | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Safari |
-| --------------------------------------------------------------------------------------------------------------: | :--------------------------------------: | :---------------------------------------------------: | :----: |
-|                                                                             [1Password](https://1password.com/) |                    ✅                     |                           ✅                           |   ✅    |
-|                                                                          [Dark Reader](https://darkreader.org/) |                    ✅                     |                           ✅                           |   ✅    |
-|                                             [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) |                    ✅                     |                           ✅                           |   ❌    |
-|                                                        [HNTP](https://github.com/ibillingsley/HumbleNewTabPage) |                    ✅                     |                           ❌                           |   ❌    |
-|                                     [Hypothesis](https://web.hypothes.is/help/installing-the-chrome-extension/) |                    ✅                     |                           ❌                           |   ❌    |
-|                                                                   [Instapaper](https://www.instapaper.com/save) |                    ✅                     |                           ✅                           |   ✅    |
-|                                                     [Downie](https://blog.charliemonroe.net/downie-and-chrome/) |                    ✅                     |                           ✅                           |   ✅    |
-|                                                                                   [Keepa](https://keepa.com/#!) |                    ✅                     |                           ❌                           |   ❌    |
-|                                                             [Modern for Wikipedia](https://www.modernwiki.app/) |                    ✅                     |                           ✅                           |   ❌    |
-|                                                                              [OneTab](https://www.one-tab.com/) |                    ✅                     |                           ✅                           |   ❌    |
-|                                                                             [Raindrop.io](https://raindrop.io/) |                    ✅                     |                           ❌                           |   ❌    |
-|                                                          [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) |                    ✅                     |                           ✅                           |   ❌    |
-|                                                                      [Session Buddy](https://sessionbuddy.com/) |                    ✅                     |                           ❌                           |   ❌    |
-|                                                      [SingleFile](https://github.com/gildas-lormeau/SingleFile) |                    ✅                     |                           ✅                           |   ❌    |
-|                                                                                [SteamDB](https://steamdb.info/) |                    ✅                     |                           ✅                           |   ❌    |
-|                                                              [uBlock Origin](https://github.com/gorhill/uBlock) |                    ✅                     |                           ✅                           |   ❌    |
-|                                        [豆伴：豆瓣账号备份工具](https://blog.doufen.org/posts/tofu-user-guide/)     |                    ✅                     |                           ❌                           |   ❌    |
-|                                                        [HTTPS Everywhere](https://www.eff.org/https-everywhere) |                    ✅                     |                           ✅                           |   ❌    |
-|                                                                                    [Eagle](https://eagle.cool/) |                    ✅                     |                           ✅                           |   ✅    |
+The holy trinity of Safari, [Chrome](https://www.google.com/chrome/), and [Firefox](https://www.mozilla.org/en-US/firefox/new/).
 
 - [1Blocker](https://1blocker.com/). Content blocker on Safari. 🍎
 - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
@@ -228,19 +207,11 @@ The holy trinity of Safari, Chrome, and Firefox.
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
 - [iTerm 2](https://iterm2.com/). Terminal, but better than Terminal.
   - [vimrc](https://github.com/amix/vimrc)
-- [Warp](https://www.warp.dev). Terminal, but better than iTerm 2.
-  - “The terminal for the 21st century.” Rust-based, blazingly fast terminal with some killer features like code blocks, etc.
-  - `brew install --cask warp`
-  - [Custom themes](https://docs.warp.dev/features/themes)
-  - `Ctrl` + `Shift` + `R`: workflows
-  - `Cmd` + `P`: command palette
-  - `Cmd` + `D`: split pane
-  - `Ctrl` + `R`: history search
-  - `Ctrl` + \`: AI command search
-- ~~[ServerCat](https://servercat.app/). Server status, docker management and SSH client for iOS (and macOS.) 🍎~~
 - [Vim](https://www.vim.org/). The editor.
 - [Visual Studio Code](https://code.visualstudio.com/). Code editor.
   - Use the following script to create a `code` command in terminal:
+- ~~[Warp](https://www.warp.dev). Rust-based, blazingly fast terminal with some killer features like code blocks, etc.~~
+- ~~[ServerCat](https://servercat.app/). Server status, docker management and SSH client for iOS (and macOS.) 🍎~~
 
 ```bash
 cat << EOF >> ~/.zprofile
@@ -256,6 +227,12 @@ EOF
   - `brew install --cask julia`
 - [R](https://www.r-project.org/). THE statistical programming language.
 - [RStudio](https://www.rstudio.com/). Open source IDE for R language.
+- [Quarto](https://quarto.org/). An open source scientific and technical publishing system built on Pandoc.
+  - `brew install --cask quarto`
+- [MacTeX](https://www.tug.org/mactex/). LaTeX distribution for macOS.
+  - `brew install --cask mactex`
+  - Follow this [blog](https://mathjiajia.github.io/vscode-and-latex/#step-3-install--configure-latex-workshop) to set up.
+  - Restart the machine to resolve the path issue.
 - [Xcode](https://developer.apple.com/xcode/). 🍎
 - ~~[RSwitch](https://rud.is/rswitch/). A lightweight menubar utility for R users.~~
 - ~~[Postman](https://www.postman.com/). API platform.~~
@@ -294,7 +271,6 @@ EOF
 - [Anki](https://apps.ankiweb.net/). A Open source flashcard tool.
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 🍎
 - [Deliveries](https://deliveries.app/en.html). Package tracking. 🍎
-- [Spark](https://sparkmailapp.com/). Email client. 🍎
 - [Reeder](https://reederapp.com/). RSS reader. 🍎
   - `Q`: Copy link
   - `W`: Add to Instapaper
@@ -307,6 +283,7 @@ EOF
 - ~~[MindNode](https://www.mindnode.com/). 🎫🇺🇦~~
 - ~~[NetNewsWire](https://netnewswire.com/). Open source RSS reader.~~
 - ~~[Skim](https://skim-app.sourceforge.io/). An open source PDF reader and note taker.~~
+- ~~[Spark](https://sparkmailapp.com/). Email client. 🍎~~
 - ~~[Maipo](https://apps.apple.com/us/app/maipo-for-weibo/id789066512?mt=12). Third-party Weibo client. 🍎~~
 
 ### 📆 Schedule
