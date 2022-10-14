@@ -369,7 +369,7 @@ EOF
 - [Setapp](https://setapp.com/)
 - [不在场](https://buzaichang.zhubai.love/)
 - [HBO Max](https://www.hbomax.com/)
-
+- [Obsidian Sync](https://obsidian.md/sync)
 
 ### Cancelling
 
