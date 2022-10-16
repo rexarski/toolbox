@@ -315,9 +315,9 @@ EOF
 - [IINA](https://iina.io/). Open source media player.
 - [Spotify](https://open.spotify.com/)
 - [Steam](https://store.steampowered.com/)
-- Battle.net
-  - [Hearthstone](https://playhearthstone.com/en-us). Collectible card game.
-  - [HSTracker](https://hsreplay.net/downloads/). Hearthstone deck tracker.
+- ~~Battle.net~~
+  - ~~[Hearthstone](https://playhearthstone.com/en-us). Collectible card game.~~
+  - ~~[HSTracker](https://hsreplay.net/downloads/). Hearthstone deck tracker.~~
 - ~~[YACReader](https://www.yacreader.com/). A cross-platform comic reader.~~
 - ~~[OpenEmu](https://openemu.org/). Retro game emulator.~~
 - ~~[OpenRA](https://www.openra.net/). C&C, Dune, RA built for modern era.~~
