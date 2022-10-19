@@ -42,6 +42,7 @@ New machine setup checklist
 - [ ] Generate and add SSH key to GitHub account.
 - [ ] Turn off the iCloud sync of Photos before library migration.
 - [ ] Turn off the Spotlight.
+- [ ] Turn on the Night Shift in System Preferences - Display, set the schedule to Custom (6 pm to 6 am).
 - [ ] Install essential applications in the following list.
 
 ```plaintext
