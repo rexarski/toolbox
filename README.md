@@ -228,6 +228,7 @@ EOF
   - `brew install --cask julia`
 - [R](https://www.r-project.org/). THE statistical programming language.
 - [RStudio](https://www.rstudio.com/). Open source IDE for R language.
+  - Custom theme Cobalt2 from [TmTheme Editor](https://tmtheme-editor.herokuapp.com/#!/editor/theme/Cobalt2), available in [config/cobalt2.tmTheme](config/cobalt2.tmTheme).
 - [Quarto](https://quarto.org/). An open source scientific and technical publishing system built on Pandoc.
   - `brew install --cask quarto`
 - [MacTeX](https://www.tug.org/mactex/). LaTeX distribution for macOS.
