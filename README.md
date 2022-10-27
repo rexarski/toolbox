@@ -43,6 +43,9 @@ New machine setup checklist
 - [ ] Turn off the iCloud sync of Photos before library migration.
 - [ ] Turn off the Spotlight.
 - [ ] Turn on the Night Shift in System Preferences - Display, set the schedule to Custom (6 pm to 6 am).
+- [ ] Turn off the auto boot feature.
+  - `sudo nvram AutoBoot=%00`
+  - Turn it back on by `sudo nvram AutoBoot=%03` or use `nvram -p` to check the current value.
 - [ ] Install essential applications in the following list.
 
 ```plaintext
