@@ -318,6 +318,7 @@ EOF
 - [Amazon Kindle](https://www.amazon.com/b?ie=UTF8&node=16571048011). 🍎
 - Books. System built-in EPUB reader.
 - [IINA](https://iina.io/). Open source media player.
+- [MultiViewer for F1](https://beta.f1mv.com/)
 - [Spotify](https://open.spotify.com/)
 - [Steam](https://store.steampowered.com/)
 - ~~Battle.net~~
