@@ -173,7 +173,7 @@ The holy trinity of Safari, [Chrome](https://www.google.com/chrome/), and [Firef
 - [Notability](https://notability.com/). The old-school handwriting note app from iPad. 🍎
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 - [Craft](https://www.craft.do/). Document management + notes. 🍎🔁
-- [Texpad](https://www.texpad.com/). LaTeX editor. 🎫
+- [texifier]([https://www.texpad.com/](https://www.texifier.com/)). LaTeX editor. 🎫
 - ~~[HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706). Coffee intake tracker. 🍎~~
 - ~~[HiWater](https://apps.apple.com/us/app/hiwater-the-water-pyramid/id1561732866). Water intake tracker. 🍎~~
 - ~~[Streaks](https://streaksapp.com/). A habit tracker. 🍎~~
