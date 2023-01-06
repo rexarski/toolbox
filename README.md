@@ -132,16 +132,6 @@ The holy trinity of Safari, [Chrome](https://www.google.com/chrome/), and [Firef
 
 ### 🧰 Utilities
 
-- [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins. 🇺🇦
-- [Folx](https://www.mac-downloader.com/). Download manager. 🇺🇦
-- [Image2icon](https://img2icnsapp.com/). Convert images to icons. 🍎🇺🇦
-- [Keka](https://www.keka.io/en/). File archiver.
-- [Maccy](https://maccy.app/). Open source clipboard management.
-  - `Cmd` + `Shift` + `V`: show clipboard.
-- [Shottr](https://shottr.cc/). Great substitute to CleanShot X.
-  - `Cmd` + `Shift` + `3` = Shottr area screenshot
-  - `Cmd` + `Shift` + `4` = Shottr active window screenshot
-  - `Cmd` + `Shift` + `5` = Shottr fullscreen screenshot
 - [CleanShot X](https://cleanshot.com/). Great screenshot and GIFs tool. 🇺🇦
   - `Cmd` + `Shift` + `3` = Capture area
   - `Cmd` + `Shift` + `4` = Capture window
@@ -149,10 +139,21 @@ The holy trinity of Safari, [Chrome](https://www.google.com/chrome/), and [Firef
   - `Cmd` + `Shift` + `6` = All-In-One
 - [Dark Noise](https://darknoise.app/). White noise app. 🍎
   - ~~[Noizio](https://noiz.io/). Substituted. 🍎🇺🇦~~
+- [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins. 🇺🇦
+- [Folx](https://www.mac-downloader.com/). Download manager. 🇺🇦
+- [Image2icon](https://img2icnsapp.com/). Convert images to icons. 🍎🇺🇦
+- [Keka](https://www.keka.io/en/). File archiver.
+- [Maccy](https://maccy.app/). Open source clipboard management.
+  - `Cmd` + `Shift` + `V`: show clipboard.
 - [Numi](https://numi.app/). Calculator with freedom. 🎫🇺🇦
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 🍎
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
   - `brew install --cask qlmarkdown`
+- [RIME | 中州韵输入法](https://rime.im/). "Rime Input Method Engine, rimes with your keystrokes."
+- [Shottr](https://shottr.cc/). Great substitute to CleanShot X.
+  - `Cmd` + `Shift` + `3` = Shottr area screenshot
+  - `Cmd` + `Shift` + `4` = Shottr active window screenshot
+  - `Cmd` + `Shift` + `5` = Shottr fullscreen screenshot
 - ~~[Data Jar](https://datajar.app/). Data store for shortcuts. 🍎~~
 - ~~[DeepL Translator](https://www.deepl.com/).~~
 - ~~[MD Clock](https://www.miidii.tech/). Clock app. 🍎~~
@@ -183,7 +184,6 @@ The holy trinity of Safari, [Chrome](https://www.google.com/chrome/), and [Firef
 - ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. 🍎~~
 - ~~[jrnl](https://jrnl.sh/en/stable/). A command line journal tool.~~
 - ~~[FSNotes](https://fsnot.es/). Open source notes manager for macOS and iOS.~~
-- ~~[Sofa](https://www.sofahq.com/). Downtime organizer. 🍎~~
 
 ### 👨🏻‍💻 Development
 
@@ -319,6 +319,7 @@ EOF
 - Books. System built-in EPUB reader.
 - [IINA](https://iina.io/). Open source media player.
 - [MultiViewer for F1](https://beta.f1mv.com/)
+- [Sofa](https://sofahq.com/). Downtime organizer. 🍎
 - [Spotify](https://open.spotify.com/)
 - [Steam](https://store.steampowered.com/)
 - ~~Battle.net~~
