@@ -191,7 +191,6 @@ The holy trinity of Safari, [Chrome](https://www.google.com/chrome/), and [Firef
   - I also use [poetry](https://python-poetry.org) for python package management.
   - `conda config —set auto_activate_base false`. [Do not activate `conda` by default](https://stackoverflow.com/questions/54429210/how-do-i-prevent-conda-from-activating-the-base-environment-by-default).
 - [Dash](https://kapeli.com/dash). Offline access to documentations. 🎫🇺🇦
-- [Docker](https://www.docker.com/). Containerization platform.
 - [Expressions](https://www.apptorium.com/expressions). Nice regular expression helper. 🇺🇦
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/). Activated with Educational license. 🔁
   - "For the sake of the hard drive space. Don’t keep previous versions for instant rollback."
@@ -214,8 +213,6 @@ The holy trinity of Safari, [Chrome](https://www.google.com/chrome/), and [Firef
 - [Vim](https://www.vim.org/). The editor.
 - [Visual Studio Code](https://code.visualstudio.com/). Code editor.
   - Use the following script to create a `code` command in terminal:
-- ~~[Warp](https://www.warp.dev). Rust-based, blazingly fast terminal with some killer features like code blocks, etc.~~
-- ~~[ServerCat](https://servercat.app/). Server status, docker management and SSH client for iOS (and macOS.) 🍎~~
 
 ```bash
 cat << EOF >> ~/.zprofile
@@ -226,7 +223,6 @@ EOF
 
 - [Processing](https://processing.org/). Generative art playground.
 - [TablePlus](https://tableplus.com/). Nicely designed database management GUI. 🇺🇦
-- [Paw](https://paw.cloud/). API tool. 🇺🇦
 - [julia](https://julialang.org/)
   - `brew install --cask julia`
 - [R](https://www.r-project.org/). THE statistical programming language.
@@ -239,11 +235,15 @@ EOF
   - Follow this [blog](https://mathjiajia.github.io/vscode-and-latex/#step-3-install--configure-latex-workshop) to set up.
   - Restart the machine to resolve the path issue.
 - [Xcode](https://developer.apple.com/xcode/). 🍎
-- ~~[RSwitch](https://rud.is/rswitch/). A lightweight menubar utility for R users.~~
+- ~~[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term). Open source retro terminal emulator.~~
+- ~~[Docker](https://www.docker.com/). Containerization platform.~~
+- ~~[GitKraken](https://www.gitkraken.com/git-client). More fancy Git GUI. 🔁~~
 - ~~[Postman](https://www.postman.com/). API platform.~~
 - ~~[QGIS](https://qgis.org/en/site/). Open source GIS.~~
-- ~~[GitKraken](https://www.gitkraken.com/git-client). More fancy Git GUI. 🔁~~
-- ~~[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term). Open source retro terminal emulator.~~
+- ~~[RapidAPI](https://rapidapi.com/). API tool. 🇺🇦~~
+- ~~[RSwitch](https://rud.is/rswitch/). A lightweight menubar utility for R users.~~
+- ~~[ServerCat](https://servercat.app/). Server status, docker management and SSH client for iOS (and macOS.) 🍎~~
+- ~~[Warp](https://www.warp.dev). Rust-based, blazingly fast terminal with some killer features like code blocks, etc.~~
 
 ### 📷 Creative
 
@@ -317,6 +317,7 @@ EOF
 
 - [Amazon Kindle](https://www.amazon.com/b?ie=UTF8&node=16571048011). 🍎
 - Books. System built-in EPUB reader.
+- [Hobi](https://hobiapp.com/). TV shows tracker. 🍎
 - [IINA](https://iina.io/). Open source media player.
 - [MultiViewer for F1](https://beta.f1mv.com/)
 - [Sofa](https://sofahq.com/). Downtime organizer. 🍎
