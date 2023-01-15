@@ -27,7 +27,6 @@ New machine setup checklist
 - [ ] Install Chrome.
 - [ ] Install 1Password.
 - [ ] Install Google Drive, ~~Dropbox,~~ Maestral. Sync.
-- [ ] Install Alfred.
 - [ ] Install Karabiner-Elements.
 - [ ] Install iTerm 2. Install [Homebrew](https://brew.sh/).
 - [ ] [Change computer and host name](https://apple.stackexchange.com/questions/66611/how-to-change-computer-name-so-terminal-displays-it-in-mac-os-x-mountain-lion):
@@ -60,8 +59,6 @@ A list of applications installed and/or frequently used on my device.
 ### 🛠 System Extension
 
 - [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫🇺🇦
-- [Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫
-  - `Option` + `Space`: Activate Aflred search bar.
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). 🍎
   - `Hyper` + `A`: turn on/off
 - [Bartender](https://www.macbartender.com/). macOS Menubar extension. 🎫🇺🇦
@@ -75,19 +72,22 @@ A list of applications installed and/or frequently used on my device.
   - `Hyper` + `M`: toggle Moom keyboard control.
 - [Monitor Control](https://github.com/MonitorControl/MonitorControl). Control external displays.
 - [腾讯柠檬清理 Tencent Lemon](https://lemon.qq.com/). Substitute for CleanMyMac X on backup machine.
-- [PopClip](https://pilotmoon.com/popclip/). Mouse selection extension. 🍎
-  - More [extensions](https://pilotmoon.com/popclip/extensions/)
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
-  - `Hyper` + `Space`: Activate Raycast.
+  - ~~`Hyper`~~`Option` + `Space`: Activate Raycast.
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
   - Use ~~`~~`~~ `:` to trigger the app.
 - [iStat Menus](https://bjango.com/mac/istatmenus/). Menubar system monitor. 🇺🇦
 - [KeyCastr](https://github.com/keycastr/keycastr). Open source keystroke visualizer.
   - `Hyper` + `K`: Toggle capturing
-- ~~[Yoink](https://eternalstorms.at/yoink/mac/). Temp file shelf. 🍎🇺🇦~~
+- ~~[Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫~~
+  - ~~`Option` + `Space`: Activate Aflred search bar.~~
+- ~~[coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.~~
 - ~~[f.lux](https://justgetflux.com/). Control the on-screen color temperature.~~
 - ~~[HazeOver](https://hazeover.com/). Dim the windows out of focus and the background to create a distraction-free workspace. 🎫🇺🇦~~
+- ~~[Kap](https://getkap.co/). Open source screen recorder.~~
 - ~~[MenubarX](https://menubarx.app/). Open up a window on the menubar. Reminds of [Macmenubar.com](https://macmenubar.com/) 🍎~~
+- ~~[PopClip](https://pilotmoon.com/popclip/). Mouse selection extension. 🍎~~
+  - ~~More [extensions](https://pilotmoon.com/popclip/extensions/)~~
 - ~~[Rectangle](https://rectangleapp.com/). macOS window organizer.~~
   - ~~`Hyper` + `1/2/3/4`: current window to the 1st/2nd/3rd/4th quadrant of the screen~~
   - ~~`Hyper` + arrow keys~~
@@ -97,8 +97,7 @@ A list of applications installed and/or frequently used on my device.
   - ~~`Ctrl` + `Option` + `G`: Last third~~
   - ~~`Ctrl` + `Option` + `E`: First two thirds~~
   - ~~`Ctrl` + `Option` + `T`: Last two thirds~~
-- ~~[Kap](https://getkap.co/). Open source screen recorder.~~
-- ~~[coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.~~
+- ~~[Yoink](https://eternalstorms.at/yoink/mac/). Temp file shelf. 🍎🇺🇦~~
 
 ### 📁 File Management
 
