@@ -156,7 +156,7 @@ The holy trinity of Safari, [Chrome](https://www.google.com/chrome/), and [Firef
 - ~~[Data Jar](https://datajar.app/). Data store for shortcuts. 🍎~~
 - ~~[DeepL Translator](https://www.deepl.com/).~~
 - ~~[MD Clock](https://www.miidii.tech/). Clock app. 🍎~~
-- ~~[Cheatsheet](https://www.mediaatelier.com/CheatSheet/)~~. Not compatible with M1 chip.
+- ~~[Cheatsheet](https://www.mediaatelier.com/CheatSheet/)~~.
 - ~~[Transmission](https://transmissionbt.com/). A BitTorrent client.~~
 
 ### 📝 Logging
@@ -189,6 +189,8 @@ The holy trinity of Safari, [Chrome](https://www.google.com/chrome/), and [Firef
 - [Anaconda](https://www.anaconda.com/). Data science resource management for Python (mainly) and R (not really.)
   - I also use [poetry](https://python-poetry.org) for python package management.
   - `conda config —set auto_activate_base false`. [Do not activate `conda` by default](https://stackoverflow.com/questions/54429210/how-do-i-prevent-conda-from-activating-the-base-environment-by-default).
+- [bun](https://bun.sh/). A modern JS runtime.
+  - `curl -fsSL https://bun.sh/install | bash`
 - [Dash](https://kapeli.com/dash). Offline access to documentations. 🎫🇺🇦
 - [Expressions](https://www.apptorium.com/expressions). Nice regular expression helper. 🇺🇦
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/). Activated with Educational license. 🔁
@@ -207,6 +209,8 @@ The holy trinity of Safari, [Chrome](https://www.google.com/chrome/), and [Firef
     - [You Should Use](https://github.com/MichaelAquilina/zsh-you-should-use)
     - [Git Open](https://github.com/paulirish/git-open)
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
+- [Homebrew](https://brew.sh/). THE package manager for macOS.
+  - `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 - [iTerm 2](https://iterm2.com/). Terminal, but better than Terminal.
   - [vimrc](https://github.com/amix/vimrc)
 - [Vim](https://www.vim.org/). The editor.
@@ -280,14 +284,14 @@ EOF
   - `W`: Add to Instapaper
   - `E`: Open in Chrome
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
+- [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 🍎
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
-- [Tweetbot](https://tapbots.com/tweetbot/mac/). Third-part Twitter client after all those years, still standing. 🍎
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。🍎
-- ~~[Pins](https://get-pins.app/). Modern Pinboard app on macOS. 🍎~~
 - ~~[MindNode](https://www.mindnode.com/). 🎫🇺🇦~~
 - ~~[NetNewsWire](https://netnewswire.com/). Open source RSS reader.~~
 - ~~[Skim](https://skim-app.sourceforge.io/). An open source PDF reader and note taker.~~
 - ~~[Spark](https://sparkmailapp.com/). Email client. 🍎~~
+- ~~[Tweetbot](https://tapbots.com/tweetbot/mac/). Third-part Twitter client after all those years, still standing. 🍎~~
 - ~~[Maipo](https://apps.apple.com/us/app/maipo-for-weibo/id789066512?mt=12). Third-party Weibo client. 🍎~~
 
 ### 📆 Schedule
@@ -316,7 +320,6 @@ EOF
 
 - [Amazon Kindle](https://www.amazon.com/b?ie=UTF8&node=16571048011). 🍎
 - Books. System built-in EPUB reader.
-- [Hobi](https://hobiapp.com/). TV shows tracker. 🍎
 - [IINA](https://iina.io/). Open source media player.
 - [MultiViewer for F1](https://beta.f1mv.com/)
 - [Sofa](https://sofahq.com/). Downtime organizer. 🍎
@@ -326,6 +329,7 @@ EOF
   - ~~[Hearthstone](https://playhearthstone.com/en-us). Collectible card game.~~
   - ~~[HSTracker](https://hsreplay.net/downloads/). Hearthstone deck tracker.~~
 - ~~[YACReader](https://www.yacreader.com/). A cross-platform comic reader.~~
+- ~~[Hobi](https://hobiapp.com/). TV shows tracker. 🍎~~
 - ~~[OpenEmu](https://openemu.org/). Retro game emulator.~~
 - ~~[OpenRA](https://www.openra.net/). C&C, Dune, RA built for modern era.~~
 
@@ -357,28 +361,23 @@ EOF
 
 ## 🔃 Service subscriptions
 
-- [YouTube Premium](https://www.youtube.com/premium)
-- [Amazon Prime](https://www.amazon.com/amazonprime)
-- [Netflix](https://www.netflix.com/)
-- [The Athletic](https://theathletic.com/)
-- [Netlify](https://www.netlify.com/)
-- [GoDaddy](https://www.godaddy.com/)
-- [Feedbin](https://feedbin.com/)
-- [Spotify](https://open.spotify.com/)
-- [FlowingData](https://flowingdata.com/membership/)
 - [1Password Family](https://1password.com/families/)
-- [Day One](https://dayoneapp.com/)
+- [Amazon Prime](https://www.amazon.com/amazonprime)
+- [The Athletic](https://theathletic.com/)
 - [CARROT Weather](https://www.meetcarrot.com/weather/)
 - [Craft](https://www.craft.do/)
-- [Tweetbot for iOS](https://tapbots.com/tweetbot/)
-- [Nintendo Switch Online](https://www.nintendo.com/switch/online-service/)
+- [Day One](https://dayoneapp.com/)
 - [F1 TV Pro](https://f1tv.formula1.com/)
-- [Setapp](https://setapp.com/)
-- [不在场](https://buzaichang.zhubai.love/)
+- [Feedbin](https://feedbin.com/)
+- [FlowingData](https://flowingdata.com/membership/)
 - [HBO Max](https://www.hbomax.com/)
+- [Netflix](https://www.netflix.com/)
+- [Netlify](https://www.netlify.com/)
+- [Nintendo Switch Online](https://www.nintendo.com/switch/online-service/)
 - [Obsidian Sync](https://obsidian.md/sync)
-
-### Cancelling
-
-- ~~[Pinboard](https://pinboard.in/)~~
-- ~~[NOMO CAM](https://apps.apple.com/us/app/nomo-cam-point-and-shoot/id1362548649)~~
+- [Pinboard](https://pinboard.in/)
+- [Readwise](https://readwise.io/)
+- [Setapp](https://setapp.com/)
+- [Spotify](https://open.spotify.com/)
+- [YouTube Premium](https://www.youtube.com/premium)
+- [不在场](https://buzaichang.zhubai.love/)
