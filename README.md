@@ -129,6 +129,8 @@ The holy trinity of Safari, [Chrome](https://www.google.com/chrome/), and [Firef
 - [1Blocker](https://1blocker.com/). Content blocker on Safari. 🍎
 - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 
+- [IPFS Desktop](https://github.com/ipfs/ipfs-desktop). A user-friendly desktop application for [IPFS](https://ipfs.tech/).
+
 ### 🧰 Utilities
 
 - [CleanShot X](https://cleanshot.com/). Great screenshot and GIFs tool. 🇺🇦
@@ -279,20 +281,20 @@ EOF
 - [Anki](https://apps.ankiweb.net/). A Open source flashcard tool.
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 🍎
 - [Deliveries](https://deliveries.app/en.html). Package tracking. 🍎
-- [Reeder](https://reederapp.com/). RSS reader. 🍎
-  - `Q`: Copy link
-  - `W`: Add to Instapaper
-  - `E`: Open in Chrome
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 🍎
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
+- [Reeder](https://reederapp.com/). RSS reader. 🍎
+  - `C`: Copy link
+  - `F`: Open in Firefox
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。🍎
+- ~~[GoodLinks](https://goodlinks.app/). 🍎 A native read-it-later app for iOS and macOS.~~
+- ~~[Maipo](https://apps.apple.com/us/app/maipo-for-weibo/id789066512?mt=12). Third-party Weibo client. 🍎~~
 - ~~[MindNode](https://www.mindnode.com/). 🎫🇺🇦~~
 - ~~[NetNewsWire](https://netnewswire.com/). Open source RSS reader.~~
 - ~~[Skim](https://skim-app.sourceforge.io/). An open source PDF reader and note taker.~~
 - ~~[Spark](https://sparkmailapp.com/). Email client. 🍎~~
 - ~~[Tweetbot](https://tapbots.com/tweetbot/mac/). Third-part Twitter client after all those years, still standing. 🍎~~
-- ~~[Maipo](https://apps.apple.com/us/app/maipo-for-weibo/id789066512?mt=12). Third-party Weibo client. 🍎~~
 
 ### 📆 Schedule
 
@@ -371,6 +373,7 @@ EOF
 - [Feedbin](https://feedbin.com/)
 - [FlowingData](https://flowingdata.com/membership/)
 - [HBO Max](https://www.hbomax.com/)
+- [Ivory for Mastodon](https://tapbots.com/ivory/)
 - [Netflix](https://www.netflix.com/)
 - [Netlify](https://www.netlify.com/)
 - [Nintendo Switch Online](https://www.nintendo.com/switch/online-service/)
