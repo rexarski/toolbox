@@ -124,12 +124,14 @@ A list of applications installed and/or frequently used on my device.
 
 ### 🌏 Internet
 
-The holy trinity of Safari, [Chrome](https://www.google.com/chrome/), and [Firefox](https://www.mozilla.org/en-US/firefox/new/).
-
 - [1Blocker](https://1blocker.com/). Content blocker on Safari. 🍎
-- In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
-
+- [Arc](https://arc.net/), a modern chromium browser.
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/).
 - [IPFS Desktop](https://github.com/ipfs/ipfs-desktop). A user-friendly desktop application for [IPFS](https://ipfs.tech/).
+- [Min](https://github.com/minbrowser/min), a minimalist web browser.
+- Safari
+  - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
+- ~~[Chrome](https://www.google.com/chrome/)~~
 
 ### 🧰 Utilities
 
@@ -174,8 +176,8 @@ The holy trinity of Safari, [Chrome](https://www.google.com/chrome/), and [Firef
 - [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫🇺🇦
 - [Notability](https://notability.com/). The old-school handwriting note app from iPad. 🍎
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
-- [Craft](https://www.craft.do/). Document management + notes. 🍎🔁
-- [texifier]([https://www.texpad.com/](https://www.texifier.com/)). LaTeX editor. 🎫
+- [texifier](https://www.texifier.com/). LaTeX editor. 🎫\
+- ~~[Craft](https://www.craft.do/). Document management + notes. 🍎🔁~~
 - ~~[HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706). Coffee intake tracker. 🍎~~
 - ~~[HiWater](https://apps.apple.com/us/app/hiwater-the-water-pyramid/id1561732866). Water intake tracker. 🍎~~
 - ~~[Streaks](https://streaksapp.com/). A habit tracker. 🍎~~
@@ -255,7 +257,6 @@ EOF
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/). Purchased on [App Store](https://apps.apple.com/us/app/affinity-designer/id1274090551). 🍎
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/). Purchased from the developer. 🎫
 - [Darkroom](https://darkroom.co/). Very powerful and user-friendly photo + video editor in Apple's ecosystem. 🍎🎫
-- [Figma](https://www.figma.com/) == Design Swiss Army knife.
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/). 🍎
   - [Motion](https://www.apple.com/final-cut-pro/motion/). 🍎
   - [Compressor](https://www.apple.com/final-cut-pro/compressor/). 🍎
@@ -267,14 +268,15 @@ EOF
 - [ColorSlurp](https://colorslurp.com/) as an alternative to Sip, but free. 🍎
 - [Permute](https://software.charliemonroe.net/permute/). Media convertor. 🇺🇦
 - [Meta](https://www.nightbirdsevolve.com/meta/). Digital music management, a tag editor. 🇺🇦
+- ~~[Audacity](https://www.audacityteam.org/). Open source audio app.~~
 - ~~[Capture One](https://www.captureone.com/en). Free activation code gifted with a Fujifilm camera. Not that frequently used too.~~
+- ~~[Figma](https://www.figma.com/) == Design Swiss Army knife. Now use web version instead.~~
+- ~~[Handbrake](https://handbrake.fr/). Open source video transcoder.~~
 - ~~[Inboard](https://inboardapp.com/). Image organization. Development in hiatus. 🍎~~
 - ~~[Pixen](https://pixenapp.com/). Pixel art editor. 🍎~~
 - ~~[Polarr Photo Editor Pro](https://www.polarr.com/mac/). 🎫~~
 - ~~[Pixelmator Classic](https://www.pixelmator.com/mac/). Full-power image editor. 🍎~~
 - ~~[剪映](https://lv.ulikecam.com/). A video editor.~~
-- ~~[Audacity](https://www.audacityteam.org/). Open source audio app.~~
-- ~~[Handbrake](https://handbrake.fr/). Open source video transcoder.~~
 
 ### 📮 Information
 
@@ -324,7 +326,7 @@ EOF
 - Books. System built-in EPUB reader.
 - [IINA](https://iina.io/). Open source media player.
 - [MultiViewer for F1](https://beta.f1mv.com/)
-- [Sofa](https://sofahq.com/). Downtime organizer. 🍎
+- [Sofa](https://sofahq.com/). Downtime organizer. 🍎🎫
 - [Spotify](https://open.spotify.com/)
 - [Steam](https://store.steampowered.com/)
 - ~~Battle.net~~
@@ -367,7 +369,6 @@ EOF
 - [Amazon Prime](https://www.amazon.com/amazonprime)
 - [The Athletic](https://theathletic.com/)
 - [CARROT Weather](https://www.meetcarrot.com/weather/)
-- [Craft](https://www.craft.do/)
 - [Day One](https://dayoneapp.com/)
 - [F1 TV Pro](https://f1tv.formula1.com/)
 - [Feedbin](https://feedbin.com/)
@@ -382,5 +383,6 @@ EOF
 - [Readwise](https://readwise.io/)
 - [Setapp](https://setapp.com/)
 - [Spotify](https://open.spotify.com/)
+- [Sofa](https://sofahq.com/)
 - [YouTube Premium](https://www.youtube.com/premium)
 - [不在场](https://buzaichang.zhubai.love/)
