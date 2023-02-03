@@ -126,7 +126,23 @@ A list of applications installed and/or frequently used on my device.
 
 - [1Blocker](https://1blocker.com/). Content blocker on Safari. 🍎
 - [Arc](https://arc.net/), a modern chromium browser.
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/).
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/). With the following plugins:
+  - 1Password
+  - Dark Reader
+  - Enhancer for YouTube
+  - Firefox Multi-Account Containers
+  - HTTPS Everywhere
+  - IPFS Companion
+  - Keepa
+  - Modern for Wikipedia
+  - Pinboard WebExtension
+  - Readwise Highlighter
+  - RSSHub Radar
+  - SingleFile
+  - SteamDB
+  - Tab Session Manager
+  - Tree Style Tab
+  - uBlock Origin
 - [IPFS Desktop](https://github.com/ipfs/ipfs-desktop). A user-friendly desktop application for [IPFS](https://ipfs.tech/).
 - [Min](https://github.com/minbrowser/min), a minimalist web browser.
 - Safari
