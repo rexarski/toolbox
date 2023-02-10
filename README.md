@@ -143,11 +143,11 @@ A list of applications installed and/or frequently used on my device.
   - Tab Session Manager
   - Tree Style Tab
   - uBlock Origin
-- [IPFS Desktop](https://github.com/ipfs/ipfs-desktop). A user-friendly desktop application for [IPFS](https://ipfs.tech/).
-- [Min](https://github.com/minbrowser/min), a minimalist web browser.
 - Safari
   - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 - ~~[Chrome](https://www.google.com/chrome/)~~
+- ~~[IPFS Desktop](https://github.com/ipfs/ipfs-desktop). A user-friendly desktop application for [IPFS](https://ipfs.tech/).~~
+- ~~[Min](https://github.com/minbrowser/min), a minimalist web browser.~~
 
 ### 🧰 Utilities
 
@@ -388,7 +388,6 @@ EOF
 - [Day One](https://dayoneapp.com/)
 - [F1 TV Pro](https://f1tv.formula1.com/)
 - [Feedbin](https://feedbin.com/)
-- [FlowingData](https://flowingdata.com/membership/)
 - [HBO Max](https://www.hbomax.com/)
 - [Ivory for Mastodon](https://tapbots.com/ivory/)
 - [Netflix](https://www.netflix.com/)
