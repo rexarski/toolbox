@@ -9,6 +9,7 @@
     - [🧰 Utilities](#-utilities)
     - [📝 Logging](#-logging)
     - [👨🏻‍💻 Development](#-development)
+      - [⌘ CLI tools](#-cli-tools)
     - [📷 Creative](#-creative)
     - [📮 Information](#-information)
     - [📆 Schedule](#-schedule)
@@ -17,7 +18,6 @@
     - [🎑 Screensaver](#-screensaver)
     - [🔠 Font selections](#-font-selections)
   - [🔃 Service subscriptions](#-service-subscriptions)
-    - [Cancelling](#cancelling)
 
 ## 🖥️ macOS Setup
 
@@ -267,6 +267,37 @@ EOF
 - ~~[RSwitch](https://rud.is/rswitch/). A lightweight menubar utility for R users.~~
 - ~~[ServerCat](https://servercat.app/). Server status, docker management and SSH client for iOS (and macOS.) 🍎~~
 - ~~[Warp](https://www.warp.dev). Rust-based, blazingly fast terminal with some killer features like code blocks, etc.~~
+
+#### ⌘ CLI tools
+
+I'm not a huge command-line user but I do have some tools I'm relatively familiar with.
+
+The installation could be error-prone as the name of the package sometimes deviates from formula name on Homebrew.
+
+| Package                                              | Formula       | Command       | Description                                               |
+| ---------------------------------------------------- | ------------- | ------------- | --------------------------------------------------------- |
+| [`bat`](https://github.com/sharkdp/bat)              | `bat`         | `bat`         | A `cat` clone with wings.                                 |
+| [`exa`](https://github.com/ogham/exa)                | `exa`         | `exa`         | A modern replacement for `ls`.                            |
+| [`exiftool`](https://github.com/exiftool/exiftool)   | `exiftool`    | `exiftool`    | Read/write meta information of files.                     |
+| [`fzf`](https://github.com/junegunn/fzf)             | `fzf`         | `fzf`         | A command-line fuzzy finder.                              |
+| [`neofetch`](https://github.com/dylanaraps/neofetch) | `neofetch`    | `neofetch`    | A command-line system information tool.                   |
+| [`neovim`](https://github.com/neovim/neovim)         | `neovim`      | `nvim`        | Vim-fork focused on extensibility and agility.            |
+| [`procs`](https://github.com/dalance/procs)          | `procs`       | `procs`       | A modern replacement for `ps`.                            |
+| [`rip`](https://github.com/nivekuil/rip)             | `rm-improved` | `rip`         | A command-line tool for ripping audio CDs.                |
+| [`scc`](https://github.com/boyter/scc)               | `scc`         | `scc`         | Count lines of code quickly.                              |
+| [`thefuck`](https://github.com/nvbn/thefuck)         | `thefuck`     | `fuck`        | A tool corrects previous console command.                 |
+| [`tldr`](https://github.com/tldr-pages/tldr)         | `tldr`        | `tldr`        | Simplified and community-driven man pages.                |
+| [`tre`](https://github.com/dduan/tre)                | `tre-command` | `tre`         | A recursive directory listing command better than `tree`. |
+| [`tmux`](https://github.com/tmux/tmux)               | `tmux`        | `tmux`        | Terminal multiplexer.                                     |
+| [`vim`](https://github.com/vim/vim)                  | `vim`         | `vim`         | You-know-who.                                             |
+| [`zoxide`](https://github.com/ajeetdsouza/zoxide)    | `zoxide`      | `zoxide`, `z` | A faster way to navigate your filesystem.                 |
+
+Or directly call the following command:
+
+```bash
+brew install thefuck scc exa tldr zoxide bat exiftool fzf procs rm-improved tre-command neofetch vim neovim tmux
+```
+
 
 ### 📷 Creative
 
