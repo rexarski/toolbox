@@ -101,6 +101,7 @@ A list of applications installed and/or frequently used on my device.
 
 ### 📁 File Management
 
+- [Android File Transfer](https://www.android.com/filetransfer/)
 - [calibre](https://calibre-ebook.com/). E-book management software.
 - [DaisyDisk](https://daisydiskapp.com/). Analyzing disk usage with a wind rose diagram. 🍎
 - [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink). Organize async files, as the counterpart of my cloud storage. 🎫
@@ -192,6 +193,7 @@ A list of applications installed and/or frequently used on my device.
 - [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫🇺🇦
 - [Notability](https://notability.com/). The old-school handwriting note app from iPad. 🍎
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
+- [Streaks](https://streaksapp.com/). 🍎
 - [texifier](https://www.texifier.com/). LaTeX editor. 🎫\
 - ~~[Craft](https://www.craft.do/). Document management + notes. 🍎🔁~~
 - ~~[HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706). Coffee intake tracker. 🍎~~
@@ -276,6 +278,7 @@ The installation could be error-prone as the name of the package sometimes devia
 
 | Package                                              | Formula       | Command       | Description                                               |
 | ---------------------------------------------------- | ------------- | ------------- | --------------------------------------------------------- |
+| [`asciinema`](https://asciinema.org/)                | `asciinema`   | `asciinema`   | Record and share terminal sessions.                       |
 | [`bat`](https://github.com/sharkdp/bat)              | `bat`         | `bat`         | A `cat` clone with wings.                                 |
 | [`exa`](https://github.com/ogham/exa)                | `exa`         | `exa`         | A modern replacement for `ls`.                            |
 | [`exiftool`](https://github.com/exiftool/exiftool)   | `exiftool`    | `exiftool`    | Read/write meta information of files.                     |
@@ -295,7 +298,7 @@ The installation could be error-prone as the name of the package sometimes devia
 Or directly call the following command:
 
 ```bash
-brew install thefuck scc exa tldr zoxide bat exiftool fzf procs rm-improved tre-command neofetch vim neovim tmux
+brew install asciinema thefuck scc exa tldr zoxide bat exiftool fzf procs rm-improved tre-command neofetch vim neovim tmux
 ```
 
 
