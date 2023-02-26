@@ -412,26 +412,3 @@ brew install asciinema thefuck scc exa tldr zoxide bat exiftool fzf procs rm-imp
 ![Regular, 12pt](image/fonts.png)
 
 - [Noto Mono for Powerline](https://github.com/powerline/fonts/), monospace
-
-## 🔃 Service subscriptions
-
-- [1Password Family](https://1password.com/families/)
-- [Amazon Prime](https://www.amazon.com/amazonprime)
-- [The Athletic](https://theathletic.com/)
-- [CARROT Weather](https://www.meetcarrot.com/weather/)
-- [Day One](https://dayoneapp.com/)
-- [F1 TV Pro](https://f1tv.formula1.com/)
-- [Feedbin](https://feedbin.com/)
-- [HBO Max](https://www.hbomax.com/)
-- [Ivory for Mastodon](https://tapbots.com/ivory/)
-- [Netflix](https://www.netflix.com/)
-- [Netlify](https://www.netlify.com/)
-- [Nintendo Switch Online](https://www.nintendo.com/switch/online-service/)
-- [Obsidian Sync](https://obsidian.md/sync)
-- [Pinboard](https://pinboard.in/)
-- [Readwise](https://readwise.io/)
-- [Setapp](https://setapp.com/)
-- [Spotify](https://open.spotify.com/)
-- [Sofa](https://sofahq.com/)
-- [YouTube Premium](https://www.youtube.com/premium)
-- [不在场](https://buzaichang.zhubai.love/)
