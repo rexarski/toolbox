@@ -26,7 +26,7 @@ New machine setup checklist
 - [ ] Set up iCloud account.
 - [ ] Install Chrome.
 - [ ] Install 1Password.
-- [ ] Install Google Drive, ~~Dropbox,~~ Maestral. Sync.
+- [ ] Install ~~Google Drive, Dropbox,~~ Maestral. Sync.
 - [ ] Install Karabiner-Elements.
 - [ ] Install iTerm 2. Install [Homebrew](https://brew.sh/).
 - [ ] [Change computer and host name](https://apple.stackexchange.com/questions/66611/how-to-change-computer-name-so-terminal-displays-it-in-mac-os-x-mountain-lion):
@@ -106,7 +106,6 @@ A list of applications installed and/or frequently used on my device.
 - [DaisyDisk](https://daisydiskapp.com/). Analyzing disk usage with a wind rose diagram. 🍎
 - [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink). Organize async files, as the counterpart of my cloud storage. 🎫
 - [Maestral](https://maestral.app/). Open source Dropbox client, simpler, smaller, less memory needed.
-- [Google Drive](https://www.google.com/drive/). 15GB might just be enough for now.
 - [Gemini](https://macpaw.com/gemini). Duplicate finder. 🎫🇺🇦
 - [Hook](https://hookproductivity.com/). Create, search robust link information on everything. 🎫
   - `Ctrl` + `H`: show Hook context window
@@ -116,6 +115,7 @@ A list of applications installed and/or frequently used on my device.
   - `brew install --cask timemachineeditor`
 - [Transmit](https://panic.com/transmit/). File transfer between macOS and servers. 🎫
 - ~~[Dropbox](https://www.dropbox.com/home). Replaced due to the limitation of number of devices in sync.~~
+- ~~[Google Drive](https://www.google.com/drive/).~~
 
 ### 🔐 Security and Encryption
 
