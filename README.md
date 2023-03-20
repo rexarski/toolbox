@@ -144,6 +144,7 @@ A list of applications installed and/or frequently used on my device.
   - Tab Session Manager
   - Tree Style Tab
   - uBlock Origin
+  - Vimium FF
 - Safari
   - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 - ~~[Chrome](https://www.google.com/chrome/)~~
@@ -283,6 +284,7 @@ The installation could be error-prone as the name of the package sometimes devia
 | [`exa`](https://github.com/ogham/exa)                | `exa`         | `exa`         | A modern replacement for `ls`.                            |
 | [`exiftool`](https://github.com/exiftool/exiftool)   | `exiftool`    | `exiftool`    | Read/write meta information of files.                     |
 | [`fzf`](https://github.com/junegunn/fzf)             | `fzf`         | `fzf`         | A command-line fuzzy finder.                              |
+| [`gptcommit`](https://github.com/zurawiki/gptcommit) | `gptcommit`   | `-`           | A git prepare-commit-msg hook for authoring commit messages with GPT-3. |
 | [`neofetch`](https://github.com/dylanaraps/neofetch) | `neofetch`    | `neofetch`    | A command-line system information tool.                   |
 | [`neovim`](https://github.com/neovim/neovim)         | `neovim`      | `nvim`        | Vim-fork focused on extensibility and agility.            |
 | [`procs`](https://github.com/dalance/procs)          | `procs`       | `procs`       | A modern replacement for `ps`.                            |
@@ -299,6 +301,7 @@ Or directly call the following command:
 
 ```bash
 brew install asciinema thefuck scc exa tldr zoxide bat exiftool fzf procs rm-improved tre-command neofetch vim neovim tmux
+brew install zurawiki/brews/gptcommit
 ```
 
 
@@ -374,16 +377,16 @@ brew install asciinema thefuck scc exa tldr zoxide bat exiftool fzf procs rm-imp
 
 - [Amazon Kindle](https://www.amazon.com/b?ie=UTF8&node=16571048011). 🍎
 - Books. System built-in EPUB reader.
+- [Hobi](https://hobiapp.com/). TV shows tracker. 🍎
 - [IINA](https://iina.io/). Open source media player.
 - [MultiViewer for F1](https://beta.f1mv.com/)
 - [Sofa](https://sofahq.com/). Downtime organizer. 🍎🎫
 - [Spotify](https://open.spotify.com/)
 - [Steam](https://store.steampowered.com/)
+- [YACReader](https://www.yacreader.com/). A cross-platform comic reader.
 - ~~Battle.net~~
   - ~~[Hearthstone](https://playhearthstone.com/en-us). Collectible card game.~~
   - ~~[HSTracker](https://hsreplay.net/downloads/). Hearthstone deck tracker.~~
-- ~~[YACReader](https://www.yacreader.com/). A cross-platform comic reader.~~
-- ~~[Hobi](https://hobiapp.com/). TV shows tracker. 🍎~~
 - ~~[OpenEmu](https://openemu.org/). Retro game emulator.~~
 - ~~[OpenRA](https://www.openra.net/). C&C, Dune, RA built for modern era.~~
 
