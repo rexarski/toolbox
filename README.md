@@ -132,8 +132,6 @@ A list of applications installed and/or frequently used on my device.
   - Dark Reader
   - Enhancer for YouTube
   - Firefox Multi-Account Containers
-  - HTTPS Everywhere
-  - IPFS Companion
   - Keepa
   - Modern for Wikipedia
   - Pinboard WebExtension
@@ -142,9 +140,10 @@ A list of applications installed and/or frequently used on my device.
   - SingleFile
   - SteamDB
   - Tab Session Manager
-  - Tree Style Tab
   - uBlock Origin
-  - Vimium FF
+  - Firefox CSS theme [cascade](https://github.com/andreasgrafen/cascade)
+    - use “mouse” alternative config
+    - move bars to right in `cascade-config-mouse.css` 
 - Safari
   - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 - ~~[Chrome](https://www.google.com/chrome/)~~
