@@ -127,23 +127,7 @@ A list of applications installed and/or frequently used on my device.
 
 - [1Blocker](https://1blocker.com/). Content blocker on Safari. 🍎
 - [Arc](https://arc.net/), a modern chromium browser.
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/). With the following plugins:
-  - 1Password
-  - Dark Reader
-  - Enhancer for YouTube
-  - Firefox Multi-Account Containers
-  - Keepa
-  - Modern for Wikipedia
-  - Pinboard WebExtension
-  - Readwise Highlighter
-  - RSSHub Radar
-  - SingleFile
-  - SteamDB
-  - Tab Session Manager
-  - uBlock Origin
-  - Firefox CSS theme [cascade](https://github.com/andreasgrafen/cascade)
-    - use “mouse” alternative config
-    - move bars to right in `cascade-config-mouse.css` 
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/).
 - Safari
   - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 - ~~[Chrome](https://www.google.com/chrome/)~~
@@ -379,6 +363,8 @@ brew install zurawiki/brews/gptcommit
 - [Hobi](https://hobiapp.com/). TV shows tracker. 🍎
 - [IINA](https://iina.io/). Open source media player.
 - [MultiViewer for F1](https://beta.f1mv.com/)
+- [MusicHarbor](https://apps.apple.com/cn/app/musicharbor-new-music-tracker/id1440405750). 🍎
+- [Play](https://apps.apple.com/cn/app/play-save-videos-watch-later/id1596506190). Watch later queue management. 🍎
 - [Sofa](https://sofahq.com/). Downtime organizer. 🍎🎫
 - [Spotify](https://open.spotify.com/)
 - [Steam](https://store.steampowered.com/)
