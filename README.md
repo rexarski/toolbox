@@ -354,7 +354,7 @@ brew install zurawiki/brews/gptcommit
 - [Zoom](https://zoom.us/). For conference meeting, of course.
 - [Slack](https://slack.com/). Workspace communication.
 - [Telegram](https://telegram.org/). IM.
-- [Mumble](https://www.mumble.info/). Open source voice chat.
+- ~~[Mumble](https://www.mumble.info/). Open source voice chat.~~
 - ~~[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)~~
 - ~~[Swiftcord](https://swiftcordapp.github.io/Swiftcord/). A native Discord client for macOS.~~
 
