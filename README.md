@@ -150,6 +150,7 @@ A list of applications installed and/or frequently used on my device.
 - [Maccy](https://maccy.app/). Open source clipboard management.
   - `Cmd` + `Shift` + `V`: show clipboard.
 - [Numi](https://numi.app/). Calculator with freedom. 🎫🇺🇦
+- [OpenCat](https://apps.apple.com/us/app/opencat/id6445999201). Native GPT interactions. 🍎
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 🍎
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
   - `brew install --cask qlmarkdown`
@@ -319,6 +320,7 @@ brew install zurawiki/brews/gptcommit
 - [Anki](https://apps.ankiweb.net/). A Open source flashcard tool.
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 🍎
 - [Deliveries](https://deliveries.app/en.html). Package tracking. 🍎
+- [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 🍎
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 🍎
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
@@ -336,6 +338,7 @@ brew install zurawiki/brews/gptcommit
 
 ### 📆 Schedule
 
+- [Clear](https://apps.apple.com/us/app/clear-todos/id493136154). One of the GTD apps with the best interactions. ~~Deprecated. What a pity.~~ 🍎
 - [Due](https://www.dueapp.com/). Aggressive reminder app. 🍎🇺🇦🔁.
   - `Hyper` + `D`: create new reminder.
 - [Fantastical](https://flexibits.com/fantastical). A calendar and todo list app with great NLP input. 🎫
@@ -343,7 +346,6 @@ brew install zurawiki/brews/gptcommit
 - [Things 3](https://culturedcode.com/things/). The best GTD from my perspective. 🍎
   `Ctrl` + `Space`: quick entry.
 - ~~[Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.~~
-- ~~[Clear](https://apps.apple.com/us/app/clear-todos/id493136154). One of the GTD apps with the best interactions. Deprecated. What a pity. 🍎~~
 
 ### 💬 Messaging
 
