@@ -1,0 +1,106 @@
+# 適用於【鼠鬚管】0.9.13+
+# 位置：~/Library/Rime/squirrel.custom.yaml
+# 用法：想要哪項生效，就刪去該行行首的#字符，但注意保留用於縮進的空格
+
+patch:
+    #  us_keyboard_layout: true      # 鍵盤選項：應用美式鍵盤佈局
+    #  show_notifications_when: growl_is_running  # 狀態通知，默認裝有Growl時顯示，也可設爲全開（always）全關（never）
+    style/horizontal: false # 候選窗横向顯示
+    #  style/inline_preedit: false   # 非內嵌編碼行
+    # style/font_face: 'LXGW WenKai' # 我喜歡的字體名稱 e.g. 'HanaMinB'
+    #  style/font_point: 21          # 字號
+    style/corner_radius: 5 # 窗口圓角半徑
+    #  style/border_height: 0        # 窗口邊界高度，大於圓角半徑才有效果
+    #  style/border_width: 0         # 窗口邊界寬度，大於圓角半徑才有效果
+    style/color_scheme: mechat # 選擇配色方案
+    style/color_scheme_dark: mechat_dark # 選擇配色方案
+    'preset_color_schemes/mechat':
+        name: 没信
+        author: rexarski
+        font_face: 'LXGW WenKai' # 字体及大小
+        font_point: 18
+        label_font_face: 'LXGW WenKai' # 序号字体及大小
+        label_font_point: 12
+        comment_font_face: 'LXGW WenKai' # 注字体及大小
+        comment_font_point: 16
+        candidate_list_layout: stacked # 候选项排列方向 stacked | linear
+        text_orientation: horizontal # 文字排列方向 horizontal | vertical
+        inline_preedit: true # 拼音位于： 候选框 false | 行内 true
+        translucency: true # 磨砂： false | true
+        mutual_exclusive: false # 色不叠加： false | true
+        border_height: 0 # 外边框 高
+        border_width: 0 # 外边框 宽
+        corner_radius: 10 # 外边框 圆角半径
+        hilited_corner_radius: 0 # 选中框 圆角半径
+        surrounding_extra_expansion: 0 # 候选项背景相对大小？
+        shadow_size: 0 # 阴影大小
+        line_spacing: 5 # 行间距
+        base_offset: 0 # 字基高
+        alpha: 0.9 # 透明度，0~1
+        spacing: 10 # 拼音与候选项之间的距离 （inline_preedit: false）
+        color_space: srgb # 色彩空间： srgb | display_p3
+        back_color: 0xF9F9F9 # 底色
+        hilited_candidate_back_color: 0x77B107 # 选中底色
+        label_color: 0x444444 # 序号颜色
+        hilited_candidate_label_color: 0xF9F9F9 # 选中序号颜色
+        candidate_text_color: 0x444444 # 文字颜色
+        hilited_candidate_text_color: 0xF9F9F9 # 选中文字颜色
+        # comment_text_color:  # 注颜色
+        # hilited_comment_text_color:  # 选中注颜色
+        text_color: 0x444444 # 拼音颜色 （inline_preedit: false）
+        hilited_text_color: 0x444444 # 选中拼音颜色 （inline_preedit: false）
+        # candidate_back_color:                 # 候选项底色
+        # preedit_back_color:                   # 拼音底色 （inline_preedit: false）
+        hilited_back_color: 0xBBF9F9 # 选中拼音底色 （inline_preedit: false）
+        # border_color:                         # 外边框颜色
+    'preset_color_schemes/mechat_dark':
+        name: 没信_黑
+        author: rexarski
+        font_face: 'LXGW WenKai' # 字体及大小
+        font_point: 18
+        label_font_face: 'LXGW WenKai' # 序号字体及大小
+        label_font_point: 12
+        comment_font_face: 'LXGW WenKai' # 注字体及大小
+        comment_font_point: 16
+        candidate_list_layout: linear # 候选项排列方向 stacked | linear
+        text_orientation: horizontal # 文字排列方向 horizontal | vertical
+        inline_preedit: true # 拼音位于： 候选框 false | 行内 true
+        translucency: false # 磨砂： false | true
+        mutual_exclusive: false # 色不叠加： false | true
+        border_height: 0 # 外边框 高
+        border_width: 0 # 外边框 宽
+        corner_radius: 10 # 外边框 圆角半径
+        hilited_corner_radius: 0 # 选中框 圆角半径
+        surrounding_extra_expansion: 0 # 候选项背景相对大小？
+        shadow_size: 0 # 阴影大小
+        line_spacing: 5 # 行间距
+        base_offset: 0 # 字基高
+        alpha: 1 # 透明度，0~1
+        spacing: 10 # 拼音与候选项之间的距离 （inline_preedit: false）
+        color_space: srgb # 色彩空间： srgb | display_p3
+        back_color: 0x545554 # 底色
+        hilited_candidate_back_color: 0x77B107 # 选中底色
+        label_color: 0xBBBBBB # 序号颜色
+        hilited_candidate_label_color: 0x4C4C4C # 选中序号颜色
+        candidate_text_color: 0xEEEEEE # 文字颜色
+        hilited_candidate_text_color: 0x000000 # 选中文字颜色
+        comment_text_color: 0x808080 # 注颜色
+        hilited_comment_text_color: 0x808080 # 选中注颜色
+        text_color: 0x808080 # 拼音颜色 （inline_preedit: false）
+        hilited_text_color: 0xEEEEEE # 选中拼音颜色 （inline_preedit: false）
+        # candidate_back_color:                 # 候选项底色
+        # preedit_back_color:                   # 拼音底色 （inline_preedit: false）
+        # hilited_back_color:                   # 选中拼音底色 （inline_preedit: false）
+        # border_color:                         # 外边框颜色
+# 註：預設的配色方案及代碼（指定爲 style/color_scheme ）
+#   系統默認色系 - native
+#   碧水 - aqua
+#   青天 - azure
+#   明月 - luna
+#   墨池 - ink
+#   孤寺 - lost_temple
+#   暗堂 - dark_temple
+#   星際我爭霸 - starcraft
+#   谷歌 - google
+#   曬經石 - solarized_rock
+#   简约白 - clean_white
