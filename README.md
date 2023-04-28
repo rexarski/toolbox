@@ -155,6 +155,8 @@ A list of applications installed and/or frequently used on my device.
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
   - `brew install --cask qlmarkdown`
 - [RIME | 中州韵输入法](https://rime.im/). "Rime Input Method Engine, rimes with your keystrokes."
+  - [东风破](https://github.com/rime/plum)
+  - [雾凇拼音](https://github.com/iDvel/rime-ice): `bash rime-install iDvel/rime-ice:others/recipes/full`
 - [Shottr](https://shottr.cc/). Great substitute to CleanShot X.
   - `Cmd` + `Shift` + `3` = Shottr area screenshot
   - `Cmd` + `Shift` + `4` = Shottr active window screenshot
@@ -220,6 +222,7 @@ A list of applications installed and/or frequently used on my device.
   - `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 - [iTerm 2](https://iterm2.com/). Terminal, but better than Terminal.
   - [vimrc](https://github.com/amix/vimrc)
+- [OrbStack](https://orbstack.dev/), a light-weight Docker and Linux runtime management.
 - [Vim](https://www.vim.org/). The editor.
 - [Visual Studio Code](https://code.visualstudio.com/). Code editor.
   - Use the following script to create a `code` command in terminal:
