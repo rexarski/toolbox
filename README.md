@@ -370,7 +370,6 @@ brew install zurawiki/brews/gptcommit
 - [MultiViewer for F1](https://beta.f1mv.com/)
 - [MusicHarbor](https://apps.apple.com/cn/app/musicharbor-new-music-tracker/id1440405750). 🍎
 - [Play](https://apps.apple.com/cn/app/play-save-videos-watch-later/id1596506190). Watch later queue management. 🍎
-- [Sofa](https://sofahq.com/). Downtime organizer. 🍎🎫
 - [Spotify](https://open.spotify.com/)
 - [Steam](https://store.steampowered.com/)
 - [YACReader](https://www.yacreader.com/). A cross-platform comic reader.
@@ -379,6 +378,7 @@ brew install zurawiki/brews/gptcommit
   - ~~[HSTracker](https://hsreplay.net/downloads/). Hearthstone deck tracker.~~
 - ~~[OpenEmu](https://openemu.org/). Retro game emulator.~~
 - ~~[OpenRA](https://www.openra.net/). C&C, Dune, RA built for modern era.~~
+- ~~[Sofa](https://sofahq.com/). Downtime organizer. 🍎🎫~~
 
 ### 🎑 Screensaver
 
@@ -405,3 +405,5 @@ brew install zurawiki/brews/gptcommit
 ![Regular, 12pt](image/fonts.png)
 
 - [Noto Mono for Powerline](https://github.com/powerline/fonts/), monospace
+- Amazon Ember and Bookerly from [Amazon Complete Font Set](https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography), sans serif, serif
+- [落霞文楷 (LxgwWenKai)](https://github.com/lxgw/LxgwWenKai), serif
