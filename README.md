@@ -176,6 +176,7 @@ A list of applications installed and/or frequently used on my device.
 - [Goodnotes 5](https://www.goodnotes.com/). 🍎
 - [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫🇺🇦
 - [Notability](https://notability.com/). The old-school handwriting note app from iPad. 🍎
+- [Notion](https://www.notion.so/). The universal workspace. I'd prefer the web version.
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 - [Streaks](https://streaksapp.com/). A habit tracker. 🍎
 - [texifier](https://www.texifier.com/). LaTeX editor. 🎫\
@@ -185,8 +186,7 @@ A list of applications installed and/or frequently used on my device.
 - ~~[MarkText](https://github.com/marktext/marktext). Open source Markdown editor.~~
   - ~~Substitute for [Typora](https://typora.io/)🎫~~
   - ~~`brew install --cask mark-text`~~
-- ~~[Notion](https://www.notion.so/). The universal workspace. I'd prefer the web version.~~
-  - ~~[Anytype](https://anytype.io/)/ An alternative to Notion. Offline access is its strength.~~
+- ~~[Anytype](https://anytype.io/)/ An alternative to Notion. Offline access is its strength.~~
 - ~~[Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.~~
 - ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. 🍎~~
 - ~~[jrnl](https://jrnl.sh/en/stable/). A command line journal tool.~~
