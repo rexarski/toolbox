@@ -136,6 +136,7 @@ A list of applications installed and/or frequently used on my device.
 
 ### 🧰 Utilities
 
+- [balenaEtcher](https://etcher.balena.io/). Create USB installation media from bootable ISOs.
 - [CleanShot X](https://cleanshot.com/). Great screenshot and GIFs tool. 🇺🇦
   - `Cmd` + `Shift` + `3` = Capture area
   - `Cmd` + `Shift` + `4` = Capture window
