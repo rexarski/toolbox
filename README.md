@@ -170,6 +170,7 @@ A list of applications installed and/or frequently used on my device.
 
 ### 📝 Logging
 
+- [Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.
 - [Day One](https://dayoneapp.com/). My daily journal app. 🍎🔁
 - [Drafts](https://getdrafts.com/). One-in-all text/draft app. 🍎🔁
   - `Cmd` + `Shift` + `1` = Drafts main window
@@ -179,7 +180,6 @@ A list of applications installed and/or frequently used on my device.
 - [Notability](https://notability.com/). The old-school handwriting note app from iPad. 🍎
 - [Notion](https://www.notion.so/). The universal workspace. I'd prefer the web version.
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
-- [Streaks](https://streaksapp.com/). A habit tracker. 🍎
 - [texifier](https://www.texifier.com/). LaTeX editor. 🎫\
 - ~~[Craft](https://www.craft.do/). Document management + notes. 🍎🔁~~
 - ~~[HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706). Coffee intake tracker. 🍎~~
@@ -187,11 +187,10 @@ A list of applications installed and/or frequently used on my device.
 - ~~[MarkText](https://github.com/marktext/marktext). Open source Markdown editor.~~
   - ~~Substitute for [Typora](https://typora.io/)🎫~~
   - ~~`brew install --cask mark-text`~~
-- ~~[Anytype](https://anytype.io/)/ An alternative to Notion. Offline access is its strength.~~
-- ~~[Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.~~
-- ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. 🍎~~
-- ~~[jrnl](https://jrnl.sh/en/stable/). A command line journal tool.~~
 - ~~[FSNotes](https://fsnot.es/). Open source notes manager for macOS and iOS.~~
+- ~~[jrnl](https://jrnl.sh/en/stable/). A command line journal tool.~~
+- ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. 🍎~~
+- ~~[Streaks](https://streaksapp.com/). A habit tracker. 🍎~~
 
 ### 👨🏻‍💻 Development
 
@@ -300,6 +299,7 @@ brew install zurawiki/brews/gptcommit
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/). 🍎
   - [Motion](https://www.apple.com/final-cut-pro/motion/). 🍎
   - [Compressor](https://www.apple.com/final-cut-pro/compressor/). 🍎
+- [Fujifilm X RAW Studio](https://fujifilm-x.com/en-us/support/download/software/x-raw-studio/).
 - [Eagle](https://eagle.cool/). Reference images organization. 🎫
 - [Aseprite](https://www.aseprite.org/). A animated pixel art editor. Purchased on [Steam](https://store.steampowered.com/app/431730/Aseprite/). 🎫
 - [PhotoBulk](https://photobulkeditor.com/). Quick photo editor. 🍎
@@ -341,22 +341,23 @@ brew install zurawiki/brews/gptcommit
 
 ### 📆 Schedule
 
-- [Clear](https://apps.apple.com/us/app/clear-todos/id493136154). One of the GTD apps with the best interactions. ~~Deprecated. What a pity.~~ 🍎
 - [Due](https://www.dueapp.com/). Aggressive reminder app. 🍎🇺🇦🔁.
   - `Hyper` + `D`: create new reminder.
 - [Fantastical](https://flexibits.com/fantastical). A calendar and todo list app with great NLP input. 🎫
   - `Hyper` + `F`: create new event/reminder
 - [Things 3](https://culturedcode.com/things/). The best GTD from my perspective. 🍎
   `Ctrl` + `Space`: quick entry.
+- ~~[Clear](https://apps.apple.com/us/app/clear-todos/id493136154). One of the GTD apps with the best interactions. 🍎~~
 - ~~[Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.~~
 
 ### 💬 Messaging
 
 - [Discord](https://discord.com/).
-- [微信 WeChat](https://www.wechat.com/). Hate it but have to.
-- [Zoom](https://zoom.us/). For conference meeting, of course.
+- [Ivory](https://tapbots.com/ivory/mac/). 🍎
 - [Slack](https://slack.com/). Workspace communication.
 - [Telegram](https://telegram.org/). IM.
+- [微信 WeChat](https://www.wechat.com/). Hate it but have to.
+- [Zoom](https://zoom.us/). For conference meeting, of course.
 - ~~[Mumble](https://www.mumble.info/). Open source voice chat.~~
 - ~~[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)~~
 - ~~[Swiftcord](https://swiftcordapp.github.io/Swiftcord/). A native Discord client for macOS.~~
