@@ -60,7 +60,7 @@ A list of applications installed and/or frequently used on my device.
 
 - [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫🇺🇦
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). 🍎
-  - `Hyper` + `A`: turn on/off
+  - `Cmd` + `Shift` + `A`: turn on/off
 - [Bartender](https://www.macbartender.com/). macOS Menubar extension. 🎫🇺🇦
 - [CleanMyMac X](https://macpaw.com/cleanmymac). A system cleaner. 🇺🇦
 - [Karabiner Elements](https://karabiner-elements.pqrs.org/). Key mapping customizer.
@@ -69,16 +69,16 @@ A list of applications installed and/or frequently used on my device.
   - Complex modifications: [Change `caps_lock` to `Cmd + Ctrl + Option + Shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
 - [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
-  - `Hyper` + `M`: toggle Moom keyboard control.
+  - `Cmd` + `Shift` + `M`: toggle Moom keyboard control.
 - [Monitor Control](https://github.com/MonitorControl/MonitorControl). Control external displays.
 - [腾讯柠檬清理 Tencent Lemon](https://lemon.qq.com/). Substitute for CleanMyMac X on backup machine.
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
-  - ~~`Hyper`~~`Option` + `Space`: Activate Raycast.
+  - `Option` + `Space`: Activate Raycast.
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
-  - Use ~~`~~`~~ `:` to trigger the app.
+  - Use `:` to trigger the app.
 - [iStat Menus](https://bjango.com/mac/istatmenus/). Menubar system monitor. 🇺🇦
-- [KeyCastr](https://github.com/keycastr/keycastr). Open source keystroke visualizer.
-  - `Hyper` + `K`: Toggle capturing
+- ~~[KeyCastr](https://github.com/keycastr/keycastr). Open source keystroke visualizer.~~
+  - ~~`Hyper` + `K`: Toggle capturing~~
 - ~~[Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫~~
   - ~~`Option` + `Space`: Activate Aflred search bar.~~
 - ~~[coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.~~
@@ -107,7 +107,7 @@ A list of applications installed and/or frequently used on my device.
 - [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink). Organize async files, as the counterpart of my cloud storage. 🎫
 - [Maestral](https://maestral.app/). Open source Dropbox client, simpler, smaller, less memory needed.
 - [Gemini](https://macpaw.com/gemini). Duplicate finder. 🎫🇺🇦
-- [Hook](https://hookproductivity.com/). Create, search robust link information on everything. 🎫
+- [Hookmark](https://hookproductivity.com/). Create, search robust link information on everything. 🎫🇺🇦
   - `Ctrl` + `H`: show Hook context window
   - `Ctrl` + `Cmd` + `Shift` + `C`: copy link
 - [iMazing 2](https://imazing.com/). iOS device management. Single device allowed. 🎫
@@ -120,7 +120,7 @@ A list of applications installed and/or frequently used on my device.
 ### 🔐 Security and Encryption
 
 - [1Password](https://1password.com/). THE password manager for the last decade. Requires yearly subscription. 🔁
-  - `Hyper` + `P`: Open 1Password
+  - `Cmd` + `Option` + `P`: Open 1Password
 - ~~[Encrypto](https://macpaw.com/encrypto). Encrypt files with AES-256. 🍎~~
 
 ### 🌏 Internet
@@ -136,7 +136,7 @@ A list of applications installed and/or frequently used on my device.
 
 ### 🧰 Utilities
 
-- [balenaEtcher](https://etcher.balena.io/). Create USB installation media from bootable ISOs.
+- [ChatX](https://apps.apple.com/us/app/chatx-ai-chat-client/id6446304087). AI Chat Client. 🍎
 - [CleanShot X](https://cleanshot.com/). Great screenshot and GIFs tool. 🇺🇦
   - `Cmd` + `Shift` + `3` = Capture area
   - `Cmd` + `Shift` + `4` = Capture window
@@ -162,6 +162,7 @@ A list of applications installed and/or frequently used on my device.
   - `Cmd` + `Shift` + `3` = Shottr area screenshot
   - `Cmd` + `Shift` + `4` = Shottr active window screenshot
   - `Cmd` + `Shift` + `5` = Shottr fullscreen screenshot
+~~[balenaEtcher](https://etcher.balena.io/). Create USB installation media from bootable ISOs.~~
 - ~~[Data Jar](https://datajar.app/). Data store for shortcuts. 🍎~~
 - ~~[DeepL Translator](https://www.deepl.com/).~~
 - ~~[MD Clock](https://www.miidii.tech/). Clock app. 🍎~~
@@ -342,9 +343,8 @@ brew install zurawiki/brews/gptcommit
 ### 📆 Schedule
 
 - [Due](https://www.dueapp.com/). Aggressive reminder app. 🍎🇺🇦🔁.
-  - `Hyper` + `D`: create new reminder.
 - [Fantastical](https://flexibits.com/fantastical). A calendar and todo list app with great NLP input. 🎫
-  - `Hyper` + `F`: create new event/reminder
+  - `Cmd` + `Option` + `F`: create new event/reminder
 - [Things 3](https://culturedcode.com/things/). The best GTD from my perspective. 🍎
   `Ctrl` + `Space`: quick entry.
 - ~~[Clear](https://apps.apple.com/us/app/clear-todos/id493136154). One of the GTD apps with the best interactions. 🍎~~
