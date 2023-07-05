@@ -69,7 +69,7 @@ A list of applications installed and/or frequently used on my device.
   - Complex modifications: [Change `caps_lock` to `Cmd + Ctrl + Option + Shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
 - [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
-  - `Cmd` + `Shift` + `M`: toggle Moom keyboard control.
+  - `Cmd` + `Option` + `M`: toggle Moom keyboard control.
 - [Monitor Control](https://github.com/MonitorControl/MonitorControl). Control external displays.
 - [腾讯柠檬清理 Tencent Lemon](https://lemon.qq.com/). Substitute for CleanMyMac X on backup machine.
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
