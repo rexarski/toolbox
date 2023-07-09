@@ -147,10 +147,10 @@ A list of applications installed and/or frequently used on my device.
 - [Folx](https://www.mac-downloader.com/). Download manager. 🇺🇦
 - [Image2icon](https://img2icnsapp.com/). Convert images to icons. 🍎🇺🇦
 - [Keka](https://www.keka.io/en/). File archiver.
-- [Maccy](https://maccy.app/). Open source clipboard management.
-  - `Cmd` + `Shift` + `V`: show clipboard.
 - [Numi](https://numi.app/). Calculator with freedom. 🎫🇺🇦
 - [OpenCat](https://apps.apple.com/us/app/opencat/id6445999201). Native GPT interactions. 🍎
+- [Paste](https://pasteapp.io/). Clipboard manager. 🇺🇦
+  - `Cmd` + `Shift` + `V`: show clipboard.
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 🍎
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
   - `brew install --cask qlmarkdown`
@@ -161,9 +161,10 @@ A list of applications installed and/or frequently used on my device.
   - `Cmd` + `Shift` + `3` = Shottr area screenshot
   - `Cmd` + `Shift` + `4` = Shottr active window screenshot
   - `Cmd` + `Shift` + `5` = Shottr fullscreen screenshot
-~~[balenaEtcher](https://etcher.balena.io/). Create USB installation media from bootable ISOs.~~
+- ~~[balenaEtcher](https://etcher.balena.io/). Create USB installation media from bootable ISOs.~~
 - ~~[Data Jar](https://datajar.app/). Data store for shortcuts. 🍎~~
 - ~~[DeepL Translator](https://www.deepl.com/).~~
+- ~~[Maccy](https://maccy.app/). Open source clipboard management.~~
 - ~~[MD Clock](https://www.miidii.tech/). Clock app. 🍎~~
 - ~~[Cheatsheet](https://www.mediaatelier.com/CheatSheet/)~~.
 - ~~[Transmission](https://transmissionbt.com/). A BitTorrent client.~~
