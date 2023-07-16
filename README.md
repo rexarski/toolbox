@@ -293,8 +293,9 @@ brew install zurawiki/brews/gptcommit
 
 ### 📷 Creative
 
-- [Affinity Designer](https://affinity.serif.com/en-us/designer/). Purchased on [App Store](https://apps.apple.com/us/app/affinity-designer/id1274090551). 🍎
-- [Affinity Photo](https://affinity.serif.com/en-us/photo/). Purchased from the developer. 🎫
+- [Affinity Designer 2](https://affinity.serif.com/en-us/designer/). 🎫
+- [Affinity Photo 2](https://affinity.serif.com/en-us/photo/). 🎫
+- [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/). 🎫
 - [Darkroom](https://darkroom.co/). Very powerful and user-friendly photo + video editor in Apple's ecosystem. 🍎🎫
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/). 🍎
   - [Motion](https://www.apple.com/final-cut-pro/motion/). 🍎
