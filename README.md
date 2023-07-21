@@ -202,12 +202,6 @@ A list of applications installed and/or frequently used on my device.
   - `curl -fsSL https://bun.sh/install | bash`
 - [Dash](https://kapeli.com/dash). Offline access to documentations. 🎫🇺🇦
 - [Expressions](https://www.apptorium.com/expressions). Nice regular expression helper. 🇺🇦
-- [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/). Activated with Educational license. 🔁
-  - "For the sake of the hard drive space. Don’t keep previous versions for instant rollback."
-  - [WebStorm](https://www.jetbrains.com/webstorm/)
-  - [DataSpell](https://www.jetbrains.com/dataspell/)
-  - [PyCharm](https://www.jetbrains.com/pycharm/)
-  - [DataGrip](https://www.jetbrains.com/datagrip/)
 - [Fig](https://fig.io/). Auto-complete in terminal apps. Very powerful companion with iTerm 2. Plugins in-use:
   - `brew install --cask fig`
   - Plugins
@@ -251,6 +245,12 @@ EOF
 - ~~[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term). Open source retro terminal emulator.~~
 - ~~[Docker](https://www.docker.com/). Containerization platform.~~
 - ~~[GitKraken](https://www.gitkraken.com/git-client). More fancy Git GUI. 🔁~~
+- ~~[JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/). Activated with Educational license. 🔁~~
+  - ~~"For the sake of the hard drive space. Don’t keep previous versions for instant rollback."~~
+  - ~~[WebStorm](https://www.jetbrains.com/webstorm/)~~
+  - ~~[DataSpell](https://www.jetbrains.com/dataspell/)~~
+  - ~~[PyCharm](https://www.jetbrains.com/pycharm/)~~
+  - ~~[DataGrip](https://www.jetbrains.com/datagrip/)~~
 - ~~[Postman](https://www.postman.com/). API platform.~~
 - ~~[QGIS](https://qgis.org/en/site/). Open source GIS.~~
 - ~~[RapidAPI](https://rapidapi.com/). API tool. 🇺🇦~~
