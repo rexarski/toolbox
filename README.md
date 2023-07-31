@@ -135,7 +135,6 @@ A list of applications installed and/or frequently used on my device.
 
 ### 🧰 Utilities
 
-- [ChatX](https://apps.apple.com/us/app/chatx-ai-chat-client/id6446304087). AI Chat Client. 🍎
 - [CleanShot X](https://cleanshot.com/). Great screenshot and GIFs tool. 🇺🇦
   - `Cmd` + `Shift` + `3` = Capture area
   - `Cmd` + `Shift` + `4` = Capture window
