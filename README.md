@@ -175,9 +175,7 @@ A list of applications installed and/or frequently used on my device.
 - [Drafts](https://getdrafts.com/). One-in-all text/draft app. 🍎🔁
   - `Cmd` + `Shift` + `1` = Drafts main window
   - `Cmd` + `Shift` + `2` = Drafts quick entry
-- [Goodnotes 5](https://www.goodnotes.com/). 🍎
 - [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫🇺🇦
-- [Notability](https://notability.com/). The old-school handwriting note app from iPad. 🍎
 - [Notion](https://www.notion.so/). The universal workspace. I'd prefer the web version.
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 - [texifier](https://www.texifier.com/). LaTeX editor. 🎫\
@@ -188,8 +186,10 @@ A list of applications installed and/or frequently used on my device.
   - ~~Substitute for [Typora](https://typora.io/)🎫~~
   - ~~`brew install --cask mark-text`~~
 - ~~[FSNotes](https://fsnot.es/). Open source notes manager for macOS and iOS.~~
+- ~~[Goodnotes 5](https://www.goodnotes.com/). 🍎~~
 - ~~[jrnl](https://jrnl.sh/en/stable/). A command line journal tool.~~
 - ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. 🍎~~
+- ~~[Notability](https://notability.com/). The old-school handwriting note app from iPad. 🍎~~
 - ~~[Streaks](https://streaksapp.com/). A habit tracker. 🍎~~
 
 ### 👨🏻‍💻 Development
