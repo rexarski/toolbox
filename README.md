@@ -201,15 +201,6 @@ A list of applications installed and/or frequently used on my device.
   - `curl -fsSL https://bun.sh/install | bash`
 - [Dash](https://kapeli.com/dash). Offline access to documentations. 🎫🇺🇦
 - [Expressions](https://www.apptorium.com/expressions). Nice regular expression helper. 🇺🇦
-- [Fig](https://fig.io/). Auto-complete in terminal apps. Very powerful companion with iTerm 2. Plugins in-use:
-  - `brew install --cask fig`
-  - Plugins
-    - [Oh My Zsh](https://ohmyz.sh/)
-    - [Zsh Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-    - [Zsh Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-    - [Spaceship Prompt](https://spaceship-prompt.sh/)
-    - [You Should Use](https://github.com/MichaelAquilina/zsh-you-should-use)
-    - [Git Open](https://github.com/paulirish/git-open)
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
 - [Homebrew](https://brew.sh/). THE package manager for macOS.
   - `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
@@ -243,6 +234,7 @@ EOF
 - [Xcode](https://developer.apple.com/xcode/). 🍎
 - ~~[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term). Open source retro terminal emulator.~~
 - ~~[Docker](https://www.docker.com/). Containerization platform.~~
+- ~~[Fig](https://fig.io/). Auto-complete in terminal apps. Very powerful companion with iTerm 2.~~
 - ~~[GitKraken](https://www.gitkraken.com/git-client). More fancy Git GUI. 🔁~~
 - ~~[JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/). Activated with Educational license. 🔁~~
   - ~~"For the sake of the hard drive space. Don’t keep previous versions for instant rollback."~~
@@ -263,31 +255,27 @@ I'm not a huge command-line user but I do have some tools I'm relatively familia
 
 The installation could be error-prone as the name of the package sometimes deviates from formula name on Homebrew.
 
-| Package                                              | Formula       | Command       | Description                                                             |
-| ---------------------------------------------------- | ------------- | ------------- | ----------------------------------------------------------------------- |
-| [`asciinema`](https://asciinema.org/)                | `asciinema`   | `asciinema`   | Record and share terminal sessions.                                     |
-| [`bat`](https://github.com/sharkdp/bat)              | `bat`         | `bat`         | A `cat` clone with wings.                                               |
-| [`exa`](https://github.com/ogham/exa)                | `exa`         | `exa`         | A modern replacement for `ls`.                                          |
-| [`exiftool`](https://github.com/exiftool/exiftool)   | `exiftool`    | `exiftool`    | Read/write meta information of files.                                   |
-| [`fzf`](https://github.com/junegunn/fzf)             | `fzf`         | `fzf`         | A command-line fuzzy finder.                                            |
-| [`gptcommit`](https://github.com/zurawiki/gptcommit) | `gptcommit`   | `-`           | A git prepare-commit-msg hook for authoring commit messages with GPT-3. |
-| [`neofetch`](https://github.com/dylanaraps/neofetch) | `neofetch`    | `neofetch`    | A command-line system information tool.                                 |
-| [`neovim`](https://github.com/neovim/neovim)         | `neovim`      | `nvim`        | Vim-fork focused on extensibility and agility.                          |
-| [`procs`](https://github.com/dalance/procs)          | `procs`       | `procs`       | A modern replacement for `ps`.                                          |
-| [`rip`](https://github.com/nivekuil/rip)             | `rm-improved` | `rip`         | A command-line tool for ripping audio CDs.                              |
-| [`scc`](https://github.com/boyter/scc)               | `scc`         | `scc`         | Count lines of code quickly.                                            |
-| [`thefuck`](https://github.com/nvbn/thefuck)         | `thefuck`     | `fuck`        | A tool corrects previous console command.                               |
-| [`tldr`](https://github.com/tldr-pages/tldr)         | `tldr`        | `tldr`        | Simplified and community-driven man pages.                              |
-| [`tre`](https://github.com/dduan/tre)                | `tre-command` | `tre`         | A recursive directory listing command better than `tree`.               |
-| [`tmux`](https://github.com/tmux/tmux)               | `tmux`        | `tmux`        | Terminal multiplexer.                                                   |
-| [`vim`](https://github.com/vim/vim)                  | `vim`         | `vim`         | You-know-who.                                                           |
-| [`zoxide`](https://github.com/ajeetdsouza/zoxide)    | `zoxide`      | `zoxide`, `z` | A faster way to navigate your filesystem.                               |
+| Package                                              | Formula       | Command     | Description                                               |
+| ---------------------------------------------------- | ------------- | ----------- | --------------------------------------------------------- |
+| [`asciinema`](https://asciinema.org/)                | `asciinema`   | `asciinema` | Record and share terminal sessions.                       |
+| [`bat`](https://github.com/sharkdp/bat)              | `bat`         | `bat`       | A `cat` clone with wings.                                 |
+| [`exa`](https://github.com/ogham/exa)                | `exa`         | `exa`       | A modern replacement for `ls`.                            |
+| [`exiftool`](https://github.com/exiftool/exiftool)   | `exiftool`    | `exiftool`  | Read/write meta information of files.                     |
+| [`fzf`](https://github.com/junegunn/fzf)             | `fzf`         | `fzf`       | A command-line fuzzy finder.                              |
+| [`neofetch`](https://github.com/dylanaraps/neofetch) | `neofetch`    | `neofetch`  | A command-line system information tool.                   |
+| [`neovim`](https://github.com/neovim/neovim)         | `neovim`      | `nvim`      | Vim-fork focused on extensibility and agility.            |
+| [`procs`](https://github.com/dalance/procs)          | `procs`       | `procs`     | A modern replacement for `ps`.                            |
+| [`rip`](https://github.com/nivekuil/rip)             | `rm-improved` | `rip`       | A command-line tool for ripping audio CDs.                |
+| [`scc`](https://github.com/boyter/scc)               | `scc`         | `scc`       | Count lines of code quickly.                              |
+| [`tldr`](https://github.com/tldr-pages/tldr)         | `tldr`        | `tldr`      | Simplified and community-driven man pages.                |
+| [`tre`](https://github.com/dduan/tre)                | `tre-command` | `tre`       | A recursive directory listing command better than `tree`. |
+| [`tmux`](https://github.com/tmux/tmux)               | `tmux`        | `tmux`      | Terminal multiplexer.                                     |
+| [`vim`](https://github.com/vim/vim)                  | `vim`         | `vim`       | You-know-who.                                             |
 
 Or directly call the following command:
 
 ```bash
-brew install asciinema thefuck scc exa tldr zoxide bat exiftool fzf procs rm-improved tre-command neofetch vim neovim tmux
-brew install zurawiki/brews/gptcommit
+brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-command neofetch vim neovim tmux
 ```
 
 ### 📷 Creative
