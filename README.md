@@ -389,7 +389,6 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [IBM 3270](https://github.com/rbanffy/3270font), monospace
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/), monospace
 - [Ubuntu Monospace](https://design.ubuntu.com/font/), monospace
-
 - [Noto Mono for Powerline](https://github.com/powerline/fonts/), monospace
 - Amazon Ember and Bookerly from [Amazon Complete Font Set](https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography), sans serif, serif
 - [落霞文楷 (LxgwWenKai)](https://github.com/lxgw/LxgwWenKai), serif
