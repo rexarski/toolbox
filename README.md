@@ -377,12 +377,12 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 
 ### 🔠 Font selections
 
-- [Readex Pro (~~Lexend~~)](https://www.lexend.com/), sans serif
-- [Montserrat](https://fonts.google.com/specimen/Montserrat), sans serif
+- [Readex Pro (~~Lexend~~)](https://www.lexend.com/), sans-serif
+- [Montserrat](https://fonts.google.com/specimen/Montserrat), sans-serif
 - Roboto family
-  - [Roboto](https://fonts.google.com/specimen/Roboto), sans serif
-  - [Roboto Condensed](https://fonts.google.com/specimen/Roboto+Condensed), sans serif
-  - [Roboto Flex](https://fonts.google.com/specimen/Roboto+Flex), sans serif
+  - [Roboto](https://fonts.google.com/specimen/Roboto), sans-serif
+  - [Roboto Condensed](https://fonts.google.com/specimen/Roboto+Condensed), sans-serif
+  - [Roboto Flex](https://fonts.google.com/specimen/Roboto+Flex), sans-serif
   - [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab), serif
   - [Roboto Serif](https://fonts.google.com/specimen/Roboto+Serif), serif
   - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono), monospace
@@ -391,4 +391,5 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Ubuntu Monospace](https://design.ubuntu.com/font/), monospace
 - [Noto Mono for Powerline](https://github.com/powerline/fonts/), monospace
 - Amazon Ember and Bookerly from [Amazon Complete Font Set](https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography), sans serif, serif
-- [落霞文楷 (LxgwWenKai)](https://github.com/lxgw/LxgwWenKai), serif
+- [LXGW WenKai / 霞鹜文楷](https://github.com/lxgw/LxgwWenKai), serif
+- [LXGW Neo XiHei / 霞鹜新晰黑](https://github.com/lxgw/LxgwNeoXiHei), sans-serif
