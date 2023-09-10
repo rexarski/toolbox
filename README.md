@@ -102,6 +102,7 @@ A list of applications installed and/or frequently used on my device.
 
 - [Android File Transfer](https://www.android.com/filetransfer/)
 - [calibre](https://calibre-ebook.com/). E-book management software.
+  - [Fix Kindle Ebook Cover](https://github.com/bookfere/Fix-Kindle-Ebook-Cover). A tool to fix damaged cover for Kindle.
 - [DaisyDisk](https://daisydiskapp.com/). Analyzing disk usage with a wind rose diagram. 🍎
 - [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink). Organize async files, as the counterpart of my cloud storage. 🎫
 - [Maestral](https://maestral.app/). Open source Dropbox client, simpler, smaller, less memory needed.
@@ -146,6 +147,7 @@ A list of applications installed and/or frequently used on my device.
 - [Folx](https://www.mac-downloader.com/). Download manager. 🇺🇦
 - [Image2icon](https://img2icnsapp.com/). Convert images to icons. 🍎🇺🇦
 - [Keka](https://www.keka.io/en/). File archiver.
+- [Maccy](https://maccy.app/). Open source clipboard management.
 - [Numi](https://numi.app/). Calculator with freedom. 🎫🇺🇦
 - [OpenCat](https://apps.apple.com/us/app/opencat/id6445999201). Native GPT interactions. 🍎
 - [Paste](https://pasteapp.io/). Clipboard manager. 🇺🇦
@@ -163,7 +165,6 @@ A list of applications installed and/or frequently used on my device.
 - ~~[balenaEtcher](https://etcher.balena.io/). Create USB installation media from bootable ISOs.~~
 - ~~[Data Jar](https://datajar.app/). Data store for shortcuts. 🍎~~
 - ~~[DeepL Translator](https://www.deepl.com/).~~
-- ~~[Maccy](https://maccy.app/). Open source clipboard management.~~
 - ~~[MD Clock](https://www.miidii.tech/). Clock app. 🍎~~
 - ~~[Cheatsheet](https://www.mediaatelier.com/CheatSheet/)~~.
 - ~~[Transmission](https://transmissionbt.com/). A BitTorrent client.~~
@@ -205,7 +206,7 @@ A list of applications installed and/or frequently used on my device.
 - [Homebrew](https://brew.sh/). THE package manager for macOS.
   - `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 - [iTerm 2](https://iterm2.com/). Terminal, but better than Terminal.
-  - [vimrc](https://github.com/amix/vimrc)
+  - Snazzy theme: `(curl -Ls https://raw.githubusercontent.com/sindresorhus/iterm2-snazzy/main/Snazzy.itermcolors > /tmp/Snazzy.itermcolors && open /tmp/Snazzy.itermcolors)`
 - [OrbStack](https://orbstack.dev/), a light-weight Docker and Linux runtime management.
 - [Vim](https://www.vim.org/). The editor.
 - [Visual Studio Code](https://code.visualstudio.com/). Code editor.
