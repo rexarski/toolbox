@@ -2,6 +2,7 @@
 
 - [rexarski's Toolbox](#rexarskis-toolbox)
   - [🖥️ macOS Setup](#️-macos-setup)
+    - [Setapp](#setapp)
     - [🛠 System Extension](#-system-extension)
     - [📁 File Management](#-file-management)
     - [🔐 Security and Encryption](#-security-and-encryption)
@@ -51,17 +52,37 @@ A list of applications installed and/or frequently used on my device.
 
 🎫: requires a license
 🔁: requires a recurring subscription
-🇺🇦: included in Setapp
 🍎: downloaded from App Store
 ```
 
+### Setapp
+
+- [CleanMyMac X](https://macpaw.com/cleanmymac). A system cleaner.
+- [iStat Menus](https://bjango.com/mac/istatmenus/). Menubar system monitor.
+- [CleanShot X](https://cleanshot.com/). Great screenshot and GIFs tool.
+  - `Cmd` + `Shift` + `3` = Capture area
+  - `Cmd` + `Shift` + `4` = Capture window
+  - `Cmd` + `Shift` + `5` = Capture fullscreen
+  - `Cmd` + `Shift` + `6` = All-In-One
+- [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins.
+- [Folx](https://www.mac-downloader.com/). Download manager.
+- [Image2icon](https://img2icnsapp.com/). Convert images to icons. 🍎
+- [Numi](https://numi.app/). Calculator with freedom. 🎫
+- [Paste](https://pasteapp.io/). Clipboard manager.
+  - `Cmd` + `Shift` + `V`: show clipboard.
+- [Dash](https://kapeli.com/dash). Offline access to documentations. 🎫
+- [Expressions](https://www.apptorium.com/expressions). Nice regular expression helper.
+- [TablePlus](https://tableplus.com/). Nicely designed database management GUI.
+- [Sip](https://sipapp.io/). A color picker app.
+- [Permute](https://software.charliemonroe.net/permute/). Media convertor.
+- [Meta](https://www.nightbirdsevolve.com/meta/). Digital music management, a tag editor.
+
 ### 🛠 System Extension
 
-- [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫🇺🇦
+- [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). 🍎
   - `Cmd` + `Shift` + `A`: turn on/off
-- [Bartender](https://www.macbartender.com/). macOS Menubar extension. 🎫🇺🇦
-- [CleanMyMac X](https://macpaw.com/cleanmymac). A system cleaner. 🇺🇦
+- [Bartender](https://www.macbartender.com/). macOS Menubar extension. 🎫
 - [Karabiner Elements](https://karabiner-elements.pqrs.org/). Key mapping customizer.
   - `Hyper` == `Cmd + Ctrl + Option + Shift`
   - `Shift` + `Backspace`: Forward delete
@@ -75,16 +96,14 @@ A list of applications installed and/or frequently used on my device.
   - `Option` + `Space`: Activate Raycast.
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
   - Use `:` to trigger the app.
-- [iStat Menus](https://bjango.com/mac/istatmenus/). Menubar system monitor. 🇺🇦
 - ~~[KeyCastr](https://github.com/keycastr/keycastr). Open source keystroke visualizer.~~
   - ~~`Hyper` + `K`: Toggle capturing~~
 - ~~[Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫~~
   - ~~`Option` + `Space`: Activate Aflred search bar.~~
 - ~~[coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.~~
 - ~~[f.lux](https://justgetflux.com/). Control the on-screen color temperature.~~
-- ~~[HazeOver](https://hazeover.com/). Dim the windows out of focus and the background to create a distraction-free workspace. 🎫🇺🇦~~
+- ~~[HazeOver](https://hazeover.com/). Dim the windows out of focus and the background to create a distraction-free workspace. 🎫~~
 - ~~[Kap](https://getkap.co/). Open source screen recorder.~~
-- ~~[MenubarX](https://menubarx.app/). Open up a window on the menubar. Reminds of [Macmenubar.com](https://macmenubar.com/) 🍎~~
 - ~~[PopClip](https://pilotmoon.com/popclip/). Mouse selection extension. 🍎~~
   - ~~More [extensions](https://pilotmoon.com/popclip/extensions/)~~
 - ~~[Rectangle](https://rectangleapp.com/). macOS window organizer.~~
@@ -96,7 +115,7 @@ A list of applications installed and/or frequently used on my device.
   - ~~`Ctrl` + `Option` + `G`: Last third~~
   - ~~`Ctrl` + `Option` + `E`: First two thirds~~
   - ~~`Ctrl` + `Option` + `T`: Last two thirds~~
-- ~~[Yoink](https://eternalstorms.at/yoink/mac/). Temp file shelf. 🍎🇺🇦~~
+- ~~[Yoink](https://eternalstorms.at/yoink/mac/). Temp file shelf. 🍎~~
 
 ### 📁 File Management
 
@@ -106,8 +125,8 @@ A list of applications installed and/or frequently used on my device.
 - [DaisyDisk](https://daisydiskapp.com/). Analyzing disk usage with a wind rose diagram. 🍎
 - [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink). Organize async files, as the counterpart of my cloud storage. 🎫
 - [Maestral](https://maestral.app/). Open source Dropbox client, simpler, smaller, less memory needed.
-- [Gemini](https://macpaw.com/gemini). Duplicate finder. 🎫🇺🇦
-- [Hookmark](https://hookproductivity.com/). Create, search robust link information on everything. 🎫🇺🇦
+- [Gemini](https://macpaw.com/gemini). Duplicate finder. 🎫
+- [Hookmark](https://hookproductivity.com/). Create, search robust link information on everything. 🎫
   - `Ctrl` + `H`: show Hook context window
   - `Ctrl` + `Cmd` + `Shift` + `C`: copy link
 - [iMazing 2](https://imazing.com/). iOS device management. Single device allowed. 🎫
@@ -121,7 +140,6 @@ A list of applications installed and/or frequently used on my device.
 
 - [1Password](https://1password.com/). THE password manager for the last decade. Requires yearly subscription. 🔁
   - `Cmd` + `Option` + `P`: Open 1Password
-- ~~[Encrypto](https://macpaw.com/encrypto). Encrypt files with AES-256. 🍎~~
 
 ### 🌏 Internet
 
@@ -131,27 +149,13 @@ A list of applications installed and/or frequently used on my device.
 - Safari
   - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 - ~~[Chrome](https://www.google.com/chrome/)~~
-- ~~[IPFS Desktop](https://github.com/ipfs/ipfs-desktop). A user-friendly desktop application for [IPFS](https://ipfs.tech/).~~
-- ~~[Min](https://github.com/minbrowser/min), a minimalist web browser.~~
 
 ### 🧰 Utilities
 
-- [CleanShot X](https://cleanshot.com/). Great screenshot and GIFs tool. 🇺🇦
-  - `Cmd` + `Shift` + `3` = Capture area
-  - `Cmd` + `Shift` + `4` = Capture window
-  - `Cmd` + `Shift` + `5` = Capture fullscreen
-  - `Cmd` + `Shift` + `6` = All-In-One
 - [Dark Noise](https://darknoise.app/). White noise app. 🍎
-  - ~~[Noizio](https://noiz.io/). Substituted. 🍎🇺🇦~~
-- [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins. 🇺🇦
-- [Folx](https://www.mac-downloader.com/). Download manager. 🇺🇦
-- [Image2icon](https://img2icnsapp.com/). Convert images to icons. 🍎🇺🇦
 - [Keka](https://www.keka.io/en/). File archiver.
 - [Maccy](https://maccy.app/). Open source clipboard management.
-- [Numi](https://numi.app/). Calculator with freedom. 🎫🇺🇦
 - [OpenCat](https://apps.apple.com/us/app/opencat/id6445999201). Native GPT interactions. 🍎
-- [Paste](https://pasteapp.io/). Clipboard manager. 🇺🇦
-  - `Cmd` + `Shift` + `V`: show clipboard.
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 🍎
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
   - `brew install --cask qlmarkdown`
@@ -162,9 +166,6 @@ A list of applications installed and/or frequently used on my device.
   - `Cmd` + `Shift` + `3` = Shottr area screenshot
   - `Cmd` + `Shift` + `4` = Shottr active window screenshot
   - `Cmd` + `Shift` + `5` = Shottr fullscreen screenshot
-- ~~[balenaEtcher](https://etcher.balena.io/). Create USB installation media from bootable ISOs.~~
-- ~~[Data Jar](https://datajar.app/). Data store for shortcuts. 🍎~~
-- ~~[DeepL Translator](https://www.deepl.com/).~~
 - ~~[MD Clock](https://www.miidii.tech/). Clock app. 🍎~~
 - ~~[Cheatsheet](https://www.mediaatelier.com/CheatSheet/)~~.
 - ~~[Transmission](https://transmissionbt.com/). A BitTorrent client.~~
@@ -176,22 +177,13 @@ A list of applications installed and/or frequently used on my device.
 - [Drafts](https://getdrafts.com/). One-in-all text/draft app. 🍎🔁
   - `Cmd` + `Shift` + `1` = Drafts main window
   - `Cmd` + `Shift` + `2` = Drafts quick entry
-- [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫🇺🇦
-- [Notion](https://www.notion.so/). The universal workspace. I'd prefer the web version.
+- [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
-- [texifier](https://www.texifier.com/). LaTeX editor. 🎫\
-- ~~[Craft](https://www.craft.do/). Document management + notes. 🍎🔁~~
-- ~~[HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706). Coffee intake tracker. 🍎~~
-- ~~[HiWater](https://apps.apple.com/us/app/hiwater-the-water-pyramid/id1561732866). Water intake tracker. 🍎~~
+- [texifier](https://www.texifier.com/). LaTeX editor. 🎫
 - ~~[MarkText](https://github.com/marktext/marktext). Open source Markdown editor.~~
   - ~~Substitute for [Typora](https://typora.io/)🎫~~
   - ~~`brew install --cask mark-text`~~
-- ~~[FSNotes](https://fsnot.es/). Open source notes manager for macOS and iOS.~~
-- ~~[Goodnotes 5](https://www.goodnotes.com/). 🍎~~
-- ~~[jrnl](https://jrnl.sh/en/stable/). A command line journal tool.~~
 - ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. 🍎~~
-- ~~[Notability](https://notability.com/). The old-school handwriting note app from iPad. 🍎~~
-- ~~[Streaks](https://streaksapp.com/). A habit tracker. 🍎~~
 
 ### 👨🏻‍💻 Development
 
@@ -200,14 +192,14 @@ A list of applications installed and/or frequently used on my device.
   - `conda config —set auto_activate_base false`. [Do not activate `conda` by default](https://stackoverflow.com/questions/54429210/how-do-i-prevent-conda-from-activating-the-base-environment-by-default).
 - [bun](https://bun.sh/). A modern JS runtime.
   - `curl -fsSL https://bun.sh/install | bash`
-- [Dash](https://kapeli.com/dash). Offline access to documentations. 🎫🇺🇦
-- [Expressions](https://www.apptorium.com/expressions). Nice regular expression helper. 🇺🇦
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
 - [Homebrew](https://brew.sh/). THE package manager for macOS.
   - `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 - [iTerm 2](https://iterm2.com/). Terminal, but better than Terminal.
   - Snazzy theme: `(curl -Ls https://raw.githubusercontent.com/sindresorhus/iterm2-snazzy/main/Snazzy.itermcolors > /tmp/Snazzy.itermcolors && open /tmp/Snazzy.itermcolors)`
+  - [starship](https://github.com/starship/starship). A minimal, customizable prompt for shells.
 - [OrbStack](https://orbstack.dev/), a light-weight Docker and Linux runtime management.
+- [Ollama](https://github.com/jmorganca/ollama), a tool for running LLM locally.
 - [Vim](https://www.vim.org/). The editor.
 - [Visual Studio Code](https://code.visualstudio.com/). Code editor.
   - Use the following script to create a `code` command in terminal:
@@ -220,7 +212,6 @@ EOF
 ```
 
 - [Processing](https://processing.org/). Generative art playground.
-- [TablePlus](https://tableplus.com/). Nicely designed database management GUI. 🇺🇦
 - [julia](https://julialang.org/)
   - `brew install --cask julia`
 - [R](https://www.r-project.org/). THE statistical programming language.
@@ -233,22 +224,6 @@ EOF
   - Follow this [blog](https://mathjiajia.github.io/vscode-and-latex/#step-3-install--configure-latex-workshop) to set up.
   - Restart the machine to resolve the path issue.
 - [Xcode](https://developer.apple.com/xcode/). 🍎
-- ~~[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term). Open source retro terminal emulator.~~
-- ~~[Docker](https://www.docker.com/). Containerization platform.~~
-- ~~[Fig](https://fig.io/). Auto-complete in terminal apps. Very powerful companion with iTerm 2.~~
-- ~~[GitKraken](https://www.gitkraken.com/git-client). More fancy Git GUI. 🔁~~
-- ~~[JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/). Activated with Educational license. 🔁~~
-  - ~~"For the sake of the hard drive space. Don’t keep previous versions for instant rollback."~~
-  - ~~[WebStorm](https://www.jetbrains.com/webstorm/)~~
-  - ~~[DataSpell](https://www.jetbrains.com/dataspell/)~~
-  - ~~[PyCharm](https://www.jetbrains.com/pycharm/)~~
-  - ~~[DataGrip](https://www.jetbrains.com/datagrip/)~~
-- ~~[Postman](https://www.postman.com/). API platform.~~
-- ~~[QGIS](https://qgis.org/en/site/). Open source GIS.~~
-- ~~[RapidAPI](https://rapidapi.com/). API tool. 🇺🇦~~
-- ~~[RSwitch](https://rud.is/rswitch/). A lightweight menubar utility for R users.~~
-- ~~[ServerCat](https://servercat.app/). Server status, docker management and SSH client for iOS (and macOS.) 🍎~~
-- ~~[Warp](https://www.warp.dev). Rust-based, blazingly fast terminal with some killer features like code blocks, etc.~~
 
 #### ⌘ CLI tools
 
@@ -271,12 +246,13 @@ The installation could be error-prone as the name of the package sometimes devia
 | [`tldr`](https://github.com/tldr-pages/tldr)         | `tldr`        | `tldr`      | Simplified and community-driven man pages.                |
 | [`tre`](https://github.com/dduan/tre)                | `tre-command` | `tre`       | A recursive directory listing command better than `tree`. |
 | [`tmux`](https://github.com/tmux/tmux)               | `tmux`        | `tmux`      | Terminal multiplexer.                                     |
-| [`vim`](https://github.com/vim/vim)                  | `vim`         | `vim`       | You-know-who.                                             |
+| [`vim`](https://github.com/vim/vim)                  | `vim`         | `vim`       |                                                           |
+| [`btop`](https://github.com/aristocratos/btop)       | `btop`        | `btop`      | A monitor of resources                                    |
 
 Or directly call the following command:
 
 ```bash
-brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-command neofetch vim neovim tmux
+brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-command neofetch vim neovim tmux btop
 ```
 
 ### 📷 Creative
@@ -293,18 +269,10 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Aseprite](https://www.aseprite.org/). A animated pixel art editor. Purchased on [Steam](https://store.steampowered.com/app/431730/Aseprite/). 🎫
 - [PhotoBulk](https://photobulkeditor.com/). Quick photo editor. 🍎
 - [PICO-8](https://www.lexaloffle.com/pico-8.php). Fantasy retro console game engine. 🎫
-- [Sip](https://sipapp.io/). A color picker app. 🇺🇦
-- [ColorSlurp](https://colorslurp.com/) as an alternative to Sip, but free. 🍎
-- [Permute](https://software.charliemonroe.net/permute/). Media convertor. 🇺🇦
-- [Meta](https://www.nightbirdsevolve.com/meta/). Digital music management, a tag editor. 🇺🇦
 - ~~[Audacity](https://www.audacityteam.org/). Open source audio app.~~
 - ~~[Capture One](https://www.captureone.com/en). Free activation code gifted with a Fujifilm camera. Not that frequently used too.~~
 - ~~[Figma](https://www.figma.com/) == Design Swiss Army knife. Now use web version instead.~~
 - ~~[Handbrake](https://handbrake.fr/). Open source video transcoder.~~
-- ~~[Inboard](https://inboardapp.com/). Image organization. Development in hiatus. 🍎~~
-- ~~[Pixen](https://pixenapp.com/). Pixel art editor. 🍎~~
-- ~~[Polarr Photo Editor Pro](https://www.polarr.com/mac/). 🎫~~
-- ~~[Pixelmator Classic](https://www.pixelmator.com/mac/). Full-power image editor. 🍎~~
 - ~~[剪映](https://lv.ulikecam.com/). A video editor.~~
 
 ### 📮 Information
@@ -313,6 +281,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 🍎
 - [Deliveries](https://deliveries.app/en.html). Package tracking. 🍎
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 🍎
+- [Ivory for Mastodon](https://tapbots.com/ivory/mac/). 🍎
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 🍎
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
@@ -322,15 +291,11 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。🍎
 - ~~[GoodLinks](https://goodlinks.app/). 🍎 A native read-it-later app for iOS and macOS.~~
 - ~~[Maipo](https://apps.apple.com/us/app/maipo-for-weibo/id789066512?mt=12). Third-party Weibo client. 🍎~~
-- ~~[MindNode](https://www.mindnode.com/). 🎫🇺🇦~~
-- ~~[NetNewsWire](https://netnewswire.com/). Open source RSS reader.~~
-- ~~[Skim](https://skim-app.sourceforge.io/). An open source PDF reader and note taker.~~
-- ~~[Spark](https://sparkmailapp.com/). Email client. 🍎~~
 - ~~[Tweetbot](https://tapbots.com/tweetbot/mac/). Third-part Twitter client after all those years, still standing. 🍎~~
 
 ### 📆 Schedule
 
-- [Due](https://www.dueapp.com/). Aggressive reminder app. 🍎🇺🇦🔁.
+- [Due](https://www.dueapp.com/). Aggressive reminder app. 🍎🔁.
 - [Fantastical](https://flexibits.com/fantastical). A calendar and todo list app with great NLP input. 🎫
   - `Cmd` + `Option` + `F`: create new event/reminder
 - [Things 3](https://culturedcode.com/things/). The best GTD from my perspective. 🍎
@@ -341,14 +306,11 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 ### 💬 Messaging
 
 - [Discord](https://discord.com/).
-- [Ivory](https://tapbots.com/ivory/mac/). 🍎
 - [Slack](https://slack.com/). Workspace communication.
 - [Telegram](https://telegram.org/). IM.
 - [微信 WeChat](https://www.wechat.com/). Hate it but have to.
 - [Zoom](https://zoom.us/). For conference meeting, of course.
 - ~~[Mumble](https://www.mumble.info/). Open source voice chat.~~
-- ~~[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)~~
-- ~~[Swiftcord](https://swiftcordapp.github.io/Swiftcord/). A native Discord client for macOS.~~
 
 ### 🎮 Entertainment
 
@@ -361,13 +323,11 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Spotify](https://open.spotify.com/)
 - [Steam](https://store.steampowered.com/)
 - [YACReader](https://www.yacreader.com/). A cross-platform comic reader.
-- ~~[Amazon Kindle](https://www.amazon.com/b?ie=UTF8&node=16571048011). 🍎~~
-- ~~Battle.net~~
-  - ~~[Hearthstone](https://playhearthstone.com/en-us). Collectible card game.~~
-  - ~~[HSTracker](https://hsreplay.net/downloads/). Hearthstone deck tracker.~~
+- Battle.net
+  - [Hearthstone](https://playhearthstone.com/en-us). Collectible card game.
+  - [HSTracker](https://hsreplay.net/downloads/). Hearthstone deck tracker.
 - ~~[OpenEmu](https://openemu.org/). Retro game emulator.~~
 - ~~[OpenRA](https://www.openra.net/). C&C, Dune, RA built for modern era.~~
-- ~~[Sofa](https://sofahq.com/). Downtime organizer. 🍎🎫~~
 
 ### 🎑 Screensaver
 
