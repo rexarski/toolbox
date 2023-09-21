@@ -248,11 +248,12 @@ The installation could be error-prone as the name of the package sometimes devia
 | [`tmux`](https://github.com/tmux/tmux)               | `tmux`        | `tmux`      | Terminal multiplexer.                                     |
 | [`vim`](https://github.com/vim/vim)                  | `vim`         | `vim`       |                                                           |
 | [`btop`](https://github.com/aristocratos/btop)       | `btop`        | `btop`      | A monitor of resources                                    |
+| [`fx`](https://github.com/antonmedv/fx)              | `fx`          | `fx`        | A command-line JSON processing tool.                      |
 
 Or directly call the following command:
 
 ```bash
-brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-command neofetch vim neovim tmux btop
+brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-command neofetch vim neovim tmux btop fx
 ```
 
 ### 📷 Creative
