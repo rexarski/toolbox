@@ -297,7 +297,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 ### 📆 Schedule
 
 - [Due](https://www.dueapp.com/). Aggressive reminder app. 🍎🔁.
-- ~~[Fantastical](https://flexibits.com/fantastical). A calendar and todo list app with great NLP input. 🎫~~
+- [Fantastical](https://flexibits.com/fantastical). A calendar and todo list app with great NLP input support. 🎫
   - `Cmd` + `Option` + `F`: create new event/reminder
 - [Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.
 - [Things 3](https://culturedcode.com/things/). The best GTD from my perspective. 🍎
