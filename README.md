@@ -87,11 +87,11 @@ A list of applications installed and/or frequently used on my device.
   - `Hyper` == `Cmd + Ctrl + Option + Shift`
   - `Shift` + `Backspace`: Forward delete
   - Complex modifications: [Change `caps_lock` to `Cmd + Ctrl + Option + Shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
+- [Keepa](https://keepa.com/#). Amazon price tracker. 🍎
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
 - [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
   - `Cmd` + `Option` + `M`: toggle Moom keyboard control.
 - [Monitor Control](https://github.com/MonitorControl/MonitorControl). Control external displays.
-- [腾讯柠檬清理 Tencent Lemon](https://lemon.qq.com/). Substitute for CleanMyMac X on backup machine.
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
   - `Option` + `Space`: Activate Raycast.
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
@@ -116,6 +116,7 @@ A list of applications installed and/or frequently used on my device.
   - ~~`Ctrl` + `Option` + `E`: First two thirds~~
   - ~~`Ctrl` + `Option` + `T`: Last two thirds~~
 - ~~[Yoink](https://eternalstorms.at/yoink/mac/). Temp file shelf. 🍎~~
+- ~~[腾讯柠檬清理 Tencent Lemon](https://lemon.qq.com/). Substitute for CleanMyMac X on backup machine.~~
 
 ### 📁 File Management
 
@@ -180,6 +181,7 @@ A list of applications installed and/or frequently used on my device.
 - [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 - [texifier](https://www.texifier.com/). LaTeX editor. 🎫
+- [Tripsy](https://tripsy.app/). Travel planning app. 🍎🔁
 - ~~[MarkText](https://github.com/marktext/marktext). Open source Markdown editor.~~
   - ~~Substitute for [Typora](https://typora.io/)🎫~~
   - ~~`brew install --cask mark-text`~~
@@ -316,6 +318,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 ### 🎮 Entertainment
 
 - Books. System built-in EPUB reader.
+- [Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer).
 - [Hobi](https://hobiapp.com/). TV shows tracker. 🍎
 - [IINA](https://iina.io/). Open source media player.
 - [MultiViewer for F1](https://beta.f1mv.com/)
