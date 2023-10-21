@@ -24,7 +24,6 @@
 New machine setup checklist
 
 - [ ] Set up iCloud account.
-- [ ] Install Chrome.
 - [ ] Install 1Password.
 - [ ] Install ~~Google Drive, Dropbox,~~ Maestral. Sync.
 - [ ] Install Karabiner-Elements.
@@ -58,24 +57,11 @@ A list of applications installed and/or frequently used on my device.
 ### Setapp
 
 - [CleanMyMac X](https://macpaw.com/cleanmymac). A system cleaner.
-- [iStat Menus](https://bjango.com/mac/istatmenus/). Menubar system monitor.
 - [CleanShot X](https://cleanshot.com/). Great screenshot and GIFs tool.
   - `Cmd` + `Shift` + `3` = Capture area
   - `Cmd` + `Shift` + `4` = Capture window
   - `Cmd` + `Shift` + `5` = Capture fullscreen
   - `Cmd` + `Shift` + `6` = All-In-One
-- [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins.
-- [Folx](https://www.mac-downloader.com/). Download manager.
-- [Image2icon](https://img2icnsapp.com/). Convert images to icons. 
-- [Numi](https://numi.app/). Calculator with freedom. 🎫
-- [Paste](https://pasteapp.io/). Clipboard manager.
-  - `Cmd` + `Shift` + `V`: show clipboard.
-- [Dash](https://kapeli.com/dash). Offline access to documentations. 🎫
-- [Expressions](https://www.apptorium.com/expressions). Nice regular expression helper.
-- [TablePlus](https://tableplus.com/). Nicely designed database management GUI.
-- [Sip](https://sipapp.io/). A color picker app.
-- [Permute](https://software.charliemonroe.net/permute/). Media convertor.
-- [Meta](https://www.nightbirdsevolve.com/meta/). Digital music management, a tag editor.
 
 ### 🛠 System Extension
 
@@ -83,6 +69,7 @@ A list of applications installed and/or frequently used on my device.
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). 
   - `Cmd` + `Shift` + `A`: turn on/off
 - [Bartender](https://www.macbartender.com/). macOS Menubar extension. 🎫
+- [BetterDisplay](https://github.com/waydabber/BetterDisplay#readme). Display customization tool. From the same developer of [Monitor Control](https://github.com/MonitorControl/MonitorControl). 🎫
 - [Karabiner Elements](https://karabiner-elements.pqrs.org/). Key mapping customizer.
   - `Hyper` == `Cmd + Ctrl + Option + Shift`
   - `Shift` + `Backspace`: Forward delete
@@ -90,7 +77,6 @@ A list of applications installed and/or frequently used on my device.
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
 - [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
   - `Cmd` + `Option` + `M`: toggle Moom keyboard control.
-- [Monitor Control](https://github.com/MonitorControl/MonitorControl). Control external displays.
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
   - `Option` + `Space`: Activate Raycast.
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
@@ -126,15 +112,15 @@ A list of applications installed and/or frequently used on my device.
 - [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink). Organize async files, as the counterpart of my cloud storage. 🎫
 - [Maestral](https://maestral.app/). Open source Dropbox client, simpler, smaller, less memory needed.
 - [Gemini](https://macpaw.com/gemini). Duplicate finder. 🎫
-- [Hookmark](https://hookproductivity.com/). Create, search robust link information on everything. 🎫
-  - `Ctrl` + `H`: show Hook context window
-  - `Ctrl` + `Cmd` + `Shift` + `C`: copy link
 - [iMazing 2](https://imazing.com/). iOS device management. Single device allowed. 🎫
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/). Manually control Time Machine backup schedule.
   - `brew install --cask timemachineeditor`
 - [Transmit](https://panic.com/transmit/). File transfer between macOS and servers. 🎫
 - ~~[Dropbox](https://www.dropbox.com/home). Replaced due to the limitation of number of devices in sync.~~
 - ~~[Google Drive](https://www.google.com/drive/).~~
+- ~~[Hookmark](https://hookproductivity.com/). Create, search robust link information on everything. 🎫~~
+  - ~~`Ctrl` + `H`: show Hook context window~~
+  - ~~`Ctrl` + `Cmd` + `Shift` + `C`: copy link~~
 
 ### 🔐 Security and Encryption
 
@@ -157,6 +143,7 @@ A list of applications installed and/or frequently used on my device.
 - [Dark Noise](https://darknoise.app/). White noise app. 
 - [Keka](https://www.keka.io/en/). File archiver.
 - [Maccy](https://maccy.app/). Open source clipboard management.
+- [Numi](https://numi.app/). Calculator with freedom. 🎫
 - [OpenCat](https://apps.apple.com/us/app/opencat/id6445999201). Native GPT interactions. 
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
@@ -265,6 +252,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Affinity Photo 2](https://affinity.serif.com/en-us/photo/). 🎫
 - [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/). 🎫
 - [Darkroom](https://darkroom.co/). Very powerful and user-friendly photo + video editor in Apple's ecosystem. 🎫
+- [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins. 🎫
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/). 
   - [Motion](https://www.apple.com/final-cut-pro/motion/). 
   - [Compressor](https://www.apple.com/final-cut-pro/compressor/). 
