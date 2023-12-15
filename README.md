@@ -44,6 +44,28 @@ New machine setup checklist
 - [ ] Turn off the auto boot feature.
   - `sudo nvram AutoBoot=%00`
   - Turn it back on by `sudo nvram AutoBoot=%03` or use `nvram -p` to check the current value.
+- [ ] Generate and add SSH key to GitHub account.
+  - As GitHub stopped supporting users from using account passwords for authenticated Git operations. We need to do the following set up:
+    - Generate an SSH key on the new device as no SSH keys exist inside `.ssh`
+      - `ssh-keygen -t ed25519 -C “email@example.com”`
+      - Enter the path with filename `/Users/myname/.ssh/id_ed25519_github` after the prompt
+      - Enter a passphrase (optional), then `id_ed25519_github` and `id_ed25519_github.pub` will appear
+    - Add the SSH key to ssh-agent
+      - Start the ssh-agent by `exec ssh-agent zsh`
+      - Add newly created SSH private key to the ssh-agent by `ssh-add —apple-use-keychain ~/.ssh/id_ed25519_github`
+      - Create a config file `touch ~/.ssh/config` with:
+
+      - ```plaintext
+        Host *
+          AddKeysToAgent yes
+          UseKeychain yes
+          IdentityFile ~/.ssh/id_ed25519_github
+        ```
+
+    - Add the SSH key to GitHub account
+      - `pbcopy < ~/.ssh/id_ed25519_github.pub`
+      - On GitHub, Settings -> SSH and GPG keys -> New SSH key
+    - Additionally, inside `.git/config`, use SSH url instead of HTTPS url.
 - [ ] Install essential applications in the following list.
 
 ```plaintext
@@ -57,11 +79,6 @@ A list of applications installed and/or frequently used on my device.
 ### Setapp
 
 - [CleanMyMac X](https://macpaw.com/cleanmymac). A system cleaner.
-- [CleanShot X](https://cleanshot.com/). Great screenshot and GIFs tool.
-  - `Cmd` + `Shift` + `3` = Capture area
-  - `Cmd` + `Shift` + `4` = Capture window
-  - `Cmd` + `Shift` + `5` = Capture fullscreen
-  - `Cmd` + `Shift` + `6` = All-In-One
 
 ### 🛠 System Extension
 
@@ -100,8 +117,6 @@ A list of applications installed and/or frequently used on my device.
   - ~~`Ctrl` + `Option` + `G`: Last third~~
   - ~~`Ctrl` + `Option` + `E`: First two thirds~~
   - ~~`Ctrl` + `Option` + `T`: Last two thirds~~
-- ~~[Yoink](https://eternalstorms.at/yoink/mac/). Temp file shelf. ~~
-- ~~[腾讯柠檬清理 Tencent Lemon](https://lemon.qq.com/). Substitute for CleanMyMac X on backup machine.~~
 
 ### 📁 File Management
 
@@ -116,11 +131,6 @@ A list of applications installed and/or frequently used on my device.
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/). Manually control Time Machine backup schedule.
   - `brew install --cask timemachineeditor`
 - [Transmit](https://panic.com/transmit/). File transfer between macOS and servers. 🎫
-- ~~[Dropbox](https://www.dropbox.com/home). Replaced due to the limitation of number of devices in sync.~~
-- ~~[Google Drive](https://www.google.com/drive/).~~
-- ~~[Hookmark](https://hookproductivity.com/). Create, search robust link information on everything. 🎫~~
-  - ~~`Ctrl` + `H`: show Hook context window~~
-  - ~~`Ctrl` + `Cmd` + `Shift` + `C`: copy link~~
 
 ### 🔐 Security and Encryption
 
@@ -136,7 +146,6 @@ A list of applications installed and/or frequently used on my device.
   - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 - [Hush](https://github.com/oblador/hush). Content blocker for Safari. 
 - [Keepa](https://keepa.com/#). Amazon price tracker. 
-- ~~[Chrome](https://www.google.com/chrome/)~~
 
 ### 🧰 Utilities
 
@@ -261,11 +270,6 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Aseprite](https://www.aseprite.org/). A animated pixel art editor. Purchased on [Steam](https://store.steampowered.com/app/431730/Aseprite/). 🎫
 - [PhotoBulk](https://photobulkeditor.com/). Quick photo editor. 
 - [PICO-8](https://www.lexaloffle.com/pico-8.php). Fantasy retro console game engine. 🎫
-- ~~[Audacity](https://www.audacityteam.org/). Open source audio app.~~
-- ~~[Capture One](https://www.captureone.com/en). Free activation code gifted with a Fujifilm camera. Not that frequently used too.~~
-- ~~[Figma](https://www.figma.com/) == Design Swiss Army knife. Now use web version instead.~~
-- ~~[Handbrake](https://handbrake.fr/). Open source video transcoder.~~
-- ~~[剪映](https://lv.ulikecam.com/). A video editor.~~
 
 ### 📮 Information
 
@@ -281,8 +285,6 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
   - `C`: Copy link
   - `F`: Open in Firefox
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。
-- ~~[GoodLinks](https://goodlinks.app/).  A native read-it-later app for iOS and macOS.~~
-- ~~[Maipo](https://apps.apple.com/us/app/maipo-for-weibo/id789066512?mt=12). Third-party Weibo client. ~~
 - ~~[Tweetbot](https://tapbots.com/tweetbot/mac/). Third-part Twitter client after all those years, still standing. ~~
 
 ### 📆 Schedule
@@ -290,10 +292,10 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Due](https://www.dueapp.com/). Aggressive reminder app. 🔁.
 - [Fantastical](https://flexibits.com/fantastical). A calendar and todo list app with great NLP input support. 🎫
   - `Cmd` + `Option` + `F`: create new event/reminder
-- [Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.
 - [Things 3](https://culturedcode.com/things/). The best GTD from my perspective. 
   `Ctrl` + `Space`: quick entry.
 - ~~[Clear](https://apps.apple.com/us/app/clear-todos/id493136154). One of the GTD apps with the best interactions. ~~
+- ~~[Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.~~
 
 ### 💬 Messaging
 
@@ -302,32 +304,24 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Telegram](https://telegram.org/). IM.
 - [微信 WeChat](https://www.wechat.com/). Hate it but have to.
 - [Zoom](https://zoom.us/). For conference meeting, of course.
-- ~~[Mumble](https://www.mumble.info/). Open source voice chat.~~
 
 ### 🎮 Entertainment
 
 - Books. System built-in EPUB reader.
-- [Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer).
-- [Hobi](https://hobiapp.com/). TV shows tracker. 
 - [IINA](https://iina.io/). Open source media player.
 - [MultiViewer for F1](https://beta.f1mv.com/)
 - [MusicHarbor](https://apps.apple.com/cn/app/musicharbor-new-music-tracker/id1440405750). 
+- [MusicBox](https://apps.apple.com/us/app/musicbox-save-music-for-later/id1614730313). Bookmark for songs to listen later. 
 - [Play](https://apps.apple.com/cn/app/play-save-videos-watch-later/id1596506190). Watch later queue management. 
 - [Spotify](https://open.spotify.com/)
 - [Steam](https://store.steampowered.com/)
 - [YACReader](https://www.yacreader.com/). A cross-platform comic reader.
-- Battle.net
-  - [Hearthstone](https://playhearthstone.com/en-us). Collectible card game.
-  - [HSTracker](https://hsreplay.net/downloads/). Hearthstone deck tracker.
-- ~~[OpenEmu](https://openemu.org/). Retro game emulator.~~
-- ~~[OpenRA](https://www.openra.net/). C&C, Dune, RA built for modern era.~~
 
 ### 🎑 Screensaver
 
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn). Screensaver inspired by Apple's Event on October 30, 2018.
 - [Fliqlo Flip Clock](https://fliqlo.com/). The classic.
 - [fruit](https://github.com/Corkscrews/fruit). Retro Apple.
-- ~~[Aerial](https://github.com/JohnCoates/Aerial). Apple TV Aerial Screensaver.~~
 
 ### 🔠 Font selections
 
@@ -347,3 +341,6 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - Amazon Ember and Bookerly from [Amazon Complete Font Set](https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography), sans serif, serif
 - [LXGW WenKai / 霞鹜文楷](https://github.com/lxgw/LxgwWenKai), serif
 - [LXGW Neo XiHei / 霞鹜新晰黑](https://github.com/lxgw/LxgwNeoXiHei), sans-serif
+- 喜鹊宋体, serif
+- [Atkinson Hyperlegible](https://brailleinstitute.org/freefont), sans-serif
+- [Charis SIL](https://software.sil.org/charis/), serif
