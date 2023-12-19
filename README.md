@@ -140,8 +140,8 @@ A list of applications installed and/or frequently used on my device.
 ### 🌏 Internet
 
 - [1Blocker](https://1blocker.com/). Content blocker on Safari. 
-- [Arc](https://arc.net/), a modern chromium browser.
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/).
+  - Follow [this blog post](https://taoshu.in/firefox/vertical-tabs.html) to remove tab bar for a more focused, vertical-tabbed experience.
 - Safari
   - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 - [Hush](https://github.com/oblador/hush). Content blocker for Safari. 
