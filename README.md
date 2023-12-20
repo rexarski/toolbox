@@ -275,7 +275,6 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 
 - [Anki](https://apps.ankiweb.net/). A Open source flashcard tool.
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 
-- [Deliveries](https://deliveries.app/en.html). Package tracking. 
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 
 - [Ivory for Mastodon](https://tapbots.com/ivory/mac/). 
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
