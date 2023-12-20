@@ -277,13 +277,14 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 
 - [Ivory for Mastodon](https://tapbots.com/ivory/mac/). 
-- [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
+- [skim](https://skim-app.sourceforge.io/). Open-source pdf solution.
 - [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
 - [Reeder](https://reederapp.com/). RSS reader. 
   - `C`: Copy link
   - `F`: Open in Firefox
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。
+- ~~[PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫~~
 - ~~[Tweetbot](https://tapbots.com/tweetbot/mac/). Third-part Twitter client after all those years, still standing. ~~
 
 ### 📆 Schedule
@@ -291,6 +292,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Due](https://www.dueapp.com/). Aggressive reminder app. 🔁.
 - [Fantastical](https://flexibits.com/fantastical). A calendar and todo list app with great NLP input support. 🎫
   - `Cmd` + `Option` + `F`: create new event/reminder
+- [Cardhop](https://flexibits.com/cardhop). 🎫
 - [Things 3](https://culturedcode.com/things/). The best GTD from my perspective. 
   `Ctrl` + `Space`: quick entry.
 - ~~[Clear](https://apps.apple.com/us/app/clear-todos/id493136154). One of the GTD apps with the best interactions. ~~
