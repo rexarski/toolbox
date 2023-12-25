@@ -150,9 +150,9 @@ A list of applications installed and/or frequently used on my device.
 ### 🧰 Utilities
 
 - [Dark Noise](https://darknoise.app/). White noise app. 
+- [heynote](https://heynote.com/). A decent scratchpad.
 - [Keka](https://www.keka.io/en/). File archiver.
 - [Maccy](https://maccy.app/). Open source clipboard management.
-- [Numi](https://numi.app/). Calculator with freedom. 🎫
 - [OpenCat](https://apps.apple.com/us/app/opencat/id6445999201). Native GPT interactions. 
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
@@ -166,6 +166,7 @@ A list of applications installed and/or frequently used on my device.
   - `Cmd` + `Shift` + `5` = Shottr fullscreen screenshot
 - ~~[MD Clock](https://www.miidii.tech/). Clock app. ~~
 - ~~[Cheatsheet](https://www.mediaatelier.com/CheatSheet/)~~.
+- ~~[Numi](https://numi.app/). Calculator with freedom. 🎫~~
 - ~~[Transmission](https://transmissionbt.com/). A BitTorrent client.~~
 
 ### 📝 Logging
