@@ -149,8 +149,8 @@ A list of applications installed and/or frequently used on my device.
 
 ### 🧰 Utilities
 
+- [balenaEtcher](https://www.balena.io/etcher/). Flash OS images to SD cards & USB drives, safely and easily.
 - [Dark Noise](https://darknoise.app/). White noise app. 
-- [heynote](https://heynote.com/). A decent scratchpad.
 - [Keka](https://www.keka.io/en/). File archiver.
 - [Maccy](https://maccy.app/). Open source clipboard management.
 - [OpenCat](https://apps.apple.com/us/app/opencat/id6445999201). Native GPT interactions. 
@@ -176,6 +176,7 @@ A list of applications installed and/or frequently used on my device.
 - [Drafts](https://getdrafts.com/). One-in-all text/draft app. 🔁
   - `Cmd` + `Shift` + `1` = Drafts main window
   - `Cmd` + `Shift` + `2` = Drafts quick entry
+- [heynote](https://heynote.com/). A decent scratchpad.
 - [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 - [texifier](https://www.texifier.com/). LaTeX editor. 🎫
@@ -278,6 +279,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 
 - [Ivory for Mastodon](https://tapbots.com/ivory/mac/). 
+- [NetNewsWire](https://ranchero.com/netnewswire/). Open source RSS reader.
 - [skim](https://skim-app.sourceforge.io/). Open-source pdf solution.
 - [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
