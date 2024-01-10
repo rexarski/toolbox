@@ -153,6 +153,7 @@ A list of applications installed and/or frequently used on my device.
 - [Dark Noise](https://darknoise.app/). White noise app. 
 - [Keka](https://www.keka.io/en/). File archiver.
 - [Maccy](https://maccy.app/). Open source clipboard management.
+- [Numi](https://numi.app/). Calculator with freedom. 🎫
 - [OpenCat](https://apps.apple.com/us/app/opencat/id6445999201). Native GPT interactions. 
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
@@ -166,7 +167,6 @@ A list of applications installed and/or frequently used on my device.
   - `Cmd` + `Shift` + `5` = Shottr fullscreen screenshot
 - ~~[MD Clock](https://www.miidii.tech/). Clock app. ~~
 - ~~[Cheatsheet](https://www.mediaatelier.com/CheatSheet/)~~.
-- ~~[Numi](https://numi.app/). Calculator with freedom. 🎫~~
 - ~~[Transmission](https://transmissionbt.com/). A BitTorrent client.~~
 
 ### 📝 Logging
@@ -176,15 +176,14 @@ A list of applications installed and/or frequently used on my device.
 - [Drafts](https://getdrafts.com/). One-in-all text/draft app. 🔁
   - `Cmd` + `Shift` + `1` = Drafts main window
   - `Cmd` + `Shift` + `2` = Drafts quick entry
-- [heynote](https://heynote.com/). A decent scratchpad.
 - [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 - [texifier](https://www.texifier.com/). LaTeX editor. 🎫
-- [Tripsy](https://tripsy.app/). Travel planning app. 🔁
 - ~~[MarkText](https://github.com/marktext/marktext). Open source Markdown editor.~~
   - ~~Substitute for [Typora](https://typora.io/)🎫~~
   - ~~`brew install --cask mark-text`~~
 - ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. ~~
+- ~~[Tripsy](https://tripsy.app/). Travel planning app. 🔁~~
 
 ### 👨🏻‍💻 Development
 
