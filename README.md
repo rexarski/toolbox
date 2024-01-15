@@ -152,6 +152,7 @@ A list of applications installed and/or frequently used on my device.
 - [balenaEtcher](https://www.balena.io/etcher/). Flash OS images to SD cards & USB drives, safely and easily.
 - [Dark Noise](https://darknoise.app/). White noise app. 
 - [Keka](https://www.keka.io/en/). File archiver.
+- [Latest](https://github.com/mangerlahn/Latest). Checks applications' latest update on macOS.
 - [Maccy](https://maccy.app/). Open source clipboard management.
 - [Numi](https://numi.app/). Calculator with freedom. 🎫
 - [OpenCat](https://apps.apple.com/us/app/opencat/id6445999201). Native GPT interactions. 
