@@ -121,8 +121,6 @@ A list of applications installed and/or frequently used on my device.
 ### 📁 File Management
 
 - [Android File Transfer](https://www.android.com/filetransfer/)
-- [calibre](https://calibre-ebook.com/). E-book management software.
-  - [Fix Kindle Ebook Cover](https://github.com/bookfere/Fix-Kindle-Ebook-Cover). A tool to fix damaged cover for Kindle.
 - [DaisyDisk](https://daisydiskapp.com/). Analyzing disk usage with a wind rose diagram. 
 - [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink). Organize async files, as the counterpart of my cloud storage. 🎫
 - [Maestral](https://maestral.app/). Open source Dropbox client, simpler, smaller, less memory needed.
@@ -277,17 +275,19 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 
 - [Anki](https://apps.ankiweb.net/). A Open source flashcard tool.
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 
+- [feeeed](https://feeeed.nateparrott.com/). A solid alternative RSS reader. 
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 
 - [Ivory for Mastodon](https://tapbots.com/ivory/mac/). 
 - [NetNewsWire](https://ranchero.com/netnewswire/). Open source RSS reader.
 - [skim](https://skim-app.sourceforge.io/). Open-source pdf solution.
+- [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
+- [Readwise Reader](https://readwise.io/read). 
 - [Reeder](https://reederapp.com/). RSS reader. 
   - `C`: Copy link
   - `F`: Open in Firefox
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。
-- ~~[PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫~~
 - ~~[Tweetbot](https://tapbots.com/tweetbot/mac/). Third-part Twitter client after all those years, still standing. ~~
 
 ### 📆 Schedule
@@ -312,6 +312,10 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 ### 🎮 Entertainment
 
 - Books. System built-in EPUB reader.
+- [calibre](https://calibre-ebook.com/). E-book management software.
+  - [calibre-douban](https://github.com/fugary/calibre-douban). 豆瓣插件.
+  - [Fix Kindle Ebook Cover](https://github.com/bookfere/Fix-Kindle-Ebook-Cover). A tool to fix damaged cover for Kindle.
+- [Gametrack](https://gametrack.app/) and [ComicTrack](https://comictrack.app/). 
 - [IINA](https://iina.io/). Open source media player.
 - [MultiViewer for F1](https://beta.f1mv.com/)
 - [MusicHarbor](https://apps.apple.com/cn/app/musicharbor-new-music-tracker/id1440405750). 
@@ -345,6 +349,6 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - Amazon Ember and Bookerly from [Amazon Complete Font Set](https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography), sans serif, serif
 - [LXGW WenKai / 霞鹜文楷](https://github.com/lxgw/LxgwWenKai), serif
 - [LXGW Neo XiHei / 霞鹜新晰黑](https://github.com/lxgw/LxgwNeoXiHei), sans-serif
-- 喜鹊宋体, serif
+- [喜鹊宋体](https://xiquezaozi.taobao.com/), serif
 - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont), sans-serif
 - [Charis SIL](https://software.sil.org/charis/), serif
