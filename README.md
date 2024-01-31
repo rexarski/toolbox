@@ -196,20 +196,13 @@ A list of applications installed and/or frequently used on my device.
   - `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 - [iTerm 2](https://iterm2.com/). Terminal, but better than Terminal.
   - Snazzy theme: `(curl -Ls https://raw.githubusercontent.com/sindresorhus/iterm2-snazzy/main/Snazzy.itermcolors > /tmp/Snazzy.itermcolors && open /tmp/Snazzy.itermcolors)`
+  - [fish](https://fishshell.com/). The friendly interactive shell.
   - [starship](https://github.com/starship/starship). A minimal, customizable prompt for shells.
+    - Follow this [gist](https://gist.github.com/gagarine/cf3f65f9be6aa0e105b184376f765262) to set `fish` as default
 - [OrbStack](https://orbstack.dev/), a light-weight Docker and Linux runtime management.
 - [Ollama](https://github.com/jmorganca/ollama), a tool for running LLM locally.
 - [Vim](https://www.vim.org/). The editor.
 - [Visual Studio Code](https://code.visualstudio.com/). Code editor.
-  - Use the following script to create a `code` command in terminal:
-
-```bash
-cat << EOF >> ~/.zprofile
-# Add Visual Studio Code (code)
-export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
-EOF
-```
-
 - [Processing](https://processing.org/). Generative art playground.
 - [julia](https://julialang.org/)
   - `brew install --cask julia`
