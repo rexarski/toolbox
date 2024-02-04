@@ -138,6 +138,7 @@ A list of applications installed and/or frequently used on my device.
 ### 🌏 Internet
 
 - [1Blocker](https://1blocker.com/). Content blocker on Safari. 
+- Arc.
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/).
   - Follow [this blog post](https://taoshu.in/firefox/vertical-tabs.html) to remove tab bar for a more focused, vertical-tabbed experience.
 - Safari
@@ -197,7 +198,6 @@ A list of applications installed and/or frequently used on my device.
 - [iTerm 2](https://iterm2.com/). Terminal, but better than Terminal.
   - Snazzy theme: `(curl -Ls https://raw.githubusercontent.com/sindresorhus/iterm2-snazzy/main/Snazzy.itermcolors > /tmp/Snazzy.itermcolors && open /tmp/Snazzy.itermcolors)`
   - [fish](https://fishshell.com/). The friendly interactive shell.
-  - [starship](https://github.com/starship/starship). A minimal, customizable prompt for shells.
     - Follow this [gist](https://gist.github.com/gagarine/cf3f65f9be6aa0e105b184376f765262) to set `fish` as default
 - [OrbStack](https://orbstack.dev/), a light-weight Docker and Linux runtime management.
 - [Ollama](https://github.com/jmorganca/ollama), a tool for running LLM locally.
@@ -253,6 +253,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Affinity Designer 2](https://affinity.serif.com/en-us/designer/). 🎫
 - [Affinity Photo 2](https://affinity.serif.com/en-us/photo/). 🎫
 - [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/). 🎫
+- CapCut.
 - [Darkroom](https://darkroom.co/). Very powerful and user-friendly photo + video editor in Apple's ecosystem. 🎫
 - [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins. 🎫
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/). 
