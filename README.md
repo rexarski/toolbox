@@ -145,6 +145,7 @@ A list of applications installed and/or frequently used on my device.
   - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 - [Hush](https://github.com/oblador/hush). Content blocker for Safari. 
 - [Keepa](https://keepa.com/#). Amazon price tracker. 
+- [Thunderbird](https://www.thunderbird.net/en-US/). Multi-platform email client.
 
 ### 🧰 Utilities
 
@@ -171,7 +172,6 @@ A list of applications installed and/or frequently used on my device.
 
 ### 📝 Logging
 
-- [Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.
 - [Day One](https://dayoneapp.com/). My daily journal app. 🔁
 - [Drafts](https://getdrafts.com/). One-in-all text/draft app. 🔁
   - `Cmd` + `Shift` + `1` = Drafts main window
@@ -179,6 +179,7 @@ A list of applications installed and/or frequently used on my device.
 - [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 - [texifier](https://www.texifier.com/). LaTeX editor. 🎫
+- ~~[Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.~~
 - ~~[MarkText](https://github.com/marktext/marktext). Open source Markdown editor.~~
   - ~~Substitute for [Typora](https://typora.io/)🎫~~
   - ~~`brew install --cask mark-text`~~
@@ -309,12 +310,12 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [calibre](https://calibre-ebook.com/). E-book management software.
   - [calibre-douban](https://github.com/fugary/calibre-douban). 豆瓣插件.
   - [Fix Kindle Ebook Cover](https://github.com/bookfere/Fix-Kindle-Ebook-Cover). A tool to fix damaged cover for Kindle.
-- [Gametrack](https://gametrack.app/) and [ComicTrack](https://comictrack.app/). 
 - [IINA](https://iina.io/). Open source media player.
 - [MultiViewer for F1](https://beta.f1mv.com/)
 - [MusicHarbor](https://apps.apple.com/cn/app/musicharbor-new-music-tracker/id1440405750). 
 - [MusicBox](https://apps.apple.com/us/app/musicbox-save-music-for-later/id1614730313). Bookmark for songs to listen later. 
 - [Play](https://apps.apple.com/cn/app/play-save-videos-watch-later/id1596506190). Watch later queue management. 
+- [Sequel](https://www.getsequel.app/). Keep track of the movies, shows, games, books and audiobooks. 
 - [Spotify](https://open.spotify.com/)
 - [Steam](https://store.steampowered.com/)
 - [YACReader](https://www.yacreader.com/). A cross-platform comic reader.
