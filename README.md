@@ -94,6 +94,7 @@ A list of applications installed and/or frequently used on my device.
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
 - [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
   - `Cmd` + `Option` + `M`: toggle Moom keyboard control.
+- [pake](https://github.com/tw93/Pake) turning any webpage into a desktop app with Rust.
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
   - `Option` + `Space`: Activate Raycast.
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
@@ -129,6 +130,7 @@ A list of applications installed and/or frequently used on my device.
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/). Manually control Time Machine backup schedule.
   - `brew install --cask timemachineeditor`
 - [Transmit](https://panic.com/transmit/). File transfer between macOS and servers. 🎫
+- [upic](https://github.com/gee1k/uPic). A native, powerful, beautiful and simple picture and file upload tool for macOS.
 
 ### 🔐 Security and Encryption
 
@@ -145,7 +147,7 @@ A list of applications installed and/or frequently used on my device.
   - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 - [Hush](https://github.com/oblador/hush). Content blocker for Safari. 
 - [Keepa](https://keepa.com/#). Amazon price tracker. 
-- [Thunderbird](https://www.thunderbird.net/en-US/). Multi-platform email client.
+- ~~[Thunderbird](https://www.thunderbird.net/en-US/). Multi-platform email client.~~
 
 ### 🧰 Utilities
 
@@ -154,6 +156,7 @@ A list of applications installed and/or frequently used on my device.
 - [Keka](https://www.keka.io/en/). File archiver.
 - [Latest](https://github.com/mangerlahn/Latest). Checks applications' latest update on macOS.
 - [Maccy](https://maccy.app/). Open source clipboard management.
+- [mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py) clean up script for macos.
 - [Numi](https://numi.app/). Calculator with freedom. 🎫
 - [OpenCat](https://apps.apple.com/us/app/opencat/id6445999201). Native GPT interactions. 
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 
@@ -177,6 +180,7 @@ A list of applications installed and/or frequently used on my device.
   - `Cmd` + `Shift` + `1` = Drafts main window
   - `Cmd` + `Shift` + `2` = Drafts quick entry
 - [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫
+- [MiaoYan 妙言](https://github.com/tw93/MiaoYan/). Lightweight Markdown app.
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 - [texifier](https://www.texifier.com/). LaTeX editor. 🎫
 - ~~[Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.~~
@@ -318,7 +322,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Sequel](https://www.getsequel.app/). Keep track of the movies, shows, games, books and audiobooks. 
 - [Spotify](https://open.spotify.com/)
 - [Steam](https://store.steampowered.com/)
-- [YACReader](https://www.yacreader.com/). A cross-platform comic reader.
+- [YACReader](https://www.yacreader.com/). A cross-platform comic reader. Installed with Homebrew `brew install --cask yacreader`.
 
 ### 🎑 Screensaver
 
