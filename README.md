@@ -258,6 +258,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Affinity Designer 2](https://affinity.serif.com/en-us/designer/). 🎫
 - [Affinity Photo 2](https://affinity.serif.com/en-us/photo/). 🎫
 - [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/). 🎫
+- [Audacity](https://www.audacityteam.org/). Open source audio editor.
 - CapCut.
 - [Darkroom](https://darkroom.co/). Very powerful and user-friendly photo + video editor in Apple's ecosystem. 🎫
 - [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins. 🎫
