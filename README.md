@@ -147,11 +147,14 @@ A list of applications installed and/or frequently used on my device.
   - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 - [Hush](https://github.com/oblador/hush). Content blocker for Safari. 
 - [Keepa](https://keepa.com/#). Amazon price tracker. 
+- [RSSHub Radar](https://apps.apple.com/us/app/rsshub-radar/id1610744717). Discover RSS feeds from current website. 
 - ~~[Thunderbird](https://www.thunderbird.net/en-US/). Multi-platform email client.~~
 
 ### 🧰 Utilities
 
+- [Applite](https://github.com/milanvarady/Applite), user-friendly GUI macOS application for Homebrew Casks.
 - [balenaEtcher](https://www.balena.io/etcher/). Flash OS images to SD cards & USB drives, safely and easily.
+- [Blink](https://apps.apple.com/us/app/blink-home-monitor/id1013961111). Home security camera app. 
 - [Dark Noise](https://darknoise.app/). White noise app. 
 - [Keka](https://www.keka.io/en/). File archiver.
 - [Latest](https://github.com/mangerlahn/Latest). Checks applications' latest update on macOS.
@@ -159,6 +162,7 @@ A list of applications installed and/or frequently used on my device.
 - [mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py) clean up script for macos.
 - [Numi](https://numi.app/). Calculator with freedom. 🎫
 - [OpenCat](https://apps.apple.com/us/app/opencat/id6445999201). Native GPT interactions. 
+- [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id639968404?mt=12). Track your packages. 
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
   - `brew install --cask qlmarkdown`
@@ -258,18 +262,20 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Affinity Designer 2](https://affinity.serif.com/en-us/designer/). 🎫
 - [Affinity Photo 2](https://affinity.serif.com/en-us/photo/). 🎫
 - [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/). 🎫
+- [Aseprite](https://www.aseprite.org/). A animated pixel art editor. Purchased on [Steam](https://store.steampowered.com/app/431730/Aseprite/). 🎫
 - [Audacity](https://www.audacityteam.org/). Open source audio editor.
 - CapCut.
 - [Darkroom](https://darkroom.co/). Very powerful and user-friendly photo + video editor in Apple's ecosystem. 🎫
 - [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins. 🎫
+- [Eagle](https://eagle.cool/). Reference images organization. 🎫
+- [Figma](https://www.figma.com/). Web-based design tool.
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/). 
   - [Motion](https://www.apple.com/final-cut-pro/motion/). 
   - [Compressor](https://www.apple.com/final-cut-pro/compressor/). 
 - [Fujifilm X RAW Studio](https://fujifilm-x.com/en-us/support/download/software/x-raw-studio/).
-- [Eagle](https://eagle.cool/). Reference images organization. 🎫
-- [Aseprite](https://www.aseprite.org/). A animated pixel art editor. Purchased on [Steam](https://store.steampowered.com/app/431730/Aseprite/). 🎫
 - [PhotoBulk](https://photobulkeditor.com/). Quick photo editor. 
 - [PICO-8](https://www.lexaloffle.com/pico-8.php). Fantasy retro console game engine. 🎫
+- [Picotron](https://www.lexaloffle.com/picotron.php). A fantasy workstation. 🎫
 
 ### 📮 Information
 
@@ -279,7 +285,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 
 - [Ivory for Mastodon](https://tapbots.com/ivory/mac/). 
 - [NetNewsWire](https://ranchero.com/netnewswire/). Open source RSS reader.
-- [skim](https://skim-app.sourceforge.io/). Open-source pdf solution.
+- [Omnivore](https://apps.apple.com/us/app/omnivore-read-it-later/id1564031042). Read it later service but native on macOS. 
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
@@ -287,6 +293,8 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Reeder](https://reederapp.com/). RSS reader. 
   - `C`: Copy link
   - `F`: Open in Firefox
+  - `S`: Open in Safari
+- [skim](https://skim-app.sourceforge.io/). Open-source pdf solution.
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。
 - ~~[Tweetbot](https://tapbots.com/tweetbot/mac/). Third-part Twitter client after all those years, still standing. ~~
 
@@ -316,14 +324,15 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
   - [calibre-douban](https://github.com/fugary/calibre-douban). 豆瓣插件.
   - [Fix Kindle Ebook Cover](https://github.com/bookfere/Fix-Kindle-Ebook-Cover). A tool to fix damaged cover for Kindle.
 - [IINA](https://iina.io/). Open source media player.
+- Kindle.
 - [MultiViewer for F1](https://beta.f1mv.com/)
 - [MusicHarbor](https://apps.apple.com/cn/app/musicharbor-new-music-tracker/id1440405750). 
 - [MusicBox](https://apps.apple.com/us/app/musicbox-save-music-for-later/id1614730313). Bookmark for songs to listen later. 
 - [Play](https://apps.apple.com/cn/app/play-save-videos-watch-later/id1596506190). Watch later queue management. 
 - [Sequel](https://www.getsequel.app/). Keep track of the movies, shows, games, books and audiobooks. 
-- [Spotify](https://open.spotify.com/)
 - [Steam](https://store.steampowered.com/)
 - [YACReader](https://www.yacreader.com/). A cross-platform comic reader. Installed with Homebrew `brew install --cask yacreader`.
+- ~~[Spotify](https://open.spotify.com/)~~
 
 ### 🎑 Screensaver
 
