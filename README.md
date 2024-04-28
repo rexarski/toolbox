@@ -2,7 +2,6 @@
 
 - [rexarski's Toolbox](#rexarskis-toolbox)
   - [🖥️ macOS Setup](#️-macos-setup)
-    - [Setapp](#setapp)
     - [🛠 System Extension](#-system-extension)
     - [📁 File Management](#-file-management)
     - [🔐 Security and Encryption](#-security-and-encryption)
@@ -76,10 +75,6 @@ A list of applications installed and/or frequently used on my device.
 : downloaded from App Store
 ```
 
-### Setapp
-
-- [CleanMyMac X](https://macpaw.com/cleanmymac). A system cleaner.
-
 ### 🛠 System Extension
 
 - [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫
@@ -95,6 +90,7 @@ A list of applications installed and/or frequently used on my device.
 - [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
   - `Cmd` + `Option` + `M`: toggle Moom keyboard control.
 - [pake](https://github.com/tw93/Pake) turning any webpage into a desktop app with Rust.
+- [Quitter](https://marco.org/apps), automatically hides or quits apps after inactivity.
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
   - `Option` + `Space`: Activate Raycast.
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
@@ -169,6 +165,7 @@ A list of applications installed and/or frequently used on my device.
 - [RIME | 中州韵输入法](https://rime.im/). "Rime Input Method Engine, rimes with your keystrokes."
   - [东风破](https://github.com/rime/plum)
   - [雾凇拼音](https://github.com/iDvel/rime-ice): `bash rime-install iDvel/rime-ice:others/recipes/full`
+- [SD Card Formatter](https://www.sdcard.org/downloads/formatter/).
 - [Shottr](https://shottr.cc/). Great substitute to CleanShot X.
   - `Cmd` + `Shift` + `3` = Shottr area screenshot
   - `Cmd` + `Shift` + `4` = Shottr active window screenshot
@@ -289,6 +286,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
+- [Raindrop.io](https://raindrop.io/). Bookmark manager.
 - [Readwise Reader](https://readwise.io/read). 
 - [Reeder](https://reederapp.com/). RSS reader. 
   - `C`: Copy link
@@ -303,9 +301,9 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Due](https://www.dueapp.com/). Aggressive reminder app. 🔁.
 - [Fantastical](https://flexibits.com/fantastical). A calendar and todo list app with great NLP input support. 🎫
   - `Cmd` + `Option` + `F`: create new event/reminder
-- [Cardhop](https://flexibits.com/cardhop). 🎫
 - [Things 3](https://culturedcode.com/things/). The best GTD from my perspective. 
   `Ctrl` + `Space`: quick entry.
+- ~~[Cardhop](https://flexibits.com/cardhop). 🎫~~
 - ~~[Clear](https://apps.apple.com/us/app/clear-todos/id493136154). One of the GTD apps with the best interactions. ~~
 - ~~[Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.~~
 
@@ -329,8 +327,10 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [MusicHarbor](https://apps.apple.com/cn/app/musicharbor-new-music-tracker/id1440405750). 
 - [MusicBox](https://apps.apple.com/us/app/musicbox-save-music-for-later/id1614730313). Bookmark for songs to listen later. 
 - [Play](https://apps.apple.com/cn/app/play-save-videos-watch-later/id1596506190). Watch later queue management. 
+- [Plex](https://www.plex.tv/).
 - [Sequel](https://www.getsequel.app/). Keep track of the movies, shows, games, books and audiobooks. 
 - [Steam](https://store.steampowered.com/)
+- [VLC](https://www.videolan.org/).
 - [YACReader](https://www.yacreader.com/). A cross-platform comic reader. Installed with Homebrew `brew install --cask yacreader`.
 - ~~[Spotify](https://open.spotify.com/)~~
 
