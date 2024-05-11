@@ -278,23 +278,20 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 
 - [Anki](https://apps.ankiweb.net/). A Open source flashcard tool.
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 
-- [feeeed](https://feeeed.nateparrott.com/). A solid alternative RSS reader. 
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 
 - [Ivory for Mastodon](https://tapbots.com/ivory/mac/). 
-- [NetNewsWire](https://ranchero.com/netnewswire/). Open source RSS reader.
-- [Omnivore](https://apps.apple.com/us/app/omnivore-read-it-later/id1564031042). Read it later service but native on macOS. 
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
 - [Raindrop.io](https://raindrop.io/). Bookmark manager.
-- [Readwise Reader](https://readwise.io/read). 
 - [Reeder](https://reederapp.com/). RSS reader. 
   - `C`: Copy link
   - `F`: Open in Firefox
   - `S`: Open in Safari
 - [skim](https://skim-app.sourceforge.io/). Open-source pdf solution.
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。
-- ~~[Tweetbot](https://tapbots.com/tweetbot/mac/). Third-part Twitter client after all those years, still standing. ~~
+- ~~[NetNewsWire](https://ranchero.com/netnewswire/). Open source RSS reader.~~
+- ~~[Omnivore](https://apps.apple.com/us/app/omnivore-read-it-later/id1564031042). Read it later service but native on macOS. ~~
 
 ### 📆 Schedule
 
