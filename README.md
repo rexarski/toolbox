@@ -89,7 +89,6 @@ A list of applications installed and/or frequently used on my device.
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
 - [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
   - `Cmd` + `Option` + `M`: toggle Moom keyboard control.
-- [pake](https://github.com/tw93/Pake) turning any webpage into a desktop app with Rust.
 - [Quitter](https://marco.org/apps), automatically hides or quits apps after inactivity.
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
   - `Option` + `Space`: Activate Raycast.
@@ -103,6 +102,7 @@ A list of applications installed and/or frequently used on my device.
 - ~~[f.lux](https://justgetflux.com/). Control the on-screen color temperature.~~
 - ~~[HazeOver](https://hazeover.com/). Dim the windows out of focus and the background to create a distraction-free workspace. 🎫~~
 - ~~[Kap](https://getkap.co/). Open source screen recorder.~~
+- ~~[pake](https://github.com/tw93/Pake) turning any webpage into a desktop app with Rust.~~
 - ~~[PopClip](https://pilotmoon.com/popclip/). Mouse selection extension. ~~
   - ~~More [extensions](https://pilotmoon.com/popclip/extensions/)~~
 - ~~[Rectangle](https://rectangleapp.com/). macOS window organizer.~~
@@ -123,6 +123,7 @@ A list of applications installed and/or frequently used on my device.
 - [Maestral](https://maestral.app/). Open source Dropbox client, simpler, smaller, less memory needed.
 - [Gemini](https://macpaw.com/gemini). Duplicate finder. 🎫
 - [iMazing 2](https://imazing.com/). iOS device management. Single device allowed. 🎫
+- [SynologyAssistant](https://www.synology.com/en-us/support/download).
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/). Manually control Time Machine backup schedule.
   - `brew install --cask timemachineeditor`
 - [Transmit](https://panic.com/transmit/). File transfer between macOS and servers. 🎫
@@ -205,6 +206,7 @@ A list of applications installed and/or frequently used on my device.
   - Snazzy theme: `(curl -Ls https://raw.githubusercontent.com/sindresorhus/iterm2-snazzy/main/Snazzy.itermcolors > /tmp/Snazzy.itermcolors && open /tmp/Snazzy.itermcolors)`
   - [fish](https://fishshell.com/). The friendly interactive shell.
     - Follow this [gist](https://gist.github.com/gagarine/cf3f65f9be6aa0e105b184376f765262) to set `fish` as default
+- [LM Studio](https://lmstudio.ai/). A tool to run local LLMs.
 - [OrbStack](https://orbstack.dev/), a light-weight Docker and Linux runtime management.
 - [Ollama](https://github.com/jmorganca/ollama), a tool for running LLM locally.
 - [Vim](https://www.vim.org/). The editor.
@@ -307,7 +309,6 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 ### 💬 Messaging
 
 - [Discord](https://discord.com/).
-- [Slack](https://slack.com/). Workspace communication.
 - [Telegram](https://telegram.org/). IM.
 - [微信 WeChat](https://www.wechat.com/). Hate it but have to.
 - [Zoom](https://zoom.us/). For conference meeting, of course.
@@ -328,8 +329,8 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Sequel](https://www.getsequel.app/). Keep track of the movies, shows, games, books and audiobooks. 
 - [Steam](https://store.steampowered.com/)
 - [VLC](https://www.videolan.org/).
-- [YACReader](https://www.yacreader.com/). A cross-platform comic reader. Installed with Homebrew `brew install --cask yacreader`.
 - ~~[Spotify](https://open.spotify.com/)~~
+- ~~[YACReader](https://www.yacreader.com/). A cross-platform comic reader. Installed with Homebrew `brew install --cask yacreader`.~~
 
 ### 🎑 Screensaver
 
