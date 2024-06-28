@@ -80,8 +80,8 @@ A list of applications installed and/or frequently used on my device.
 - [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). 
   - `Cmd` + `Shift` + `A`: turn on/off
-- [Bartender](https://www.macbartender.com/). macOS Menubar extension. 🎫
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay#readme). Display customization tool. From the same developer of [Monitor Control](https://github.com/MonitorControl/MonitorControl). 🎫
+- [Ice](https://github.com/jordanbaird/Ice). Bartender alternative.
 - [Karabiner Elements](https://karabiner-elements.pqrs.org/). Key mapping customizer.
   - `Hyper` == `Cmd + Ctrl + Option + Shift`
   - `Shift` + `Backspace`: Forward delete
@@ -99,21 +99,6 @@ A list of applications installed and/or frequently used on my device.
 - ~~[Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫~~
   - ~~`Option` + `Space`: Activate Aflred search bar.~~
 - ~~[coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.~~
-- ~~[f.lux](https://justgetflux.com/). Control the on-screen color temperature.~~
-- ~~[HazeOver](https://hazeover.com/). Dim the windows out of focus and the background to create a distraction-free workspace. 🎫~~
-- ~~[Kap](https://getkap.co/). Open source screen recorder.~~
-- ~~[pake](https://github.com/tw93/Pake) turning any webpage into a desktop app with Rust.~~
-- ~~[PopClip](https://pilotmoon.com/popclip/). Mouse selection extension. ~~
-  - ~~More [extensions](https://pilotmoon.com/popclip/extensions/)~~
-- ~~[Rectangle](https://rectangleapp.com/). macOS window organizer.~~
-  - ~~`Hyper` + `1/2/3/4`: current window to the 1st/2nd/3rd/4th quadrant of the screen~~
-  - ~~`Hyper` + arrow keys~~
-  - ~~`Hyper` + `C`: center~~
-  - ~~`Ctrl` + `Option` + `D`: First third (depends on the orientation of the monitor, could be horizontal or vertical)~~
-  - ~~`Ctrl` + `Option` + `F`: Second third~~
-  - ~~`Ctrl` + `Option` + `G`: Last third~~
-  - ~~`Ctrl` + `Option` + `E`: First two thirds~~
-  - ~~`Ctrl` + `Option` + `T`: Last two thirds~~
 
 ### 📁 File Management
 
@@ -145,7 +130,6 @@ A list of applications installed and/or frequently used on my device.
 - [Hush](https://github.com/oblador/hush). Content blocker for Safari. 
 - [Keepa](https://keepa.com/#). Amazon price tracker. 
 - [RSSHub Radar](https://apps.apple.com/us/app/rsshub-radar/id1610744717). Discover RSS feeds from current website. 
-- ~~[Thunderbird](https://www.thunderbird.net/en-US/). Multi-platform email client.~~
 
 ### 🧰 Utilities
 
@@ -155,7 +139,6 @@ A list of applications installed and/or frequently used on my device.
 - [Dark Noise](https://darknoise.app/). White noise app. 
 - [Keka](https://www.keka.io/en/). File archiver.
 - [Latest](https://github.com/mangerlahn/Latest). Checks applications' latest update on macOS.
-- [Maccy](https://maccy.app/). Open source clipboard management.
 - [mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py) clean up script for macos.
 - [Numi](https://numi.app/). Calculator with freedom. 🎫
 - [OpenCat](https://apps.apple.com/us/app/opencat/id6445999201). Native GPT interactions. 
@@ -171,9 +154,7 @@ A list of applications installed and/or frequently used on my device.
   - `Cmd` + `Shift` + `3` = Shottr area screenshot
   - `Cmd` + `Shift` + `4` = Shottr active window screenshot
   - `Cmd` + `Shift` + `5` = Shottr fullscreen screenshot
-- ~~[MD Clock](https://www.miidii.tech/). Clock app. ~~
-- ~~[Cheatsheet](https://www.mediaatelier.com/CheatSheet/)~~.
-- ~~[Transmission](https://transmissionbt.com/). A BitTorrent client.~~
+- ~~[Maccy](https://maccy.app/). Open source clipboard management.~~
 
 ### 📝 Logging
 
@@ -186,11 +167,7 @@ A list of applications installed and/or frequently used on my device.
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
 - [texifier](https://www.texifier.com/). LaTeX editor. 🎫
 - ~~[Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.~~
-- ~~[MarkText](https://github.com/marktext/marktext). Open source Markdown editor.~~
-  - ~~Substitute for [Typora](https://typora.io/)🎫~~
-  - ~~`brew install --cask mark-text`~~
 - ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. ~~
-- ~~[Tripsy](https://tripsy.app/). Travel planning app. 🔁~~
 
 ### 👨🏻‍💻 Development
 
@@ -282,6 +259,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 
 - [Ivory for Mastodon](https://tapbots.com/ivory/mac/). 
+- [Omnivore](https://apps.apple.com/us/app/omnivore-read-it-later/id1564031042). Read it later service but native on macOS.  
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
@@ -293,7 +271,6 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [skim](https://skim-app.sourceforge.io/). Open-source pdf solution.
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。
 - ~~[NetNewsWire](https://ranchero.com/netnewswire/). Open source RSS reader.~~
-- ~~[Omnivore](https://apps.apple.com/us/app/omnivore-read-it-later/id1564031042). Read it later service but native on macOS. ~~
 
 ### 📆 Schedule
 
@@ -303,7 +280,6 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Things 3](https://culturedcode.com/things/). The best GTD from my perspective. 
   `Ctrl` + `Space`: quick entry.
 - ~~[Cardhop](https://flexibits.com/cardhop). 🎫~~
-- ~~[Clear](https://apps.apple.com/us/app/clear-todos/id493136154). One of the GTD apps with the best interactions. ~~
 - ~~[Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.~~
 
 ### 💬 Messaging
