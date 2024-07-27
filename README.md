@@ -134,14 +134,12 @@ A list of applications installed and/or frequently used on my device.
 ### 🧰 Utilities
 
 - [Applite](https://github.com/milanvarady/Applite), user-friendly GUI macOS application for Homebrew Casks.
-- [balenaEtcher](https://www.balena.io/etcher/). Flash OS images to SD cards & USB drives, safely and easily.
 - [Blink](https://apps.apple.com/us/app/blink-home-monitor/id1013961111). Home security camera app. 
 - [Dark Noise](https://darknoise.app/). White noise app. 
 - [Keka](https://www.keka.io/en/). File archiver.
 - [Latest](https://github.com/mangerlahn/Latest). Checks applications' latest update on macOS.
-- [mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py) clean up script for macos.
+- [**mac-cleanup-py**](https://github.com/mac-cleanup/mac-cleanup-py) clean up script for macos.
 - [Numi](https://numi.app/). Calculator with freedom. 🎫
-- [OpenCat](https://apps.apple.com/us/app/opencat/id6445999201). Native GPT interactions. 
 - [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id639968404?mt=12). Track your packages. 
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
@@ -196,10 +194,6 @@ A list of applications installed and/or frequently used on my device.
   - Custom theme Cobalt2 from [TmTheme Editor](https://tmtheme-editor.herokuapp.com/#!/editor/theme/Cobalt2), available in [config/cobalt2.tmTheme](config/cobalt2.tmTheme).
 - [Quarto](https://quarto.org/). An open source scientific and technical publishing system built on Pandoc.
   - `brew install --cask quarto`
-- [MacTeX](https://www.tug.org/mactex/). LaTeX distribution for macOS.
-  - `brew install --cask mactex`
-  - Follow this [blog](https://mathjiajia.github.io/vscode-and-latex/#step-3-install--configure-latex-workshop) to set up.
-  - Restart the machine to resolve the path issue.
 - [Xcode](https://developer.apple.com/xcode/). 
 
 #### ⌘ CLI tools
@@ -259,11 +253,10 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 
 - [Ivory for Mastodon](https://tapbots.com/ivory/mac/). 
-- [Omnivore](https://apps.apple.com/us/app/omnivore-read-it-later/id1564031042). Read it later service but native on macOS.  
+- [Omnivore](https://apps.apple.com/us/app/omnivore-read-it-later/id1564031042). Read it later service but native on macOS. 
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
-- [Raindrop.io](https://raindrop.io/). Bookmark manager.
 - [Reeder](https://reederapp.com/). RSS reader. 
   - `C`: Copy link
   - `F`: Open in Firefox
