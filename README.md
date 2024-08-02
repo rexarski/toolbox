@@ -89,7 +89,6 @@ A list of applications installed and/or frequently used on my device.
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
 - [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
   - `Cmd` + `Option` + `M`: toggle Moom keyboard control.
-- [Quitter](https://marco.org/apps), automatically hides or quits apps after inactivity.
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
   - `Option` + `Space`: Activate Raycast.
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
@@ -99,6 +98,7 @@ A list of applications installed and/or frequently used on my device.
 - ~~[Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫~~
   - ~~`Option` + `Space`: Activate Aflred search bar.~~
 - ~~[coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.~~
+- ~~[Quitter](https://marco.org/apps), automatically hides or quits apps after inactivity.~~
 
 ### 📁 File Management
 
@@ -243,19 +243,19 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
   - [Motion](https://www.apple.com/final-cut-pro/motion/). 
   - [Compressor](https://www.apple.com/final-cut-pro/compressor/). 
 - [Fujifilm X RAW Studio](https://fujifilm-x.com/en-us/support/download/software/x-raw-studio/).
+- [Permute 3](https://software.charliemonroe.net/permute/). Media converter. 🎫
 - [PhotoBulk](https://photobulkeditor.com/). Quick photo editor. 
 - [PICO-8](https://www.lexaloffle.com/pico-8.php). Fantasy retro console game engine. 🎫
 - [Picotron](https://www.lexaloffle.com/picotron.php). A fantasy workstation. 🎫
 
 ### 📮 Information
 
-- [Anki](https://apps.ankiweb.net/). A Open source flashcard tool.
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 
+- [GoodLinks](https://apps.apple.com/us/app/goodlinks/id1474335294). 
 - [Ivory for Mastodon](https://tapbots.com/ivory/mac/). 
 - [Omnivore](https://apps.apple.com/us/app/omnivore-read-it-later/id1564031042). Read it later service but native on macOS. 
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
-- [Pins](https://get-pins.app/). Modern Pinboard app on macOS. 
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
 - [Reeder](https://reederapp.com/). RSS reader. 
   - `C`: Copy link
@@ -263,7 +263,9 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
   - `S`: Open in Safari
 - [skim](https://skim-app.sourceforge.io/). Open-source pdf solution.
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。
+- ~~[Anki](https://apps.ankiweb.net/). A Open source flashcard tool.~~
 - ~~[NetNewsWire](https://ranchero.com/netnewswire/). Open source RSS reader.~~
+- ~~[Pins](https://get-pins.app/). Modern Pinboard app on macOS. ~~
 
 ### 📆 Schedule
 
