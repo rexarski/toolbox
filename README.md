@@ -1,24 +1,22 @@
-# rexarski's Toolbox
+# rexarski's toolbox
 
-- [rexarski's Toolbox](#rexarskis-toolbox)
-  - [🖥️ macOS Setup](#️-macos-setup)
-    - [🛠 System Extension](#-system-extension)
-    - [📁 File Management](#-file-management)
-    - [🔐 Security and Encryption](#-security-and-encryption)
-    - [🌏 Internet](#-internet)
-    - [🧰 Utilities](#-utilities)
-    - [📝 Logging](#-logging)
-    - [👨🏻‍💻 Development](#-development)
-      - [⌘ CLI tools](#-cli-tools)
-    - [📷 Creative](#-creative)
-    - [📮 Information](#-information)
-    - [📆 Schedule](#-schedule)
-    - [💬 Messaging](#-messaging)
-    - [🎮 Entertainment](#-entertainment)
-    - [🎑 Screensaver](#-screensaver)
-    - [🔠 Font selections](#-font-selections)
-
-## 🖥️ macOS Setup
+- [rexarski's toolbox](#rexarskis-toolbox)
+  - [🛠 System Extension](#-system-extension)
+  - [📁 File Management](#-file-management)
+  - [🔐 Security and Encryption](#-security-and-encryption)
+  - [🌏 Internet](#-internet)
+  - [🧰 Utilities](#-utilities)
+  - [📝 Logging](#-logging)
+  - [👨🏻‍💻 Development](#-development)
+    - [⌘ CLI tools](#-cli-tools)
+  - [📷 Creative](#-creative)
+    - [iPod Classic and its friends](#ipod-classic-and-its-friends)
+  - [📮 Information](#-information)
+  - [📆 Schedule](#-schedule)
+  - [💬 Messaging](#-messaging)
+  - [🎮 Entertainment](#-entertainment)
+  - [🎑 Screensaver](#-screensaver)
+  - [🔠 Font selections](#-font-selections)
 
 New machine setup checklist
 
@@ -75,7 +73,7 @@ A list of applications installed and/or frequently used on my device.
 : downloaded from App Store
 ```
 
-### 🛠 System Extension
+## 🛠 System Extension
 
 - [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). 
@@ -87,8 +85,10 @@ A list of applications installed and/or frequently used on my device.
   - `Shift` + `Backspace`: Forward delete
   - Complex modifications: [Change `caps_lock` to `Cmd + Ctrl + Option + Shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
+- [Loop](https://github.com/MrKai77/Loop). might be a good alternative to Moom.
 - [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
   - `Cmd` + `Option` + `M`: toggle Moom keyboard control.
+- [Quitter](https://marco.org/apps), automatically hides or quits apps after inactivity.
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
   - `Option` + `Space`: Activate Raycast.
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
@@ -98,9 +98,8 @@ A list of applications installed and/or frequently used on my device.
 - ~~[Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫~~
   - ~~`Option` + `Space`: Activate Aflred search bar.~~
 - ~~[coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.~~
-- ~~[Quitter](https://marco.org/apps), automatically hides or quits apps after inactivity.~~
 
-### 📁 File Management
+## 📁 File Management
 
 - [Android File Transfer](https://www.android.com/filetransfer/)
 - [DaisyDisk](https://daisydiskapp.com/). Analyzing disk usage with a wind rose diagram. 
@@ -114,12 +113,12 @@ A list of applications installed and/or frequently used on my device.
 - [Transmit](https://panic.com/transmit/). File transfer between macOS and servers. 🎫
 - [upic](https://github.com/gee1k/uPic). A native, powerful, beautiful and simple picture and file upload tool for macOS.
 
-### 🔐 Security and Encryption
+## 🔐 Security and Encryption
 
 - [1Password](https://1password.com/). THE password manager for the last decade. Requires yearly subscription. 🔁
   - `Cmd` + `Option` + `P`: Open 1Password
 
-### 🌏 Internet
+## 🌏 Internet
 
 - [1Blocker](https://1blocker.com/). Content blocker on Safari. 
 - Arc.
@@ -131,7 +130,7 @@ A list of applications installed and/or frequently used on my device.
 - [Keepa](https://keepa.com/#). Amazon price tracker. 
 - [RSSHub Radar](https://apps.apple.com/us/app/rsshub-radar/id1610744717). Discover RSS feeds from current website. 
 
-### 🧰 Utilities
+## 🧰 Utilities
 
 - [Applite](https://github.com/milanvarady/Applite), user-friendly GUI macOS application for Homebrew Casks.
 - [Blink](https://apps.apple.com/us/app/blink-home-monitor/id1013961111). Home security camera app. 
@@ -154,7 +153,7 @@ A list of applications installed and/or frequently used on my device.
   - `Cmd` + `Shift` + `5` = Shottr fullscreen screenshot
 - ~~[Maccy](https://maccy.app/). Open source clipboard management.~~
 
-### 📝 Logging
+## 📝 Logging
 
 - [Day One](https://dayoneapp.com/). My daily journal app. 🔁
 - [Drafts](https://getdrafts.com/). One-in-all text/draft app. 🔁
@@ -167,7 +166,7 @@ A list of applications installed and/or frequently used on my device.
 - ~~[Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.~~
 - ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. ~~
 
-### 👨🏻‍💻 Development
+## 👨🏻‍💻 Development
 
 - [Anaconda](https://www.anaconda.com/). Data science resource management for Python (mainly) and R (not really.)
   - I also use [poetry](https://python-poetry.org) for python package management.
@@ -195,8 +194,9 @@ A list of applications installed and/or frequently used on my device.
 - [Quarto](https://quarto.org/). An open source scientific and technical publishing system built on Pandoc.
   - `brew install --cask quarto`
 - [Xcode](https://developer.apple.com/xcode/). 
+- [Zed](https://zed.dev/), the editor for what's next.
 
-#### ⌘ CLI tools
+### ⌘ CLI tools
 
 I'm not a huge command-line user but I do have some tools I'm relatively familiar with.
 
@@ -227,7 +227,12 @@ Or directly call the following command:
 brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-command neofetch vim neovim tmux btop fx
 ```
 
-### 📷 Creative
+- Some other later installations:
+  - `visdata`
+  - `jq`
+  - `superfile`
+
+## 📷 Creative
 
 - [Affinity Designer 2](https://affinity.serif.com/en-us/designer/). 🎫
 - [Affinity Photo 2](https://affinity.serif.com/en-us/photo/). 🎫
@@ -248,7 +253,12 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [PICO-8](https://www.lexaloffle.com/pico-8.php). Fantasy retro console game engine. 🎫
 - [Picotron](https://www.lexaloffle.com/picotron.php). A fantasy workstation. 🎫
 
-### 📮 Information
+### iPod Classic and its friends
+
+- [Musicbrainz Picard](https://picard.musicbrainz.org/)
+- [Nicotine+](https://nicotine-plus.org), a graphical client for Soulseek.
+
+## 📮 Information
 
 - [CARROT Weather](https://www.meetcarrot.com/weather/). 
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 
@@ -267,24 +277,25 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - ~~[NetNewsWire](https://ranchero.com/netnewswire/). Open source RSS reader.~~
 - ~~[Pins](https://get-pins.app/). Modern Pinboard app on macOS. ~~
 
-### 📆 Schedule
+## 📆 Schedule
 
 - [Due](https://www.dueapp.com/). Aggressive reminder app. 🔁.
 - [Fantastical](https://flexibits.com/fantastical). A calendar and todo list app with great NLP input support. 🎫
   - `Cmd` + `Option` + `F`: create new event/reminder
 - [Things 3](https://culturedcode.com/things/). The best GTD from my perspective. 
-  `Ctrl` + `Space`: quick entry.
+  - `Ctrl` + `Space`: quick entry.
+  - `Ctrl` + `Alt` + `Space`: quick entry with autofill. This requires [Things Helper](https://culturedcode.com/things/help/things-sandboxing-helper-things3/).
 - ~~[Cardhop](https://flexibits.com/cardhop). 🎫~~
 - ~~[Itsycal for Mac](https://www.mowglii.com/itsycal/). A menubar calendar.~~
 
-### 💬 Messaging
+## 💬 Messaging
 
 - [Discord](https://discord.com/).
 - [Telegram](https://telegram.org/). IM.
 - [微信 WeChat](https://www.wechat.com/). Hate it but have to.
 - [Zoom](https://zoom.us/). For conference meeting, of course.
 
-### 🎮 Entertainment
+## 🎮 Entertainment
 
 - Books. System built-in EPUB reader.
 - [calibre](https://calibre-ebook.com/). E-book management software.
@@ -303,13 +314,13 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - ~~[Spotify](https://open.spotify.com/)~~
 - ~~[YACReader](https://www.yacreader.com/). A cross-platform comic reader. Installed with Homebrew `brew install --cask yacreader`.~~
 
-### 🎑 Screensaver
+## 🎑 Screensaver
 
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn). Screensaver inspired by Apple's Event on October 30, 2018.
 - [Fliqlo Flip Clock](https://fliqlo.com/). The classic.
 - [fruit](https://github.com/Corkscrews/fruit). Retro Apple.
 
-### 🔠 Font selections
+## 🔠 Font selections
 
 - [Readex Pro (~~Lexend~~)](https://www.lexend.com/), sans-serif
 - [Montserrat](https://fonts.google.com/specimen/Montserrat), sans-serif
