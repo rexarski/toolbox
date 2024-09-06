@@ -120,7 +120,6 @@ A list of applications installed and/or frequently used on my device.
 
 ## 🌏 Internet
 
-- [1Blocker](https://1blocker.com/). Content blocker on Safari. 
 - Arc.
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/).
   - Follow [this blog post](https://taoshu.in/firefox/vertical-tabs.html) to remove tab bar for a more focused, vertical-tabbed experience.
@@ -180,7 +179,6 @@ A list of applications installed and/or frequently used on my device.
   - Snazzy theme: `(curl -Ls https://raw.githubusercontent.com/sindresorhus/iterm2-snazzy/main/Snazzy.itermcolors > /tmp/Snazzy.itermcolors && open /tmp/Snazzy.itermcolors)`
   - [fish](https://fishshell.com/). The friendly interactive shell.
     - Follow this [gist](https://gist.github.com/gagarine/cf3f65f9be6aa0e105b184376f765262) to set `fish` as default
-- [LM Studio](https://lmstudio.ai/). A tool to run local LLMs.
 - [OrbStack](https://orbstack.dev/), a light-weight Docker and Linux runtime management.
 - [Ollama](https://github.com/jmorganca/ollama), a tool for running LLM locally.
 - [Vim](https://www.vim.org/). The editor.
@@ -195,6 +193,7 @@ A list of applications installed and/or frequently used on my device.
   - `brew install --cask quarto`
 - [Xcode](https://developer.apple.com/xcode/). 
 - [Zed](https://zed.dev/), the editor for what's next.
+- ~~[LM Studio](https://lmstudio.ai/). A tool to run local LLMs.~~
 
 ### ⌘ CLI tools
 
@@ -252,6 +251,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [PhotoBulk](https://photobulkeditor.com/). Quick photo editor. 
 - [PICO-8](https://www.lexaloffle.com/pico-8.php). Fantasy retro console game engine. 🎫
 - [Picotron](https://www.lexaloffle.com/picotron.php). A fantasy workstation. 🎫
+- [xld](https://tmkk.undo.jp/xld/index_e.html), X Lossless Decoder. Lossless audio decoder for macOS.
 
 ### iPod Classic and its friends
 
@@ -267,7 +267,9 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Omnivore](https://apps.apple.com/us/app/omnivore-read-it-later/id1564031042). Read it later service but native on macOS. 
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
-- [Reeder](https://reederapp.com/). RSS reader. 
+- [Reeder](https://reeder.app), 🎫🍎.
+  - A totally different rendition of RSS reader (or not?)
+- [~~Reeder 5~~ -> Reeder Classic](https://reederapp.com/). *The* RSS reader. 
   - `C`: Copy link
   - `F`: Open in Firefox
   - `S`: Open in Safari
