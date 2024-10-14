@@ -1,7 +1,6 @@
 # rexarski's toolbox
 
 - [rexarski's toolbox](#rexarskis-toolbox)
-  - [🛠 System Extension](#-system-extension)
   - [📁 File Management](#-file-management)
   - [🔐 Security and Encryption](#-security-and-encryption)
   - [🌏 Internet](#-internet)
@@ -73,32 +72,6 @@ A list of applications installed and/or frequently used on my device.
 : downloaded from App Store
 ```
 
-## 🛠 System Extension
-
-- [AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫
-- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). 
-  - `Cmd` + `Shift` + `A`: turn on/off
-- [BetterDisplay](https://github.com/waydabber/BetterDisplay#readme). Display customization tool. From the same developer of [Monitor Control](https://github.com/MonitorControl/MonitorControl). 🎫
-- [Ice](https://github.com/jordanbaird/Ice). Bartender alternative.
-- [Karabiner Elements](https://karabiner-elements.pqrs.org/). Key mapping customizer.
-  - `Hyper` == `Cmd + Ctrl + Option + Shift`
-  - `Shift` + `Backspace`: Forward delete
-  - Complex modifications: [Change `caps_lock` to `Cmd + Ctrl + Option + Shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
-- [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
-- [Loop](https://github.com/MrKai77/Loop). might be a good alternative to Moom.
-- [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
-  - `Cmd` + `Option` + `M`: toggle Moom keyboard control.
-- [Quitter](https://marco.org/apps), automatically hides or quits apps after inactivity.
-- [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
-  - `Option` + `Space`: Activate Raycast.
-- [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
-  - Use `:` to trigger the app.
-- ~~[KeyCastr](https://github.com/keycastr/keycastr). Open source keystroke visualizer.~~
-  - ~~`Hyper` + `K`: Toggle capturing~~
-- ~~[Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫~~
-  - ~~`Option` + `Space`: Activate Aflred search bar.~~
-- ~~[coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.~~
-
 ## 📁 File Management
 
 - [Android File Transfer](https://www.android.com/filetransfer/)
@@ -121,36 +94,60 @@ A list of applications installed and/or frequently used on my device.
 ## 🌏 Internet
 
 - Arc.
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/).
-  - Follow [this blog post](https://taoshu.in/firefox/vertical-tabs.html) to remove tab bar for a more focused, vertical-tabbed experience.
 - Safari
   - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 - [Hush](https://github.com/oblador/hush). Content blocker for Safari. 
 - [Keepa](https://keepa.com/#). Amazon price tracker. 
+- [Obsidian Web Clipper](https://stephango.com/obsidian-web-clipper). 
 - [RSSHub Radar](https://apps.apple.com/us/app/rsshub-radar/id1610744717). Discover RSS feeds from current website. 
+- [Zen Browser](https://zen-browser.app).
 
 ## 🧰 Utilities
 
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). The tool that keeps the machine awake for infinity. A true heir of [Caffeine](https://intelliscapesolutions.com/apps/caffeine). 
+  - `Cmd` + `Shift` + `A`: turn on/off
 - [Applite](https://github.com/milanvarady/Applite), user-friendly GUI macOS application for Homebrew Casks.
+- [BetterDisplay](https://github.com/waydabber/BetterDisplay#readme). Display customization tool. From the same developer of [Monitor Control](https://github.com/MonitorControl/MonitorControl). 🎫
 - [Blink](https://apps.apple.com/us/app/blink-home-monitor/id1013961111). Home security camera app. 
+- [BreakTimer](https://breaktimer.app). Timer to take a rest.
 - [Dark Noise](https://darknoise.app/). White noise app. 
+- [Ice](https://github.com/jordanbaird/Ice). Bartender alternative.
+- [Karabiner Elements](https://karabiner-elements.pqrs.org/). Key mapping customizer.
+  - `Hyper` == `Cmd + Ctrl + Option + Shift`
+  - `Shift` + `Backspace`: Forward delete
+  - Complex modifications: [Change `caps_lock` to `Cmd + Ctrl + Option + Shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
 - [Keka](https://www.keka.io/en/). File archiver.
 - [Latest](https://github.com/mangerlahn/Latest). Checks applications' latest update on macOS.
+- [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
+- [Loop](https://github.com/MrKai77/Loop). might be a good alternative to Moom.
 - [**mac-cleanup-py**](https://github.com/mac-cleanup/mac-cleanup-py) clean up script for macos.
+- [Maccy](https://maccy.app/). Open source clipboard management.
+- [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
+  - `Cmd` + `Option` + `M`: toggle Moom keyboard control.
 - [Numi](https://numi.app/). Calculator with freedom. 🎫
 - [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id639968404?mt=12). Track your packages. 
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
   - `brew install --cask qlmarkdown`
+- [Quitter](https://marco.org/apps), automatically hides or quits apps after inactivity.
+- [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
+  - `Option` + `Space`: Activate Raycast.
 - [RIME | 中州韵输入法](https://rime.im/). "Rime Input Method Engine, rimes with your keystrokes."
   - [东风破](https://github.com/rime/plum)
   - [雾凇拼音](https://github.com/iDvel/rime-ice): `bash rime-install iDvel/rime-ice:others/recipes/full`
+- [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
+  - Use `:` to trigger the app.
 - [SD Card Formatter](https://www.sdcard.org/downloads/formatter/).
 - [Shottr](https://shottr.cc/). Great substitute to CleanShot X.
   - `Cmd` + `Shift` + `3` = Shottr area screenshot
   - `Cmd` + `Shift` + `4` = Shottr active window screenshot
   - `Cmd` + `Shift` + `5` = Shottr fullscreen screenshot
-- ~~[Maccy](https://maccy.app/). Open source clipboard management.~~
+- ~~[AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫~~
+- ~~[KeyCastr](https://github.com/keycastr/keycastr). Open source keystroke visualizer.~~
+  - ~~`Hyper` + `K`: Toggle capturing~~
+- ~~[Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫~~
+  - ~~`Option` + `Space`: Activate Aflred search bar.~~
+- ~~[coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.~~
 
 ## 📝 Logging
 
@@ -205,7 +202,7 @@ The installation could be error-prone as the name of the package sometimes devia
 | ---------------------------------------------------- | ------------- | ----------- | --------------------------------------------------------- |
 | [`asciinema`](https://asciinema.org/)                | `asciinema`   | `asciinema` | Record and share terminal sessions.                       |
 | [`bat`](https://github.com/sharkdp/bat)              | `bat`         | `bat`       | A `cat` clone with wings.                                 |
-| [`exa`](https://github.com/ogham/exa)                | `exa`         | `exa`       | A modern replacement for `ls`.                            |
+| [`eza`](https://github.com/eza-community/eza)        | `eza`         | `eza`       | A modern replacement for `ls` and `exa`.                  |
 | [`exiftool`](https://github.com/exiftool/exiftool)   | `exiftool`    | `exiftool`  | Read/write meta information of files.                     |
 | [`fzf`](https://github.com/junegunn/fzf)             | `fzf`         | `fzf`       | A command-line fuzzy finder.                              |
 | [`neofetch`](https://github.com/dylanaraps/neofetch) | `neofetch`    | `neofetch`  | A command-line system information tool.                   |
@@ -223,7 +220,7 @@ The installation could be error-prone as the name of the package sometimes devia
 Or directly call the following command:
 
 ```bash
-brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-command neofetch vim neovim tmux btop fx
+brew install asciinema scc eza tldr bat exiftool fzf procs rm-improved tre-command neofetch vim neovim tmux btop fx
 ```
 
 - Some other later installations:
@@ -270,9 +267,6 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Reeder](https://reeder.app), 🎫🍎.
   - A totally different rendition of RSS reader (or not?)
 - [~~Reeder 5~~ -> Reeder Classic](https://reederapp.com/). *The* RSS reader. 
-  - `C`: Copy link
-  - `F`: Open in Firefox
-  - `S`: Open in Safari
 - [skim](https://skim-app.sourceforge.io/). Open-source pdf solution.
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。
 - ~~[Anki](https://apps.ankiweb.net/). A Open source flashcard tool.~~
@@ -311,6 +305,7 @@ brew install asciinema scc exa tldr bat exiftool fzf procs rm-improved tre-comma
 - [Play](https://apps.apple.com/cn/app/play-save-videos-watch-later/id1596506190). Watch later queue management. 
 - [Plex](https://www.plex.tv/).
 - [Sequel](https://www.getsequel.app/). Keep track of the movies, shows, games, books and audiobooks. 
+- [Sleeve 2](https://replay.software/sleeve). 🎫
 - [Steam](https://store.steampowered.com/)
 - [VLC](https://www.videolan.org/).
 - ~~[Spotify](https://open.spotify.com/)~~
