@@ -93,12 +93,12 @@ A list of applications installed and/or frequently used on my device.
 
 ## 🌏 Internet
 
-- Arc.
 - Safari
   - In Safari, go to Preferences - Advanced, turn on "Show Develop menu in menu bar".
 - [Hush](https://github.com/oblador/hush). Content blocker for Safari. 
 - [Keepa](https://keepa.com/#). Amazon price tracker. 
 - [Obsidian Web Clipper](https://stephango.com/obsidian-web-clipper). 
+- [Sink it for Reddit](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635). 
 - [RSSHub Radar](https://apps.apple.com/us/app/rsshub-radar/id1610744717). Discover RSS feeds from current website. 
 - [Zen Browser](https://zen-browser.app).
 
@@ -109,7 +109,6 @@ A list of applications installed and/or frequently used on my device.
 - [Applite](https://github.com/milanvarady/Applite), user-friendly GUI macOS application for Homebrew Casks.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay#readme). Display customization tool. From the same developer of [Monitor Control](https://github.com/MonitorControl/MonitorControl). 🎫
 - [Blink](https://apps.apple.com/us/app/blink-home-monitor/id1013961111). Home security camera app. 
-- [BreakTimer](https://breaktimer.app). Timer to take a rest.
 - [Dark Noise](https://darknoise.app/). White noise app. 
 - [Ice](https://github.com/jordanbaird/Ice). Bartender alternative.
 - [Karabiner Elements](https://karabiner-elements.pqrs.org/). Key mapping customizer.
@@ -129,7 +128,6 @@ A list of applications installed and/or frequently used on my device.
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
   - `brew install --cask qlmarkdown`
-- [Quitter](https://marco.org/apps), automatically hides or quits apps after inactivity.
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
   - `Option` + `Space`: Activate Raycast.
 - [RIME | 中州韵输入法](https://rime.im/). "Rime Input Method Engine, rimes with your keystrokes."
@@ -142,12 +140,14 @@ A list of applications installed and/or frequently used on my device.
   - `Cmd` + `Shift` + `3` = Shottr area screenshot
   - `Cmd` + `Shift` + `4` = Shottr active window screenshot
   - `Cmd` + `Shift` + `5` = Shottr fullscreen screenshot
+- [Yoink](https://eternalstorms.at/yoink/mac/). 
 - ~~[AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫~~
 - ~~[KeyCastr](https://github.com/keycastr/keycastr). Open source keystroke visualizer.~~
   - ~~`Hyper` + `K`: Toggle capturing~~
 - ~~[Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫~~
   - ~~`Option` + `Space`: Activate Aflred search bar.~~
 - ~~[coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.~~
+- ~~[Quitter](https://marco.org/apps), automatically hides or quits apps after inactivity.~~
 
 ## 📝 Logging
 
@@ -185,7 +185,6 @@ A list of applications installed and/or frequently used on my device.
   - `brew install --cask julia`
 - [R](https://www.r-project.org/). THE statistical programming language.
 - [RStudio](https://www.rstudio.com/). Open source IDE for R language.
-  - Custom theme Cobalt2 from [TmTheme Editor](https://tmtheme-editor.herokuapp.com/#!/editor/theme/Cobalt2), available in [config/cobalt2.tmTheme](config/cobalt2.tmTheme).
 - [Quarto](https://quarto.org/). An open source scientific and technical publishing system built on Pandoc.
   - `brew install --cask quarto`
 - [Xcode](https://developer.apple.com/xcode/). 
@@ -261,7 +260,6 @@ brew install asciinema scc eza tldr bat exiftool fzf procs rm-improved tre-comma
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 
 - [GoodLinks](https://apps.apple.com/us/app/goodlinks/id1474335294). 
 - [Ivory for Mastodon](https://tapbots.com/ivory/mac/). 
-- [Omnivore](https://apps.apple.com/us/app/omnivore-read-it-later/id1564031042). Read it later service but native on macOS. 
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
 - [Reeder](https://reeder.app), 🎫🍎.
@@ -307,6 +305,7 @@ brew install asciinema scc eza tldr bat exiftool fzf procs rm-improved tre-comma
 - [Sequel](https://www.getsequel.app/). Keep track of the movies, shows, games, books and audiobooks. 
 - [Sleeve 2](https://replay.software/sleeve). 🎫
 - [Steam](https://store.steampowered.com/)
+- [Transmission](https://transmissionbt.com)
 - [VLC](https://www.videolan.org/).
 - ~~[Spotify](https://open.spotify.com/)~~
 - ~~[YACReader](https://www.yacreader.com/). A cross-platform comic reader. Installed with Homebrew `brew install --cask yacreader`.~~
