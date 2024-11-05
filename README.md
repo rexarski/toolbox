@@ -100,7 +100,8 @@ A list of applications installed and/or frequently used on my device.
 - [Obsidian Web Clipper](https://stephango.com/obsidian-web-clipper). 
 - [Sink it for Reddit](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635). 
 - [RSSHub Radar](https://apps.apple.com/us/app/rsshub-radar/id1610744717). Discover RSS feeds from current website. 
-- [Zen Browser](https://zen-browser.app).
+- [Zen Browser](https://zen-browser.app) with the following plugins:
+  - 1Password, Clip to DEVONthink, Content Farm Terminator, Dark Reader, Douban Book+, Downie, Enhancer for YouTube, Facebook Container, Firefox Multi-Account Containers, Forest, Keepa, Minimal Theme for Twitter/X, Modern for Hacker News, Modern for Wikipedia, Multiselect for YouTube, MultiViewer Companion, Obsidian Web Clipper, OneTab, Reddit Enhancement Suite, Return YouTube Dislike, RSSHub Radar, Save to GoodLinks, SingleFile, SteamDB, TubeMod, uBlock Origin, Unhook,
 
 ## 🧰 Utilities
 
@@ -158,6 +159,8 @@ A list of applications installed and/or frequently used on my device.
 - [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫
 - [MiaoYan 妙言](https://github.com/tw93/MiaoYan/). Lightweight Markdown app.
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
+- [Plain Text Editor](https://apps.apple.com/us/app/plain-text-editor/id1572202501?mt=12). 
+- [Scratchpad](https://apps.apple.com/us/app/scratchpad/id6504040051). 
 - [texifier](https://www.texifier.com/). LaTeX editor. 🎫
 - ~~[Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.~~
 - ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. ~~
@@ -176,17 +179,17 @@ A list of applications installed and/or frequently used on my device.
   - Snazzy theme: `(curl -Ls https://raw.githubusercontent.com/sindresorhus/iterm2-snazzy/main/Snazzy.itermcolors > /tmp/Snazzy.itermcolors && open /tmp/Snazzy.itermcolors)`
   - [fish](https://fishshell.com/). The friendly interactive shell.
     - Follow this [gist](https://gist.github.com/gagarine/cf3f65f9be6aa0e105b184376f765262) to set `fish` as default
-- [OrbStack](https://orbstack.dev/), a light-weight Docker and Linux runtime management.
-- [Ollama](https://github.com/jmorganca/ollama), a tool for running LLM locally.
-- [Vim](https://www.vim.org/). The editor.
-- [Visual Studio Code](https://code.visualstudio.com/). Code editor.
-- [Processing](https://processing.org/). Generative art playground.
 - [julia](https://julialang.org/)
   - `brew install --cask julia`
+- [OrbStack](https://orbstack.dev/), a light-weight Docker and Linux runtime management.
+- [Ollama](https://github.com/jmorganca/ollama), a tool for running LLM locally.
+- [Processing](https://processing.org/). Generative art playground.
 - [R](https://www.r-project.org/). THE statistical programming language.
 - [RStudio](https://www.rstudio.com/). Open source IDE for R language.
 - [Quarto](https://quarto.org/). An open source scientific and technical publishing system built on Pandoc.
   - `brew install --cask quarto`
+- [Vim](https://www.vim.org/). The editor.
+- [Visual Studio Code](https://code.visualstudio.com/). Code editor.
 - [Xcode](https://developer.apple.com/xcode/). 
 - [Zed](https://zed.dev/), the editor for what's next.
 - ~~[LM Studio](https://lmstudio.ai/). A tool to run local LLMs.~~
@@ -248,6 +251,7 @@ brew install asciinema scc eza tldr bat exiftool fzf procs rm-improved tre-comma
 - [PICO-8](https://www.lexaloffle.com/pico-8.php). Fantasy retro console game engine. 🎫
 - [Picotron](https://www.lexaloffle.com/picotron.php). A fantasy workstation. 🎫
 - [xld](https://tmkk.undo.jp/xld/index_e.html), X Lossless Decoder. Lossless audio decoder for macOS.
+- [you-get](https://github.com/soimort/you-get)
 
 ### iPod Classic and its friends
 
