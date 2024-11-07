@@ -117,6 +117,9 @@ A list of applications installed and/or frequently used on my device.
   - `Shift` + `Backspace`: Forward delete
   - Complex modifications: [Change `caps_lock` to `Cmd + Ctrl + Option + Shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
 - [Keka](https://www.keka.io/en/). File archiver.
+- [KeyClu](https://sergii.tatarenkov.name/keyclu/support/). `brew install —cask keyclu` Cheatsheet alternative
+  - Double press cmd and hold to activate the cheatsheet.
+  - Double press cmd and quick release to activate Siri.
 - [Latest](https://github.com/mangerlahn/Latest). Checks applications' latest update on macOS.
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
 - [Loop](https://github.com/MrKai77/Loop). might be a good alternative to Moom.
@@ -131,12 +134,8 @@ A list of applications installed and/or frequently used on my device.
   - `brew install --cask qlmarkdown`
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
   - `Option` + `Space`: Activate Raycast.
-- [RIME | 中州韵输入法](https://rime.im/). "Rime Input Method Engine, rimes with your keystrokes."
-  - [东风破](https://github.com/rime/plum)
-  - [雾凇拼音](https://github.com/iDvel/rime-ice): `bash rime-install iDvel/rime-ice:others/recipes/full`
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
   - Use `:` to trigger the app.
-- [SD Card Formatter](https://www.sdcard.org/downloads/formatter/).
 - [Shottr](https://shottr.cc/). Great substitute to CleanShot X.
   - `Cmd` + `Shift` + `3` = Shottr area screenshot
   - `Cmd` + `Shift` + `4` = Shottr active window screenshot
@@ -149,6 +148,10 @@ A list of applications installed and/or frequently used on my device.
   - ~~`Option` + `Space`: Activate Aflred search bar.~~
 - ~~[coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.~~
 - ~~[Quitter](https://marco.org/apps), automatically hides or quits apps after inactivity.~~
+- ~~[RIME | 中州韵输入法](https://rime.im/). "Rime Input Method Engine, rimes with your keystrokes."~~
+  - ~~[东风破](https://github.com/rime/plum)~~
+  - ~~[雾凇拼音](https://github.com/iDvel/rime-ice): `bash rime-install iDvel/rime-ice:others/recipes/full`~~
+- ~~[SD Card Formatter](https://www.sdcard.org/downloads/formatter/).~~
 
 ## 📝 Logging
 
@@ -157,19 +160,16 @@ A list of applications installed and/or frequently used on my device.
   - `Cmd` + `Shift` + `1` = Drafts main window
   - `Cmd` + `Shift` + `2` = Drafts quick entry
 - [Marked 2](https://marked2app.com/). Markdown preview built from a while ago. It's not that useful any more. 🎫
-- [MiaoYan 妙言](https://github.com/tw93/MiaoYan/). Lightweight Markdown app.
 - [Obsidian](https://obsidian.md/). Second brain/digital garden/Zettelkasten. Use Dropbox to sync settings and vaults.
-- [Plain Text Editor](https://apps.apple.com/us/app/plain-text-editor/id1572202501?mt=12). 
-- [Scratchpad](https://apps.apple.com/us/app/scratchpad/id6504040051). 
-- [texifier](https://www.texifier.com/). LaTeX editor. 🎫
 - ~~[Buckets](https://www.budgetwithbuckets.com/). Private family budgeting app.~~
 - ~~[Mactracker](https://mactracker.ca/). Information of all Apple devices. I switched to writing down everything on a Note. ~~
+- ~~[MiaoYan 妙言](https://github.com/tw93/MiaoYan/). Lightweight Markdown app.~~
+- ~~[Plain Text Editor](https://apps.apple.com/us/app/plain-text-editor/id1572202501?mt=12). ~~
+- ~~[Scratchpad](https://apps.apple.com/us/app/scratchpad/id6504040051). ~~
+- ~~[texifier](https://www.texifier.com/). LaTeX editor. 🎫~~
 
 ## 👨🏻‍💻 Development
 
-- [Anaconda](https://www.anaconda.com/). Data science resource management for Python (mainly) and R (not really.)
-  - I also use [poetry](https://python-poetry.org) for python package management.
-  - `conda config —set auto_activate_base false`. [Do not activate `conda` by default](https://stackoverflow.com/questions/54429210/how-do-i-prevent-conda-from-activating-the-base-environment-by-default).
 - [bun](https://bun.sh/). A modern JS runtime.
   - `curl -fsSL https://bun.sh/install | bash`
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
@@ -179,11 +179,8 @@ A list of applications installed and/or frequently used on my device.
   - Snazzy theme: `(curl -Ls https://raw.githubusercontent.com/sindresorhus/iterm2-snazzy/main/Snazzy.itermcolors > /tmp/Snazzy.itermcolors && open /tmp/Snazzy.itermcolors)`
   - [fish](https://fishshell.com/). The friendly interactive shell.
     - Follow this [gist](https://gist.github.com/gagarine/cf3f65f9be6aa0e105b184376f765262) to set `fish` as default
-- [julia](https://julialang.org/)
-  - `brew install --cask julia`
 - [OrbStack](https://orbstack.dev/), a light-weight Docker and Linux runtime management.
 - [Ollama](https://github.com/jmorganca/ollama), a tool for running LLM locally.
-- [Processing](https://processing.org/). Generative art playground.
 - [R](https://www.r-project.org/). THE statistical programming language.
 - [RStudio](https://www.rstudio.com/). Open source IDE for R language.
 - [Quarto](https://quarto.org/). An open source scientific and technical publishing system built on Pandoc.
@@ -192,7 +189,12 @@ A list of applications installed and/or frequently used on my device.
 - [Visual Studio Code](https://code.visualstudio.com/). Code editor.
 - [Xcode](https://developer.apple.com/xcode/). 
 - [Zed](https://zed.dev/), the editor for what's next.
+- ~~[Anaconda](https://www.anaconda.com/). Data science resource management for Python (mainly) and R (not really.)~~
+  - ~~I also use [poetry](https://python-poetry.org) for python package management.~~
+  - ~~`conda config —set auto_activate_base false`. [Do not activate `conda` by default](https://stackoverflow.com/questions/54429210/how-do-i-prevent-conda-from-activating-the-base-environment-by-default).~~
+- ~~[julia](https://julialang.org/) `brew install --cask julia`~~
 - ~~[LM Studio](https://lmstudio.ai/). A tool to run local LLMs.~~
+- ~~[Processing](https://processing.org/). Generative art playground.~~
 
 ### ⌘ CLI tools
 
@@ -236,8 +238,6 @@ brew install asciinema scc eza tldr bat exiftool fzf procs rm-improved tre-comma
 - [Affinity Photo 2](https://affinity.serif.com/en-us/photo/). 🎫
 - [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/). 🎫
 - [Aseprite](https://www.aseprite.org/). A animated pixel art editor. Purchased on [Steam](https://store.steampowered.com/app/431730/Aseprite/). 🎫
-- [Audacity](https://www.audacityteam.org/). Open source audio editor.
-- CapCut.
 - [Darkroom](https://darkroom.co/). Very powerful and user-friendly photo + video editor in Apple's ecosystem. 🎫
 - [Downie](https://software.charliemonroe.net/downie/). Internet video downloader, great browser plugins. 🎫
 - [Eagle](https://eagle.cool/). Reference images organization. 🎫
@@ -252,6 +252,8 @@ brew install asciinema scc eza tldr bat exiftool fzf procs rm-improved tre-comma
 - [Picotron](https://www.lexaloffle.com/picotron.php). A fantasy workstation. 🎫
 - [xld](https://tmkk.undo.jp/xld/index_e.html), X Lossless Decoder. Lossless audio decoder for macOS.
 - [you-get](https://github.com/soimort/you-get)
+~~- [Audacity](https://www.audacityteam.org/). Open source audio editor.~~
+- ~~CapCut.~~
 
 ### iPod Classic and its friends
 
@@ -260,7 +262,6 @@ brew install asciinema scc eza tldr bat exiftool fzf procs rm-improved tre-comma
 
 ## 📮 Information
 
-- [CARROT Weather](https://www.meetcarrot.com/weather/). 
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 
 - [GoodLinks](https://apps.apple.com/us/app/goodlinks/id1474335294). 
 - [Ivory for Mastodon](https://tapbots.com/ivory/mac/). 
@@ -272,6 +273,7 @@ brew install asciinema scc eza tldr bat exiftool fzf procs rm-improved tre-comma
 - [skim](https://skim-app.sourceforge.io/). Open-source pdf solution.
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。
 - ~~[Anki](https://apps.ankiweb.net/). A Open source flashcard tool.~~
+- ~~[CARROT Weather](https://www.meetcarrot.com/weather/). ~~
 - ~~[NetNewsWire](https://ranchero.com/netnewswire/). Open source RSS reader.~~
 - ~~[Pins](https://get-pins.app/). Modern Pinboard app on macOS. ~~
 
@@ -309,9 +311,10 @@ brew install asciinema scc eza tldr bat exiftool fzf procs rm-improved tre-comma
 - [Sequel](https://www.getsequel.app/). Keep track of the movies, shows, games, books and audiobooks. 
 - [Sleeve 2](https://replay.software/sleeve). 🎫
 - [Steam](https://store.steampowered.com/)
-- [Transmission](https://transmissionbt.com)
-- [VLC](https://www.videolan.org/).
+- ~~OpenEmu~~
 - ~~[Spotify](https://open.spotify.com/)~~
+~~[Transmission](https://transmissionbt.com)~~
+- ~~[VLC](https://www.videolan.org/).~~
 - ~~[YACReader](https://www.yacreader.com/). A cross-platform comic reader. Installed with Homebrew `brew install --cask yacreader`.~~
 
 ## 🎑 Screensaver
