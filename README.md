@@ -122,18 +122,17 @@ A list of applications installed and/or frequently used on my device.
   - Double press cmd and quick release to activate Siri.
 - [Latest](https://github.com/mangerlahn/Latest). Checks applications' latest update on macOS.
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html). Customize Logitech peripherals.
-- [Loop](https://github.com/MrKai77/Loop). might be a good alternative to Moom.
+- [Loop](https://github.com/MrKai77/Loop). It is ~~might be~~ a good alternative to Moom.
+  - Left `Ctrl` to activate a selector ring.
 - [**mac-cleanup-py**](https://github.com/mac-cleanup/mac-cleanup-py) clean up script for macos.
 - [Maccy](https://maccy.app/). Open source clipboard management.
-- [Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫
-  - `Cmd` + `Option` + `M`: toggle Moom keyboard control.
 - [Numi](https://numi.app/). Calculator with freedom. 🎫
 - [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id639968404?mt=12). Track your packages. 
 - [PCalc](https://pcalc.com/). Calculator app on macOS. 
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown). macOS Quick Look extension for markdown files.
   - `brew install --cask qlmarkdown`
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store.
-  - `Option` + `Space`: Activate Raycast.
+  - `Cmd` + `Space`: Activate Raycast. (Disable this shortcut for Spotlight)
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. 🎫
   - Use `:` to trigger the app.
 - [Shottr](https://shottr.cc/). Great substitute to CleanShot X.
@@ -142,11 +141,13 @@ A list of applications installed and/or frequently used on my device.
   - `Cmd` + `Shift` + `5` = Shottr fullscreen screenshot
 - [Yoink](https://eternalstorms.at/yoink/mac/). 
 - ~~[AlDente](https://github.com/davidwernhart/AlDente). A macOS charging limit tool. 🎫~~
-- ~~[KeyCastr](https://github.com/keycastr/keycastr). Open source keystroke visualizer.~~
-  - ~~`Hyper` + `K`: Toggle capturing~~
 - ~~[Alfred](https://www.alfredapp.com/). The Spotlight before Spotlight, the king of my macOS productivity. Powerpack purchased. 🎫~~
   - ~~`Option` + `Space`: Activate Aflred search bar.~~
 - ~~[coconutBattery](https://coconut-flavour.com/coconutbattery/). Battery reading.~~
+- ~~[KeyCastr](https://github.com/keycastr/keycastr). Open source keystroke visualizer.~~
+  - ~~`Hyper` + `K`: Toggle capturing~~
+- ~~[Moom](https://manytricks.com/moom/). macOS window organizer, with more in-depth customizations than Rectangle. 🎫~~
+  - ~~`Cmd` + `Option` + `M`: toggle Moom keyboard control.~~
 - ~~[Quitter](https://marco.org/apps), automatically hides or quits apps after inactivity.~~
 - ~~[RIME | 中州韵输入法](https://rime.im/). "Rime Input Method Engine, rimes with your keystrokes."~~
   - ~~[东风破](https://github.com/rime/plum)~~
