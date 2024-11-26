@@ -1,0 +1,54 @@
+# Archive
+
+For those applications/packages that are not in use.
+
+- [AlDente](https://github.com/davidwernhart/AlDente) 🎫
+- [Alfred](https://www.alfredapp.com/) `Option` + `Space`: Activate Aflred search bar. 🎫
+- [Anaconda](https://www.anaconda.com/)
+  - `conda config —set auto_activate_base false`. [Do not activate `conda` by default](https://stackoverflow.com/questions/54429210/how-do-i-prevent-conda-from-activating-the-base-environment-by-default).
+- [Android File Transfer](https://www.android.com/filetransfer/)
+- [Anki](https://apps.ankiweb.net/)
+- [Audacity](https://www.audacityteam.org/)
+- [Blink](https://apps.apple.com/us/app/blink-home-monitor/id1013961111) 
+- [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn). Screensaver inspired by Apple's Event on October 30, 2018.
+- [Buckets](https://www.budgetwithbuckets.com/) 🎫
+- [Cardhop](https://flexibits.com/cardhop). 🎫
+- [CARROT Weather](https://www.meetcarrot.com/weather/) 🔁
+- [coconutBattery](https://coconut-flavour.com/coconutbattery/)
+- [Dark Noise](https://darknoise.app/) 
+- [Darkroom](https://darkroom.co/) 🎫
+- [Figma](https://www.figma.com/)
+- [Fliqlo Flip Clock](https://fliqlo.com/). The classic screensaver.
+- [fruit](https://github.com/Corkscrews/fruit). Retro Apple screensaver.
+- [iMazing 3](https://imazing.com/) 🎫
+- [Itsycal for Mac](https://www.mowglii.com/itsycal/)
+- [julia](https://julialang.org/) `brew install --cask julia` 🍺
+- [KeyCastr](https://github.com/keycastr/keycastr) `Hyper` + `K`: Toggle capturing
+- Kindle.
+- [LM Studio](https://lmstudio.ai/)
+- [Mactracker](https://mactracker.ca/) 
+- [MiaoYan 妙言](https://github.com/tw93/MiaoYan/)
+- [Moom](https://manytricks.com/moom/) `Cmd` + `Option` + `M`: toggle Moom keyboard control. 🎫
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu).
+- [Pins](https://get-pins.app/) 
+- [Plain Text Editor](https://apps.apple.com/us/app/plain-text-editor/id1572202501?mt=12). 
+- [Pocket Casts](https://pocketcasts.com/) 🎫
+- [Processing](https://processing.org/)
+- [Quitter](https://marco.org/apps)
+- [Reeder](https://reeder.app) 🔁.
+- [Reeder 5 -> Reeder Classic](https://reederapp.com/). 
+- [RIME | 中州韵输入法](https://rime.im/). "Rime Input Method Engine, rimes with your keystrokes."
+  - [东风破](https://github.com/rime/plum)
+  - [雾凇拼音](https://github.com/iDvel/rime-ice): `bash rime-install iDvel/rime-ice:others/recipes/full`
+- [SD Card Formatter](https://www.sdcard.org/downloads/formatter/).
+- [Scratchpad](https://apps.apple.com/us/app/scratchpad/id6504040051). 
+- [Spotify](https://open.spotify.com/)
+- [SynologyAssistant](https://www.synology.com/en-us/support/download).
+- [texifier](https://www.texifier.com/) 🎫
+- [Transmission](https://transmissionbt.com) `brew install --cask transmission` 🍺
+- [Transmit](https://panic.com/transmit/) 🎫
+- [VLC](https://www.videolan.org/) `brew install --cask vlc` 🍺
+- [YACReader](https://www.yacreader.com/) `brew install --cask yacreader`. 🍺
+- [Yoink](https://eternalstorms.at/yoink/mac/) 
+- [Zoom](https://zoom.us/)
+- [小宇宙](https://www.xiaoyuzhoufm.com/) 
