@@ -34,7 +34,6 @@ New machine setup checklist
   - See [this one](/config/.gitignore) as an example.
   - `git config --global core.excludesfile ~/.gitignore`
 - [ ] Generate and add SSH key to GitHub account.
-- [ ] Turn off the iCloud sync of Photos before library migration.
 - [ ] Turn off the Spotlight.
 - [ ] Turn on the Night Shift in System Preferences - Display, set the schedule to Custom (6 pm to 6 am).
 - [ ] Turn off the auto boot feature.
@@ -171,6 +170,7 @@ A list of applications installed and/or frequently used on my device.
 
 ## 👨🏻‍💻 Development
 
+- [Beekeeper Studio Community Edition](https://github.com/beekeeper-studio/beekeeper-studio)
 - [bun](https://bun.sh/). A modern JS runtime.
   - `curl -fsSL https://bun.sh/install | bash`
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
@@ -232,6 +232,25 @@ brew install asciinema scc eza tldr bat exiftool fzf procs rm-improved tre-comma
   - `visdata`
   - `jq`
   - `superfile`
+  - `stats`
+  - `you-get`
+- casks
+  - `applite`
+  - `iina`
+  - `jordanbaird-ice`
+  - `keyclu`
+  - `loop`
+  - `maccy`
+  - `maestral`
+  - `netnewswire`
+  - `orbstack`
+  - `plex`
+  - `qlmarkdown`
+  - `skim`
+  - `timemachineeditor`
+  - `upic`
+  - `emacs`
+  - `uv`
 
 ## 📷 Creative
 
@@ -266,17 +285,16 @@ brew install asciinema scc eza tldr bat exiftool fzf procs rm-improved tre-comma
 - [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008). 
 - [GoodLinks](https://apps.apple.com/us/app/goodlinks/id1474335294). 
 - [Ivory for Mastodon](https://tapbots.com/ivory/mac/). 
+- [NetNewsWire](https://ranchero.com/netnewswire/). Open source RSS reader.
 - [PDF Expert](https://pdfexpert.com/). PDF editor and reader. 🎫
 - [Pocket Casts](https://pocketcasts.com/). Third-party podcast client. 🎫
-- [Reeder](https://reeder.app), 🎫🍎.
-  - A totally different rendition of RSS reader (or not?)
-- [~~Reeder 5~~ -> Reeder Classic](https://reederapp.com/). *The* RSS reader. 
 - [skim](https://skim-app.sourceforge.io/). Open-source pdf solution.
 - [小宇宙](https://www.xiaoyuzhoufm.com/). 用来收听中文独占播客的客户端。
 - ~~[Anki](https://apps.ankiweb.net/). A Open source flashcard tool.~~
 - ~~[CARROT Weather](https://www.meetcarrot.com/weather/). ~~
-- ~~[NetNewsWire](https://ranchero.com/netnewswire/). Open source RSS reader.~~
 - ~~[Pins](https://get-pins.app/). Modern Pinboard app on macOS. ~~
+- ~~[Reeder](https://reeder.app), 🎫🍎.~~
+- ~~[Reeder 5 -> Reeder Classic](https://reederapp.com/). *The* RSS reader. ~~
 
 ## 📆 Schedule
 
