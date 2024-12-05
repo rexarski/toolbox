@@ -58,6 +58,7 @@
 
 - [Beekeeper Studio Community Edition](https://github.com/beekeeper-studio/beekeeper-studio)
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay#readme). Display customization tool. From the same developer of [Monitor Control](https://github.com/MonitorControl/MonitorControl). 🎫
+- [BetterTouchTool](https://folivora.ai), input (not only trackpad!) customization. 🎫
 - [bun](https://bun.sh/) `curl -fsSL https://bun.sh/install | bash`
 
 ### C
@@ -84,7 +85,7 @@
 
 ### F
 
-- **[Fantastical](https://flexibits.com/fantastical)** `Cmd` + `Option` + `F`: create new event/reminder 🎫
+- **[Fantastical](https://flexibits.com/fantastical)** `Hyper + `F`: create new event/reminder 🎫
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/). 
   - [Motion](https://www.apple.com/final-cut-pro/motion/). 
   - [Compressor](https://www.apple.com/final-cut-pro/compressor/). 
@@ -99,6 +100,8 @@
 
 ### H
 
+- [Handbrake](https://handbrake.fr). Open source video transcoder. `brew install —cask handbrake` 🍺
+  - iPod 5.5 gen - 7 gen compatible video preset: [github](https://github.com/HandBrake/HandBrake/issues/4040), [reddit discussion](https://www.reddit.com/r/ipod/comments/jccdm1/guide_to_ipod_classic_and_nano_video_formats/)
 - [Hush](https://github.com/oblador/hush). Content blocker for Safari. 
 
 ### I
@@ -192,10 +195,11 @@
 
 ### T
 
+- [Take a break](https://apps.apple.com/us/app/take-a-break-timer-reminder/id1457158844?mt=12). 
 - [Telegram](https://telegram.org/). `brew install --cask telegram` 🍺
 - **[Things 3](https://culturedcode.com/things/)**. The best GTD. 
   - `Ctrl` + `Space`: quick entry.
-  - `Ctrl` + `Alt` + `Space`: quick entry with autofill. This requires [Things Helper](https://culturedcode.com/things/help/things-sandboxing-helper-things3/).
+  - `Hyper` + `T`: quick entry with autofill. This requires [Things Helper](https://culturedcode.com/things/help/things-sandboxing-helper-things3/).
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/). Manually control Time Machine backup schedule. `brew install --cask timemachineeditor` 🍺
 
 ### U
