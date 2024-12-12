@@ -43,6 +43,7 @@ For those applications/packages that are not in use.
 - [SD Card Formatter](https://www.sdcard.org/downloads/formatter/).
 - [Scratchpad](https://apps.apple.com/us/app/scratchpad/id6504040051). 
 - [Spotify](https://open.spotify.com/)
+- [Stats](https://github.com/exelban/stats). System monitor in menu bar. `brew install --cask stats` 🍺
 - [SynologyAssistant](https://www.synology.com/en-us/support/download).
 - [texifier](https://www.texifier.com/) 🎫
 - [Transmission](https://transmissionbt.com) `brew install --cask transmission` 🍺

@@ -85,7 +85,7 @@
 
 ### F
 
-- **[Fantastical](https://flexibits.com/fantastical)** `Hyper + `F`: create new event/reminder 🎫
+- **[Fantastical](https://flexibits.com/fantastical)** `Hyper +`F`: create new event/reminder 🎫
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/). 
   - [Motion](https://www.apple.com/final-cut-pro/motion/). 
   - [Compressor](https://www.apple.com/final-cut-pro/compressor/). 
@@ -116,6 +116,7 @@
   - `Hyper` == `Cmd + Ctrl + Option + Shift`
   - `Shift` + `Backspace`: Forward delete
   - Complex modifications: [Change `caps_lock` to `Cmd + Ctrl + Option + Shift`](https://ke-complex-modifications.pqrs.org/#modifier-keys).
+- [`kcc`](https://github.com/ciromattia/kcc), Kindle Comic Converter.
 - [Keepa](https://keepa.com/#). Amazon price tracker. 
 - [Keka](https://www.keka.io/en/) `brew install --cask keka` 🍺
 - [KeyClu](https://sergii.tatarenkov.name/keyclu/support/). Cheatsheet alternative
@@ -177,6 +178,7 @@
 - [R](https://www.r-project.org/).
 - [RStudio](https://www.rstudio.com/). IDE for R.
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store. `Cmd` + `Space`: Activate Raycast. (Disable this shortcut for Spotlight) `brew install --cask raycast` 🍺
+- [Reminders Menubar](https://github.com/DamascenoRafael/reminders-menubar) `brew install --cask reminders-menubar` 🍺]
 - [Rocket](https://matthewpalmer.net/rocket/). Emoji launcher with one-key shortcut. Use `:` to trigger the app. 🎫
 - [RSSHub Radar](https://apps.apple.com/us/app/rsshub-radar/id1610744717). Discover RSS feeds from current website. 
 
@@ -190,7 +192,6 @@
 - [Sink it for Reddit](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635). 
 - [skim](https://skim-app.sourceforge.io/). PDF viewer. `brew install --cask skim` 🍺
 - [Sleeve 2](https://replay.software/sleeve). 🎫
-- [Stats](https://github.com/exelban/stats). System monitor in menu bar. `brew install --cask stats` 🍺
 - [Steam](https://store.steampowered.com/)
 
 ### T
