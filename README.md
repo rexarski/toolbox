@@ -202,6 +202,7 @@
   - `Ctrl` + `Space`: quick entry.
   - `Hyper` + `T`: quick entry with autofill. This requires [Things Helper](https://culturedcode.com/things/help/things-sandboxing-helper-things3/).
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/). Manually control Time Machine backup schedule. `brew install --cask timemachineeditor` 🍺
+- [Transmission](https://transmissionbt.com) `brew install --cask transmission` 🍺
 
 ### U
 
@@ -219,6 +220,10 @@
 
 - [Xcode](https://developer.apple.com/xcode/). 
 - [xld](https://tmkk.undo.jp/xld/index_e.html). Lossless audio decoder for macOS.
+
+### Y
+
+- [YACReader](https://www.yacreader.com/) `brew install --cask yacreader`. 🍺
 
 ### Z
 
