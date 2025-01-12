@@ -95,6 +95,7 @@
 ### G
 
 - [Gemini](https://macpaw.com/gemini). Duplicate finder. 🎫
+- Ghostty. `brew install —cask ghostly`
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
 - [GoodLinks](https://apps.apple.com/us/app/goodlinks/id1474335294). 
 
@@ -138,6 +139,7 @@
 - [Maccy](https://maccy.app/). Clipboard. `brew install --cask maccy` 🍺
 - [**mac-cleanup-py**](https://github.com/mac-cleanup/mac-cleanup-py) clean up script for macos. `brew tap mac-cleanup/mac-cleanup-py; brew install mac-cleanup-py` 🍺
 - [Marked 2](https://marked2app.com/) 🎫
+- [`monolith`](https://github.com/Y2Z/monolith).`brew install monolith` 🍺
 - [MultiViewer for F1](https://beta.f1mv.com/)
 - [Musicbrainz Picard](https://picard.musicbrainz.org/)
 - [MusicBox](https://apps.apple.com/us/app/musicbox-save-music-for-later/id1614730313). Bookmark music. 
@@ -196,7 +198,6 @@
 
 ### T
 
-- [Take a break](https://apps.apple.com/us/app/take-a-break-timer-reminder/id1457158844?mt=12). 
 - [Telegram](https://telegram.org/). `brew install --cask telegram` 🍺
 - **[Things 3](https://culturedcode.com/things/)**. The best GTD. 
   - `Ctrl` + `Space`: quick entry.
@@ -248,3 +249,4 @@
 - [喜鹊宋体](https://xiquezaozi.taobao.com/), serif
 - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont), sans-serif
 - [Charis SIL](https://software.sil.org/charis/), serif
+- [Server Mono](https://servermono.com/), monospace

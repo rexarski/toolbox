@@ -45,6 +45,7 @@ For those applications/packages that are not in use.
 - [Spotify](https://open.spotify.com/)
 - [Stats](https://github.com/exelban/stats). System monitor in menu bar. `brew install --cask stats` 🍺
 - [SynologyAssistant](https://www.synology.com/en-us/support/download).
+- [Take a break](https://apps.apple.com/us/app/take-a-break-timer-reminder/id1457158844?mt=12). 
 - [texifier](https://www.texifier.com/) 🎫
 - [Transmit](https://panic.com/transmit/) 🎫
 - [VLC](https://www.videolan.org/) `brew install --cask vlc` 🍺
