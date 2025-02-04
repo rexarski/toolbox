@@ -7,6 +7,7 @@
 - Install [Maestral](https://maestral.app/). Open source Dropbox client, simpler, smaller, less memory needed. `brew install --cask maestral` 🍺
 - Install **[iTerm 2](https://iterm2.com/)**. Terminal, but better than Terminal.
   - Snazzy theme: `(curl -Ls https://raw.githubusercontent.com/sindresorhus/iterm2-snazzy/main/Snazzy.itermcolors > /tmp/Snazzy.itermcolors && open /tmp/Snazzy.itermcolors)`
+  [flexoki/iterm2 at main · kepano/flexoki · GitHub](https://github.com/kepano/flexoki/tree/main/iterm2)
   - [fish](https://fishshell.com/). The friendly interactive shell.
     - Follow this [gist](https://gist.github.com/gagarine/cf3f65f9be6aa0e105b184376f765262) to set `fish` as default
 - Install **[Homebrew](https://brew.sh/)**. THE package manager for macOS. `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
@@ -59,6 +60,7 @@
 - [Beekeeper Studio Community Edition](https://github.com/beekeeper-studio/beekeeper-studio)
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay#readme). Display customization tool. From the same developer of [Monitor Control](https://github.com/MonitorControl/MonitorControl). 🎫
 - [BetterTouchTool](https://folivora.ai), input (not only trackpad!) customization. 🎫
+  - Use Right `Cmd` + `Space` to activate clipboard manager.
 - [bun](https://bun.sh/) `curl -fsSL https://bun.sh/install | bash`
 
 ### C
@@ -70,6 +72,7 @@
 ### D
 
 - [DaisyDisk](https://daisydiskapp.com/). Disk usage in a wind rose diagram. 
+- [Datasette](https://datasette.io/). A tool for exploring and publishing data.
 - **[Day One](https://dayoneapp.com/)** 🔁
 - [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink) 🎫
 - [Discord](https://discord.com/). `brew install --cask discord` 🍺
@@ -136,7 +139,6 @@
 
 ### M
 
-- [Maccy](https://maccy.app/). Clipboard. `brew install --cask maccy` 🍺
 - [**mac-cleanup-py**](https://github.com/mac-cleanup/mac-cleanup-py) clean up script for macos. `brew tap mac-cleanup/mac-cleanup-py; brew install mac-cleanup-py` 🍺
 - [Marked 2](https://marked2app.com/) 🎫
 - [`monolith`](https://github.com/Y2Z/monolith).`brew install monolith` 🍺
@@ -148,6 +150,7 @@
 ### N
 
 - [NetNewsWire](https://ranchero.com/netnewswire/). For RSS. `brew instlal --cask netnewswire` 🍺
+  - [GitHub - frznv/NetNewsWire-Flexoki: Flexoki theme for RSS reader NetNewsWire.](https://github.com/frznv/NetNewsWire-Flexoki)
 - [Nicotine+](https://nicotine-plus.org), a graphical client for Soulseek.
 - [Numi](https://numi.app/). NLP + calculator. `brew install --cask numi` 🍺
 
@@ -195,6 +198,7 @@
 - [skim](https://skim-app.sourceforge.io/). PDF viewer. `brew install --cask skim` 🍺
 - [Sleeve 2](https://replay.software/sleeve). 🎫
 - [Steam](https://store.steampowered.com/)
+- [Synology Drive Client](https://kb.synology.com/en-us/DSM/help/SynologyDriveClient/synologydriveclient?version=7)
 
 ### T
 

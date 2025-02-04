@@ -26,6 +26,7 @@ For those applications/packages that are not in use.
 - [KeyCastr](https://github.com/keycastr/keycastr) `Hyper` + `K`: Toggle capturing
 - Kindle.
 - [LM Studio](https://lmstudio.ai/)
+- [Maccy](https://maccy.app/). Clipboard. `brew install --cask maccy` 🍺
 - [Mactracker](https://mactracker.ca/) 
 - [MiaoYan 妙言](https://github.com/tw93/MiaoYan/)
 - [Moom](https://manytricks.com/moom/) `Cmd` + `Option` + `M`: toggle Moom keyboard control. 🎫
