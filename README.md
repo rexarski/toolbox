@@ -65,6 +65,7 @@
 
 ### C
 
+- [Calendr](https://github.com/pakerwreah/Calendr). Menu bar calendar.
 - [calibre](https://calibre-ebook.com/). E-book management. `brew install --cask calibre` 🍺
   - [calibre-douban](https://github.com/fugary/calibre-douban). 豆瓣插件.
   - [Fix Kindle Ebook Cover](https://github.com/bookfere/Fix-Kindle-Ebook-Cover). A tool to fix damaged cover for Kindle.
@@ -88,7 +89,6 @@
 
 ### F
 
-- **[Fantastical](https://flexibits.com/fantastical)** `Hyper +`F`: create new event/reminder 🎫
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/). 
   - [Motion](https://www.apple.com/final-cut-pro/motion/). 
   - [Compressor](https://www.apple.com/final-cut-pro/compressor/). 

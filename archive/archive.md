@@ -17,6 +17,7 @@ For those applications/packages that are not in use.
 - [coconutBattery](https://coconut-flavour.com/coconutbattery/)
 - [Dark Noise](https://darknoise.app/) 
 - [Darkroom](https://darkroom.co/) 🎫
+- [Fantastical](https://flexibits.com/fantastical) `Hyper +`F`: create new event/reminder 🎫
 - [Figma](https://www.figma.com/)
 - [Fliqlo Flip Clock](https://fliqlo.com/). The classic screensaver.
 - [fruit](https://github.com/Corkscrews/fruit). Retro Apple screensaver.
