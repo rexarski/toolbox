@@ -32,6 +32,7 @@ For those applications/packages that are not in use.
 - [MiaoYan 妙言](https://github.com/tw93/MiaoYan/)
 - [Moom](https://manytricks.com/moom/) `Cmd` + `Option` + `M`: toggle Moom keyboard control. 🎫
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu).
+- [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id639968404?mt=12). Track your packages. 
 - [Pins](https://get-pins.app/) 
 - [Plain Text Editor](https://apps.apple.com/us/app/plain-text-editor/id1572202501?mt=12). 
 - [Pocket Casts](https://pocketcasts.com/) 🎫

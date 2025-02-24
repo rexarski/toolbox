@@ -141,6 +141,7 @@
 
 - [**mac-cleanup-py**](https://github.com/mac-cleanup/mac-cleanup-py) clean up script for macos. `brew tap mac-cleanup/mac-cleanup-py; brew install mac-cleanup-py` 🍺
 - [Marked 2](https://marked2app.com/) 🎫
+- [Min Browser](https://github.com/minbrowser/min). `brew install --cask min` 🍺
 - [`monolith`](https://github.com/Y2Z/monolith).`brew install monolith` 🍺
 - [MultiViewer for F1](https://beta.f1mv.com/)
 - [Musicbrainz Picard](https://picard.musicbrainz.org/)
@@ -163,9 +164,9 @@
 
 ### P
 
-- [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id639968404?mt=12). Track your packages. 
 - [PCalc](https://pcalc.com/) 
 - [PDF Expert](https://pdfexpert.com/) 🎫
+- [Pearcleaner](https://github.com/alienator88/Pearcleaner). A free, source-available and fair-code licensed mac app cleaner. `brew install pearcleaner` 🍺
 - [Permute 3](https://software.charliemonroe.net/permute/) 🎫
 - [PhotoBulk](https://photobulkeditor.com/). Quick photo editor. 
 - [PICO-8](https://www.lexaloffle.com/pico-8.php). Fantasy retro console game engine. 🎫
@@ -202,6 +203,8 @@
 
 ### T
 
+- [Tapestry](https://usetapestry.com/). A unified and chronological timeline of blogs and social media. 
+  - [Tapestry Loom](https://apps.apple.com/us/app/tapestry-loom/id6578414736). 
 - [Telegram](https://telegram.org/). `brew install --cask telegram` 🍺
 - **[Things 3](https://culturedcode.com/things/)**. The best GTD. 
   - `Ctrl` + `Space`: quick entry.
