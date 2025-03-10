@@ -204,7 +204,6 @@
 ### T
 
 - [Tapestry](https://usetapestry.com/). A unified and chronological timeline of blogs and social media. 
-  - [Tapestry Loom](https://apps.apple.com/us/app/tapestry-loom/id6578414736). 
 - [Telegram](https://telegram.org/). `brew install --cask telegram` 🍺
 - **[Things 3](https://culturedcode.com/things/)**. The best GTD. 
   - `Ctrl` + `Space`: quick entry.
