@@ -7,7 +7,6 @@
 - Install [Maestral](https://maestral.app/). Open source Dropbox client, simpler, smaller, less memory needed. `brew install --cask maestral` 🍺
 - Install **[iTerm 2](https://iterm2.com/)**. Terminal, but better than Terminal.
   - Snazzy theme: `(curl -Ls https://raw.githubusercontent.com/sindresorhus/iterm2-snazzy/main/Snazzy.itermcolors > /tmp/Snazzy.itermcolors && open /tmp/Snazzy.itermcolors)`
-  [flexoki/iterm2 at main · kepano/flexoki · GitHub](https://github.com/kepano/flexoki/tree/main/iterm2)
   - [fish](https://fishshell.com/). The friendly interactive shell.
     - Follow this [gist](https://gist.github.com/gagarine/cf3f65f9be6aa0e105b184376f765262) to set `fish` as default
 - Install **[Homebrew](https://brew.sh/)**. THE package manager for macOS. `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
@@ -24,7 +23,6 @@
   - `neovim` <- `vim`
   - `procs` <- `ps`
   - `scc`
-  - `superfile`
   - `tldr`
   - `tre` (`brew install tre-command`) <- `tree`
   - `tmux`
@@ -52,12 +50,12 @@
 - [Affinity Photo 2](https://affinity.serif.com/en-us/photo/). 🎫
 - [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/). 🎫
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12). Keep the machine awake. `Cmd` + `Shift` + `A`: turn on/off 
+- [Anki](https://apps.ankiweb.net/)
 - [Applite](https://github.com/milanvarady/Applite), user-friendly GUI macOS application for Homebrew Casks. `brew install --cask applite` 🍺
 - [Aseprite](https://www.aseprite.org/). A animated pixel art editor. Purchased on [Steam](https://store.steampowered.com/app/431730/Aseprite/). 🎫
 
 ### B
 
-- [Beekeeper Studio Community Edition](https://github.com/beekeeper-studio/beekeeper-studio)
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay#readme). Display customization tool. From the same developer of [Monitor Control](https://github.com/MonitorControl/MonitorControl). 🎫
 - [BetterTouchTool](https://folivora.ai), input (not only trackpad!) customization. 🎫
   - Use Right `Cmd` + `Space` to activate clipboard manager.
@@ -98,7 +96,6 @@
 ### G
 
 - [Gemini](https://macpaw.com/gemini). Duplicate finder. 🎫
-- Ghostty. `brew install —cask ghostly`
 - [GitHub Desktop](https://desktop.github.com/). Easy-to-use Git GUI.
 - [GoodLinks](https://apps.apple.com/us/app/goodlinks/id1474335294). 
 
@@ -151,7 +148,6 @@
 ### N
 
 - [NetNewsWire](https://ranchero.com/netnewswire/). For RSS. `brew instlal --cask netnewswire` 🍺
-  - [GitHub - frznv/NetNewsWire-Flexoki: Flexoki theme for RSS reader NetNewsWire.](https://github.com/frznv/NetNewsWire-Flexoki)
 - [Nicotine+](https://nicotine-plus.org), a graphical client for Soulseek.
 - [Numi](https://numi.app/). NLP + calculator. `brew install --cask numi` 🍺
 
@@ -214,10 +210,6 @@
 ### U
 
 - [upic](https://github.com/gee1k/uPic). Image (and small file) upload tool for macOS. `brew install bigwig-club/brew/upic --cask` 🍺
-
-### V
-
-- [Visual Studio Code](https://code.visualstudio.com/). `brew install --cask visual-studio-code` 🍺
 
 ### W
 

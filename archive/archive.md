@@ -7,8 +7,8 @@ For those applications/packages that are not in use.
 - [Anaconda](https://www.anaconda.com/)
   - `conda config —set auto_activate_base false`. [Do not activate `conda` by default](https://stackoverflow.com/questions/54429210/how-do-i-prevent-conda-from-activating-the-base-environment-by-default).
 - [Android File Transfer](https://www.android.com/filetransfer/)
-- [Anki](https://apps.ankiweb.net/)
 - [Audacity](https://www.audacityteam.org/)
+- [Beekeeper Studio Community Edition](https://github.com/beekeeper-studio/beekeeper-studio)
 - [Blink](https://apps.apple.com/us/app/blink-home-monitor/id1013961111) 
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn). Screensaver inspired by Apple's Event on October 30, 2018.
 - [Buckets](https://www.budgetwithbuckets.com/) 🎫
@@ -21,6 +21,7 @@ For those applications/packages that are not in use.
 - [Figma](https://www.figma.com/)
 - [Fliqlo Flip Clock](https://fliqlo.com/). The classic screensaver.
 - [fruit](https://github.com/Corkscrews/fruit). Retro Apple screensaver.
+- Ghostty. `brew install —cask ghostly`
 - [iMazing 3](https://imazing.com/) 🎫
 - [Itsycal for Mac](https://www.mowglii.com/itsycal/)
 - [julia](https://julialang.org/) `brew install --cask julia` 🍺
@@ -51,6 +52,7 @@ For those applications/packages that are not in use.
 - [Take a break](https://apps.apple.com/us/app/take-a-break-timer-reminder/id1457158844?mt=12). 
 - [texifier](https://www.texifier.com/) 🎫
 - [Transmit](https://panic.com/transmit/) 🎫
+- [Visual Studio Code](https://code.visualstudio.com/). `brew install --cask visual-studio-code` 🍺
 - [VLC](https://www.videolan.org/) `brew install --cask vlc` 🍺
 - [Yoink](https://eternalstorms.at/yoink/mac/) 
 - [Zoom](https://zoom.us/)
