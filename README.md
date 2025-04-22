@@ -124,6 +124,7 @@
   - Double press cmd and hold to activate the cheatsheet.
   - Double press cmd and quick release to activate Siri.
   - `brew install —cask keyclu` 🍺
+- [Klack](https://tryklack.com/). Fun app with keyboard sound. 
 
 ### L
 
@@ -195,6 +196,8 @@
 - [skim](https://skim-app.sourceforge.io/). PDF viewer. `brew install --cask skim` 🍺
 - [Sleeve 2](https://replay.software/sleeve). 🎫
 - [Steam](https://store.steampowered.com/)
+  - [`balatro-mod-manager`](https://github.com/skyline69/balatro-mod-manager)
+    - [`bunco`](https://github.com/Firch/Bunco)
 - [Synology Drive Client](https://kb.synology.com/en-us/DSM/help/SynologyDriveClient/synologydriveclient?version=7)
 
 ### T
