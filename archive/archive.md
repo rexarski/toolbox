@@ -17,6 +17,7 @@ For those applications/packages that are not in use.
 - [coconutBattery](https://coconut-flavour.com/coconutbattery/)
 - [Dark Noise](https://darknoise.app/) 
 - [Darkroom](https://darkroom.co/) 🎫
+- [Day One](https://dayoneapp.com/). 🔁
 - [Fantastical](https://flexibits.com/fantastical) `Hyper +`F`: create new event/reminder 🎫
 - [Figma](https://www.figma.com/)
 - [Fliqlo Flip Clock](https://fliqlo.com/). The classic screensaver.
@@ -32,6 +33,7 @@ For those applications/packages that are not in use.
 - [Mactracker](https://mactracker.ca/) 
 - [MiaoYan 妙言](https://github.com/tw93/MiaoYan/)
 - [Moom](https://manytricks.com/moom/) `Cmd` + `Option` + `M`: toggle Moom keyboard control. 🎫
+- [NetNewsWire](https://ranchero.com/netnewswire/). For RSS. `brew instlal --cask netnewswire` 🍺
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu).
 - [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id639968404?mt=12). Track your packages. 
 - [Pins](https://get-pins.app/) 
@@ -39,7 +41,6 @@ For those applications/packages that are not in use.
 - [Pocket Casts](https://pocketcasts.com/) 🎫
 - [Processing](https://processing.org/)
 - [Quitter](https://marco.org/apps)
-- [Reeder](https://reeder.app) 🔁.
 - [Reeder 5 -> Reeder Classic](https://reederapp.com/). 
 - [RIME | 中州韵输入法](https://rime.im/). "Rime Input Method Engine, rimes with your keystrokes."
   - [东风破](https://github.com/rime/plum)
@@ -49,6 +50,7 @@ For those applications/packages that are not in use.
 - [Spotify](https://open.spotify.com/)
 - [Stats](https://github.com/exelban/stats). System monitor in menu bar. `brew install --cask stats` 🍺
 - [SynologyAssistant](https://www.synology.com/en-us/support/download).
+- [Synology Drive Client](https://kb.synology.com/en-us/DSM/help/SynologyDriveClient/synologydriveclient?version=7)
 - [Take a break](https://apps.apple.com/us/app/take-a-break-timer-reminder/id1457158844?mt=12). 
 - [texifier](https://www.texifier.com/) 🎫
 - [Transmit](https://panic.com/transmit/) 🎫

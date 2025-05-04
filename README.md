@@ -72,8 +72,8 @@
 
 - [DaisyDisk](https://daisydiskapp.com/). Disk usage in a wind rose diagram. 
 - [Datasette](https://datasette.io/). A tool for exploring and publishing data.
-- **[Day One](https://dayoneapp.com/)** 🔁
-- [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink) 🎫
+- [Deliveries](https://deliveries.app/en.html). 
+- [DEVONthink 4](https://www.devontechnologies.com/apps/devonthink) 🎫
 - [Discord](https://discord.com/). `brew install --cask discord` 🍺
 - [Downie](https://software.charliemonroe.net/downie/) 🎫
 - **[Drafts](https://getdrafts.com/)**. For drafting. 🔁
@@ -148,7 +148,6 @@
 
 ### N
 
-- [NetNewsWire](https://ranchero.com/netnewswire/). For RSS. `brew instlal --cask netnewswire` 🍺
 - [Nicotine+](https://nicotine-plus.org), a graphical client for Soulseek.
 - [Numi](https://numi.app/). NLP + calculator. `brew install --cask numi` 🍺
 
@@ -161,12 +160,14 @@
 
 ### P
 
+- [PasteBot](https://tapbots.com/pastebot/) 🎫
 - [PCalc](https://pcalc.com/) 
 - [PDF Expert](https://pdfexpert.com/) 🎫
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner). A free, source-available and fair-code licensed mac app cleaner. `brew install pearcleaner` 🍺
 - [Permute 3](https://software.charliemonroe.net/permute/) 🎫
 - [PhotoBulk](https://photobulkeditor.com/). Quick photo editor. 
 - [PICO-8](https://www.lexaloffle.com/pico-8.php). Fantasy retro console game engine. 🎫
+- [Pictogram](https://pictogramapp.com/). Only to replace Zen Browser and X Raw Studios' icons.
 - [Picotron](https://www.lexaloffle.com/picotron.php). A fantasy workstation. 🎫
 - [Play](https://apps.apple.com/cn/app/play-save-videos-watch-later/id1596506190). Watch it later(s). 
 - [Plex](https://www.plex.tv/). `brew install --cask plex` 🍺
@@ -179,6 +180,7 @@
 ### R
 
 - [R](https://www.r-project.org/).
+- [Reeder](https://reeder.app) 🔁.
 - [RStudio](https://www.rstudio.com/). IDE for R.
 - [Raycast](https://www.raycast.com/). Extendable launcher substitute to Spotlight, with an extension store. `Cmd` + `Space`: Activate Raycast. (Disable this shortcut for Spotlight) `brew install --cask raycast` 🍺
 - [Reminders Menubar](https://github.com/DamascenoRafael/reminders-menubar) `brew install --cask reminders-menubar` 🍺]
@@ -188,6 +190,7 @@
 ### S
 
 - [Sequel](https://www.getsequel.app/). Keep track of the movies, shows, games, books and audiobooks. 
+- [Shareful](https://sindresorhus.com/shareful). 
 - [Shottr](https://shottr.cc/). Great substitute to CleanShot X. 🎫
   - `Cmd` + `Shift` + `3` = Shottr area screenshot
   - `Cmd` + `Shift` + `4` = Shottr active window screenshot
@@ -197,8 +200,6 @@
 - [Sleeve 2](https://replay.software/sleeve). 🎫
 - [Steam](https://store.steampowered.com/)
   - [`balatro-mod-manager`](https://github.com/skyline69/balatro-mod-manager)
-    - [`bunco`](https://github.com/Firch/Bunco)
-- [Synology Drive Client](https://kb.synology.com/en-us/DSM/help/SynologyDriveClient/synologydriveclient?version=7)
 
 ### T
 
